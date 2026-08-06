@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Scratch build output — packaged artifacts live under submissions/
+/submission.tar.gz
+
+# Large re-downloadable artifacts.
+#   kaggle competitions replay <EPISODE_ID> -p ./replays
+replays/*.json
+# Official starter notebook (~23 MB), fetched from the competition page.
+/kaggriculture-getting-started.ipynb
+
+# macOS
+.DS_Store

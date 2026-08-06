@@ -1,0 +1,25 @@
+{
+  "index": 1,
+  "id": "001",
+  "version": "v21.2",
+  "message": "v21.2: public-copy detection, one-step SELL front-running, step-717 terminal pre-dump",
+  "built_utc": "2026-08-06T10:53:46Z",
+  "archive": "submission-001.tar.gz",
+  "archive_sha256": "62cb0b2013b2707e5f474d965448b480d2a64247fa3674cb8a52e5bae3bacbf7",
+  "main_sha256": "5ac3cdf21fdadeba405be70669b91dbd792cb46eeccf1b54541ffb7623c690da",
+  "main_bytes": 438808,
+  "base_artifact": "public_v211.py",
+  "base_artifact_sha256": "d9dc24ce5429ec628ead0621a160bee90725350683d7dfcc4686fcaf511f3aab",
+  "params": {
+    "base_proto_index": 11,
+    "mirror_threshold": 8.0
+  },
+  "calibration": {
+    "best": 11,
+    "copy_max": 0.25,
+    "noncopy_min": 98.1
+  },
+  "submitted": null,
+  "result": null,
+  "notes": "Archived verbatim from the pre-existing repo-root submission.tar.gz, so these are the original bytes. This build has CRLF line endings; the current root main.py is the same source rebuilt with LF (sha256 96f61251c4774609d2e09027608f9edef7cba24d40447ca0e124a30240b77e50, 433619 bytes), content-identical apart from line endings. Submission status could not be verified - the Kaggle CLI is not installed on this machine."
+}
