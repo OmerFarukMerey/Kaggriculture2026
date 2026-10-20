@@ -1,0 +1,15 @@
+opp=readmarket.py seed=5000 seat=0 | EDGED 125608.0000/117866.0000 m=+7742.0000 | STOCK 126177.0000/117907.0000 m=+8270.0000 | DRIFT -528.0000 | tel={'borrows': 82, 'units': 419, 'repays': 82, 'gated_out': 0, 'last_distance': 51}
+opp=readmarket.py seed=5000 seat=1 | EDGED 125608.0000/117866.0000 m=+7742.0000 | STOCK 126177.0000/117907.0000 m=+8270.0000 | DRIFT -528.0000 | tel={'borrows': 82, 'units': 419, 'repays': 82, 'gated_out': 0, 'last_distance': 51}
+opp=readmarket.py seed=5013 seat=0 | EDGED 80130.0000/70348.0000 m=+9782.0000 | STOCK 80409.0000/70485.0000 m=+9924.0000 | DRIFT -142.0000 | tel={'borrows': 82, 'units': 419, 'repays': 82, 'gated_out': 0, 'last_distance': 51}
+opp=readmarket.py seed=5013 seat=1 | EDGED 80130.0000/70348.0000 m=+9782.0000 | STOCK 80409.0000/70485.0000 m=+9924.0000 | DRIFT -142.0000 | tel={'borrows': 82, 'units': 419, 'repays': 82, 'gated_out': 0, 'last_distance': 51}
+SUMMARY readmarket.py: games=4 nonzero_drift=4 mean_edged=+8762.0000 mean_stock=+9097.0000 total_abs_drift=1340.0000
+opp=rayk_c94.py seed=5000 seat=0 | EDGED 112975.0000/100164.0000 m=+12811.0000 | STOCK 113430.0000/100230.0000 m=+13200.0000 | DRIFT -389.0000 | tel={'borrows': 81, 'units': 415, 'repays': 81, 'gated_out': 0, 'last_distance': 20}
+opp=rayk_c94.py seed=5000 seat=1 | EDGED 111594.0000/99082.0000 m=+12512.0000 | STOCK 112016.0000/99151.0000 m=+12865.0000 | DRIFT -353.0000 | tel={'borrows': 80, 'units': 409, 'repays': 80, 'gated_out': 0, 'last_distance': 20}
+opp=rayk_c94.py seed=5013 seat=0 | EDGED 110266.0000/94595.0000 m=+15671.0000 | STOCK 110431.0000/94545.0000 m=+15886.0000 | DRIFT -215.0000 | tel={'borrows': 81, 'units': 415, 'repays': 81, 'gated_out': 0, 'last_distance': 20}
+opp=rayk_c94.py seed=5013 seat=1 | EDGED 94580.0000/80670.0000 m=+13910.0000 | STOCK 94885.0000/80696.0000 m=+14189.0000 | DRIFT -279.0000 | tel={'borrows': 81, 'units': 415, 'repays': 81, 'gated_out': 0, 'last_distance': 20}
+SUMMARY rayk_c94.py: games=4 nonzero_drift=4 mean_edged=+13726.0000 mean_stock=+14035.0000 total_abs_drift=1236.0000
+opp=tetsu_esc.py seed=5000 seat=0 | EDGED 151461.0000/141681.0000 m=+9780.0000 | STOCK 151775.0000/141701.0000 m=+10074.0000 | DRIFT -294.0000 | tel={'borrows': 82, 'units': 419, 'repays': 82, 'gated_out': 0, 'last_distance': 48}
+opp=tetsu_esc.py seed=5000 seat=1 | EDGED 151461.0000/141681.0000 m=+9780.0000 | STOCK 151775.0000/141701.0000 m=+10074.0000 | DRIFT -294.0000 | tel={'borrows': 82, 'units': 419, 'repays': 82, 'gated_out': 0, 'last_distance': 48}
+opp=tetsu_esc.py seed=5013 seat=0 | EDGED 90512.0000/77625.0000 m=+12887.0000 | STOCK 90884.0000/77698.0000 m=+13186.0000 | DRIFT -299.0000 | tel={'borrows': 82, 'units': 419, 'repays': 82, 'gated_out': 0, 'last_distance': 48}
+opp=tetsu_esc.py seed=5013 seat=1 | EDGED 90512.0000/77625.0000 m=+12887.0000 | STOCK 90884.0000/77698.0000 m=+13186.0000 | DRIFT -299.0000 | tel={'borrows': 82, 'units': 419, 'repays': 82, 'gated_out': 0, 'last_distance': 48}
+SUMMARY tetsu_esc.py: games=4 nonzero_drift=4 mean_edged=+11333.5000 mean_stock=+11630.0000 total_abs_drift=1186.0000

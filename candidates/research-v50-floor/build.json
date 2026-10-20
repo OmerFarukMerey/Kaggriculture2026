@@ -1,0 +1,15 @@
+{
+  "source": "candidates\\research-v50-floor\\main.py",
+  "sha256": "30a841bd9b229e6ec1c6c0c80f8d6751ef2531626b8338943d2a5dfbd189ea1f",
+  "module_sha256": {
+    "_engine": "19a3042b8b09a37d6e2835f0cec8ad2e8963b659f4b5b35b6f660bb467d3f377",
+    "mechanics": "e612ccf808516e5c3d0a7987b28ba8eaaa43cb4f6a4291f01086868b41d336bd",
+    "data": "310278794f19adb4f9d7fab8f3ec48947a29e81811caba21bea55e22f5e0c0b6",
+    "production": "c3a42f2a10a2e006047124d4b1b28b5818a251d46bcaa879465b629ea4054d41",
+    "market": "c38c77aec390ed00f663dcaf002a5353078416fbe56a13b0d7305d394cd17bcd"
+  },
+  "reused": [
+    "v48/v46 measured physical schedules",
+    "kaggle-environments 1.32.7 deterministic rules"
+  ]
+}

@@ -1,0 +1,4 @@
+0/21 6s ep100228223 best=0.99
+10/21 63s ep102169892 best=0.10
+20/21 120s ep103397800 best=0.50
+wrote analysis\fp\shard13.json 21 120s

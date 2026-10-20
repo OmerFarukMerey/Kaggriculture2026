@@ -1,0 +1,374 @@
+OpenSpiel exception: Unknown game 'universal_poker'. Available games are:
+2048
+add_noise
+amazons
+amazons_proxy
+ant_foraging_arena
+antichess
+backgammon
+backgammon_proxy
+banqi
+bargaining
+bargaining_proxy
+battleship
+blackjack
+blotto
+breakthrough
+breakthrough_proxy
+bridge
+bridge_arena
+bridge_uncontested_bidding
+cached_tree
+capture_the_flag
+capture_the_flag_proxy
+catch
+chat_game
+checkers
+checkers_proxy
+chess
+chinese_checkers
+cliff_walking
+clobber
+clobber_proxy
+coin_game
+coin_game_arena
+coin_game_proxy
+colored_trails
+connect_four
+connect_four_proxy
+coop_box_pushing
+coop_to_1p
+coordinated_mp
+crazy_eights
+crazyhouse
+cribbage
+crossword
+cursor_go
+dark_chess
+dark_hex
+dark_hex_ir
+dark_hex_proxy
+deep_sea
+dots_and_boxes
+dots_and_boxes_proxy
+dou_dizhu
+efg_game
+einstein_wurfelt_nicht
+euchre
+first_sealed_auction
+gin_rummy
+gin_rummy_proxy
+go
+go_fish
+go_fish_proxy
+go_proxy
+gomoku
+goofspiel
+havannah
+havannah_proxy
+hearts
+hex
+hive
+hive_proxy
+kriegspiel
+kuhn_poker
+laser_tag
+latent_ttt
+leduc_poker
+lewis_signaling
+liars_dice
+liars_dice_ir
+lines_of_action
+lines_of_action_proxy
+maedn
+mancala
+mancala_proxy
+markov_soccer
+markov_soccer_proxy
+matching_pennies_3p
+matrix_bos
+matrix_brps
+matrix_cd
+matrix_coordination
+matrix_mp
+matrix_pd
+matrix_rps
+matrix_rpsw
+matrix_sh
+matrix_shapleys_game
+mfg_crowd_modelling
+mfg_crowd_modelling_2d
+mfg_dynamic_routing
+mfg_garnet
+misere
+mnk
+morpion_solitaire
+negotiation
+negotiation_proxy
+nfg_game
+nim
+nine_mens_morris
+nine_mens_morris_proxy
+normal_form_extensive_game
+oh_hell
+oshi_zumo
+oshi_zumo_proxy
+othello
+othello_proxy
+oware
+pathfinding
+pentago
+phantom_go
+phantom_ttt
+phantom_ttt_ir
+pig
+python_ant_foraging
+python_ant_foraging_proxy
+python_block_dominoes
+python_dynamic_routing
+python_hangman
+python_iterated_prisoners_dilemma
+python_kuhn_poker
+python_liars_poker
+python_pokerkit_wrapper
+python_pokerkit_wrapper_acpc_style
+python_repeated_pokerkit
+python_team_dominoes
+python_tic_tac_toe
+quoridor
+rbc
+repeated_game
+repeated_leduc_poker
+restricted_nash_response
+sheriff
+shogi
+shogi_proxy
+skat
+snake
+snake_proxy
+social_deduction
+solitaire
+spades
+start_at
+stones_and_gems
+tarok
+tic_tac_toe
+tiny_bridge_2p
+tiny_bridge_4p
+tiny_hanabi
+trade_comm
+turn_based_simultaneous_game
+twixt
+ultimate_tic_tac_toe
+ultimate_tic_tac_toe_proxy
+xiangqi
+y
+y_proxy
+yacht
+zerosum
+OpenSpiel exception: Unknown game 'repeated_poker'. Available games are:
+2048
+add_noise
+amazons
+amazons_proxy
+ant_foraging_arena
+antichess
+backgammon
+backgammon_proxy
+banqi
+bargaining
+bargaining_proxy
+battleship
+blackjack
+blotto
+breakthrough
+breakthrough_proxy
+bridge
+bridge_arena
+bridge_uncontested_bidding
+cached_tree
+capture_the_flag
+capture_the_flag_proxy
+catch
+chat_game
+checkers
+checkers_proxy
+chess
+chinese_checkers
+cliff_walking
+clobber
+clobber_proxy
+coin_game
+coin_game_arena
+coin_game_proxy
+colored_trails
+connect_four
+connect_four_proxy
+coop_box_pushing
+coop_to_1p
+coordinated_mp
+crazy_eights
+crazyhouse
+cribbage
+crossword
+cursor_go
+dark_chess
+dark_hex
+dark_hex_ir
+dark_hex_proxy
+deep_sea
+dots_and_boxes
+dots_and_boxes_proxy
+dou_dizhu
+efg_game
+einstein_wurfelt_nicht
+euchre
+first_sealed_auction
+gin_rummy
+gin_rummy_proxy
+go
+go_fish
+go_fish_proxy
+go_proxy
+gomoku
+goofspiel
+havannah
+havannah_proxy
+hearts
+hex
+hive
+hive_proxy
+kriegspiel
+kuhn_poker
+laser_tag
+latent_ttt
+leduc_poker
+lewis_signaling
+liars_dice
+liars_dice_ir
+lines_of_action
+lines_of_action_proxy
+maedn
+mancala
+mancala_proxy
+markov_soccer
+markov_soccer_proxy
+matching_pennies_3p
+matrix_bos
+matrix_brps
+matrix_cd
+matrix_coordination
+matrix_mp
+matrix_pd
+matrix_rps
+matrix_rpsw
+matrix_sh
+matrix_shapleys_game
+mfg_crowd_modelling
+mfg_crowd_modelling_2d
+mfg_dynamic_routing
+mfg_garnet
+misere
+mnk
+morpion_solitaire
+negotiation
+negotiation_proxy
+nfg_game
+nim
+nine_mens_morris
+nine_mens_morris_proxy
+normal_form_extensive_game
+oh_hell
+oshi_zumo
+oshi_zumo_proxy
+othello
+othello_proxy
+oware
+pathfinding
+pentago
+phantom_go
+phantom_ttt
+phantom_ttt_ir
+pig
+python_ant_foraging
+python_ant_foraging_proxy
+python_block_dominoes
+python_dynamic_routing
+python_hangman
+python_iterated_prisoners_dilemma
+python_kuhn_poker
+python_liars_poker
+python_pokerkit_wrapper
+python_pokerkit_wrapper_acpc_style
+python_repeated_pokerkit
+python_team_dominoes
+python_tic_tac_toe
+quoridor
+rbc
+repeated_game
+repeated_leduc_poker
+restricted_nash_response
+sheriff
+shogi
+shogi_proxy
+skat
+snake
+snake_proxy
+social_deduction
+solitaire
+spades
+start_at
+stones_and_gems
+tarok
+tic_tac_toe
+tiny_bridge_2p
+tiny_bridge_4p
+tiny_hanabi
+trade_comm
+turn_based_simultaneous_game
+twixt
+ultimate_tic_tac_toe
+ultimate_tic_tac_toe_proxy
+xiangqi
+y
+y_proxy
+yacht
+zerosum
+101949158 vkhydras               m= -10173 rev us=  80,118 them= 113,285 (5s)
+101928995 Gaddam Shiva Teja      m=  -9956 rev us= 100,216 them= 129,535 (6s)
+101909026 Kaileh57               m=  -3628 rev us= 124,258 them= 145,501 (5s)
+101888962 Semyon Epanov          m= -10038 rev us= 108,176 them= 121,552 (6s)
+101837809 yy                     m=  -5175 rev us= 144,411 them= 152,264 (5s)
+101692230 ИТМОНИ AI B2B 67 Saa   m=  -7519 rev us= 134,059 them= 140,926 (6s)
+101689996 vkhydras               m=  +2516 rev us= 126,084 them= 131,605 (6s)
+101665444 Hanserong              m=  -3597 rev us=  94,421 them= 100,577 (6s)
+101647778 Kaileh57               m= -18898 rev us=  64,500 them= 101,860 (6s)
+101632211 srijan k.r keshri      m=  -3086 rev us= 126,731 them= 133,980 (5s)
+101632131 smsxgz                 m=  -4009 rev us= 106,839 them= 111,223 (5s)
+101616501 srijan k.r keshri      m=  -6927 rev us= 170,197 them= 179,783 (6s)
+101504818 ИТМОНИ AI B2B 67 Saa   m= -14145 rev us= 122,871 them= 137,627 (6s)
+101493660 Bohannn Wang           m=  -6316 rev us= 126,344 them= 153,071 (6s)
+101446643 Bohannn Wang           m= -10971 rev us= 130,049 them= 158,859 (6s)
+101422203 Bửu Phạm Quốc          m=   -988 rev us= 101,125 them= 105,585 (6s)
+101417723 Bửu Phạm Quốc          m=  +7909 rev us= 125,760 them= 118,033 (6s)
+101348435 Kaileh57               m= -15033 rev us= 118,996 them= 134,216 (6s)
+101328297 Kaileh57               m=  -9697 rev us=  63,685 them=  73,562 (6s)
+101035661 Dmitry Larko           m=  +1537 rev us= 129,008 them= 127,426 (6s)
+100853013 yy                     m=  +1673 rev us=  98,369 them= 101,112 (6s)
+100841552 yy                     m=  -4062 rev us= 143,932 them= 150,733 (7s)
+100469608 lucaskna               m= -17062 rev us= 100,025 them= 202,389 (6s)
+100301098 srijan k.r keshri      m= -18321 rev us=  73,034 them=  85,949 (7s)
+100287270 tangaii                m=  -2737 rev us= 141,013 them= 143,701 (6s)
+
+item             US rev    OPP rev       diff
+WHEAT             8,743     19,389    +10,646
+FERTILIZER       12,371     16,304     +3,933
+MELON            12,184     15,426     +3,242
+MILK             28,205     31,109     +2,904
+EGG                   0        387       +387
+TOMATO                0        367       +367
+CARROT            1,905        881     -1,024
+STRAWBERRY       29,315     27,771     -1,544
+WOOL             21,447     18,539     -2,907
+TOTAL           114,169    130,174    +16,005
+mkt spend        16,742     26,752    +10,010

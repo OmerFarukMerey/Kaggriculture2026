@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-09-29T13:07:56.167495+00:00",
+  "ref": 56676239,
+  "status": "COMPLETE",
+  "date": "2026-09-29 13:02:23.833000",
+  "description": "v50: original market policy + own v46 farming. 8 unseen paired seeds: 10-6 vs each v46/v48/v49; common field 32-16 vs v48 34-10-4. Verified standalone. SHA 97865d7e8ad3.",
+  "public_score": "600.0",
+  "recent_refs": [
+    56676239,
+    56666488,
+    56635809
+  ]
+}

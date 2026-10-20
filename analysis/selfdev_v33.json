@@ -1,0 +1,572 @@
+[
+ {
+  "episode": "102161006",
+  "opp": "Jiahan Cao",
+  "outcome": "WIN",
+  "margin": 31409.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102163244",
+  "opp": "Vignesh Murugan",
+  "outcome": "WIN",
+  "margin": 120378.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102165464",
+  "opp": "Zhou Haonan",
+  "outcome": "WIN",
+  "margin": 14205.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102167676",
+  "opp": "Natnael Yerga",
+  "outcome": "WIN",
+  "margin": 10697.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102167837",
+  "opp": "esis_ai",
+  "outcome": "WIN",
+  "margin": 36183.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102169892",
+  "opp": "Touhidul Alam Seyam",
+  "outcome": "WIN",
+  "margin": 25749.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102172136",
+  "opp": "Sercan Ye\u015fil\u00f6z",
+  "outcome": "LOSS",
+  "margin": -18452.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102174371",
+  "opp": "Abhiram Anil",
+  "outcome": "WIN",
+  "margin": 17659.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102176612",
+  "opp": "Albert Wang",
+  "outcome": "WIN",
+  "margin": 16683.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102178845",
+  "opp": "sagar tripathy",
+  "outcome": "WIN",
+  "margin": 5495.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102181085",
+  "opp": "Sri Jayavel K",
+  "outcome": "LOSS",
+  "margin": -1123.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102183325",
+  "opp": "ocha_heaven",
+  "outcome": "LOSS",
+  "margin": -66.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102185584",
+  "opp": "danilka200300",
+  "outcome": "WIN",
+  "margin": 4930.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102187809",
+  "opp": "\u53e4\u5fb7\u62dc\u5403",
+  "outcome": "WIN",
+  "margin": 16038.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102190058",
+  "opp": "Kazama Yusuke",
+  "outcome": "WIN",
+  "margin": 5210.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102192244",
+  "opp": "\u517b\u4e86\u4e00\u7fa4\u626b\u798f\u745e",
+  "outcome": "WIN",
+  "margin": 3209.0,
+  "dev": 126,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   233
+  ]
+ },
+ {
+  "episode": "102192293",
+  "opp": "Prashant",
+  "outcome": "WIN",
+  "margin": 21988.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102194526",
+  "opp": "oh-Artistburger-AHA-TastyMeat!",
+  "outcome": "WIN",
+  "margin": 11783.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102196765",
+  "opp": "straw_Yu",
+  "outcome": "WIN",
+  "margin": 13704.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102199002",
+  "opp": "Mohammad Javad Dianat",
+  "outcome": "WIN",
+  "margin": 11804.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102201230",
+  "opp": "pns",
+  "outcome": "WIN",
+  "margin": 10675.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102203469",
+  "opp": "anvai_agents",
+  "outcome": "LOSS",
+  "margin": -7291.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102205724",
+  "opp": "Manav",
+  "outcome": "LOSS",
+  "margin": -7957.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102207965",
+  "opp": "StephenNedumpally",
+  "outcome": "WIN",
+  "margin": 1431.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102210202",
+  "opp": "Abhiram 9803",
+  "outcome": "WIN",
+  "margin": 10329.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102212444",
+  "opp": "quantara.cv",
+  "outcome": "WIN",
+  "margin": 3905.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102214680",
+  "opp": "Mandy Lin",
+  "outcome": "WIN",
+  "margin": 279.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102216918",
+  "opp": "Anh Tu",
+  "outcome": "LOSS",
+  "margin": -6534.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102219153",
+  "opp": "ZHOU HONGYI",
+  "outcome": "WIN",
+  "margin": 20938.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102221390",
+  "opp": "Paul Nassiri",
+  "outcome": "WIN",
+  "margin": 11881.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102223640",
+  "opp": "Ficu\u221e$",
+  "outcome": "WIN",
+  "margin": 872.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102225874",
+  "opp": "Emon xu",
+  "outcome": "WIN",
+  "margin": 9541.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102228108",
+  "opp": "patience",
+  "outcome": "LOSS",
+  "margin": -3205.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102230350",
+  "opp": "Prime Leo",
+  "outcome": "LOSS",
+  "margin": -2017.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102232592",
+  "opp": "Papa Annan",
+  "outcome": "WIN",
+  "margin": 23223.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102234839",
+  "opp": "Habil Tobi",
+  "outcome": "WIN",
+  "margin": 8337.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102237076",
+  "opp": "williamrawling",
+  "outcome": "LOSS",
+  "margin": -2290.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102239313",
+  "opp": "Berat Egemen G\u00f6k",
+  "outcome": "WIN",
+  "margin": 5353.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102241546",
+  "opp": "Akshay #2",
+  "outcome": "WIN",
+  "margin": 12589.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102243787",
+  "opp": "groots",
+  "outcome": "LOSS",
+  "margin": -3351.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102246028",
+  "opp": "Tapabrata Biswas",
+  "outcome": "WIN",
+  "margin": 16418.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102248258",
+  "opp": "qr farm",
+  "outcome": "LOSS",
+  "margin": -8044.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102250547",
+  "opp": "Sami Cakiral",
+  "outcome": "WIN",
+  "margin": 2033.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102252732",
+  "opp": "HydFarms",
+  "outcome": "LOSS",
+  "margin": -4945.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102254963",
+  "opp": "ubcict232",
+  "outcome": "LOSS",
+  "margin": -1200.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102257195",
+  "opp": "Singaraj B",
+  "outcome": "WIN",
+  "margin": 14049.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102259425",
+  "opp": "Nat Bel ML Fun",
+  "outcome": "WIN",
+  "margin": 6062.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102261669",
+  "opp": "T0m0t0m0 W",
+  "outcome": "LOSS",
+  "margin": -13668.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102263909",
+  "opp": "mushichou4",
+  "outcome": "WIN",
+  "margin": 7349.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102266146",
+  "opp": "Utkarsh Prakash Srivastava",
+  "outcome": "LOSS",
+  "margin": -346.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102268381",
+  "opp": "teraSurfer40141",
+  "outcome": "WIN",
+  "margin": 6370.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102270608",
+  "opp": "musya lyusya team",
+  "outcome": "WIN",
+  "margin": 9233.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102272841",
+  "opp": "Umut Keltek",
+  "outcome": "WIN",
+  "margin": 13643.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102275080",
+  "opp": "Top 1 \ud83c\udfc6",
+  "outcome": "WIN",
+  "margin": 5488.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102281765",
+  "opp": "Zyy7390",
+  "outcome": "WIN",
+  "margin": 7786.0,
+  "dev": 111,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   241
+  ]
+ },
+ {
+  "episode": "102299711",
+  "opp": "Sheep \ud83d\udc11",
+  "outcome": "WIN",
+  "margin": 12432.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102308602",
+  "opp": "Kurian George",
+  "outcome": "WIN",
+  "margin": 5028.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102339928",
+  "opp": "Maxy5illion",
+  "outcome": "WIN",
+  "margin": 8904.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102377854",
+  "opp": "tingyu516",
+  "outcome": "WIN",
+  "margin": 8356.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102393247",
+  "opp": "aisamhottman",
+  "outcome": "LOSS",
+  "margin": -1785.0,
+  "dev": 157,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   241
+  ]
+ },
+ {
+  "episode": "102413306",
+  "opp": "Carson Zhang",
+  "outcome": "LOSS",
+  "margin": -4748.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102438102",
+  "opp": "uninhibited-scholar",
+  "outcome": "WIN",
+  "margin": 11337.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ }
+]

@@ -1,0 +1,4 @@
+0/21 6s ep100230496 best=1.00
+10/21 63s ep102172136 best=0.88
+20/21 120s ep103397884 best=0.50
+wrote analysis\fp\shard14.json 21 120s

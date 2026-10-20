@@ -1,0 +1,111 @@
+{
+ "agents": {
+  "gtmq": "candidates/cand-gt-mq/main.py",
+  "v48mq": "candidates/cand-v48-mq/main.py",
+  "gt": "../kaggriculture-candidates/final/game-theoretic-master-discrete-optimizat/main.py",
+  "v48": "submissions/v48-2965-mirrorgate/main.py",
+  "herdwin": "../kaggriculture-candidates/final/kaggriculture-herd-safe-sale-window-subm/main.py",
+  "v57s": "../kaggriculture-candidates/final/kaggriculture-v57-funding-order-invarian/main.py",
+  "mshock": "submissions/final1-marketshock/main.py",
+  "v46": "submissions/v46-platform/main.py",
+  "v50": "submissions/v50-adaptive-economy/main.py",
+  "godmode": "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+  "v53s": "../kaggriculture-candidates/final/kaggriculture-v53-opening-signature/main.py"
+ },
+ "pairs": [
+  [
+   "gtmq",
+   "gt"
+  ],
+  [
+   "gtmq",
+   "v48"
+  ],
+  [
+   "v48mq",
+   "v48"
+  ],
+  [
+   "v48mq",
+   "gt"
+  ],
+  [
+   "gt",
+   "v48"
+  ],
+  [
+   "gtmq",
+   "herdwin"
+  ],
+  [
+   "gt",
+   "herdwin"
+  ],
+  [
+   "gtmq",
+   "v57s"
+  ],
+  [
+   "gt",
+   "v57s"
+  ],
+  [
+   "gtmq",
+   "mshock"
+  ],
+  [
+   "gt",
+   "mshock"
+  ],
+  [
+   "gtmq",
+   "v46"
+  ],
+  [
+   "gt",
+   "v46"
+  ],
+  [
+   "gtmq",
+   "v50"
+  ],
+  [
+   "gt",
+   "v50"
+  ],
+  [
+   "gtmq",
+   "godmode"
+  ],
+  [
+   "gt",
+   "godmode"
+  ],
+  [
+   "gtmq",
+   "v53s"
+  ],
+  [
+   "gt",
+   "v53s"
+  ]
+ ],
+ "seeds": [
+  63001,
+  63002,
+  63003,
+  63004,
+  63005,
+  63006,
+  63007,
+  63008,
+  63009,
+  63010,
+  63011,
+  63012
+ ],
+ "seats": [
+  0,
+  1
+ ]
+}

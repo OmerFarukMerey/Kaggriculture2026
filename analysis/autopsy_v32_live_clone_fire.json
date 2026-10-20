@@ -1,0 +1,1602 @@
+[
+ {
+  "episode": "102074315",
+  "opponent": "theredbluepill",
+  "outcome": "WIN",
+  "margin": 5710.0,
+  "opp_match": 0.016666666666666666,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "102051871",
+  "opponent": "YJR",
+  "outcome": "LOSS",
+  "margin": -26656.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "102043035",
+  "opponent": "Lenin Goud",
+  "outcome": "WIN",
+  "margin": 1922.0,
+  "opp_match": 1.0,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "102023008",
+  "opponent": "Stephen Schott",
+  "outcome": "LOSS",
+  "margin": -6082.0,
+  "opp_match": 0.9083333333333333,
+  "dev": 2,
+  "tot": 340,
+  "firstdev": 243
+ },
+ {
+  "episode": "101991667",
+  "opponent": "Lenin Goud",
+  "outcome": "WIN",
+  "margin": 5122.0,
+  "opp_match": 1.0,
+  "dev": 30,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101949158",
+  "opponent": "vkhydras",
+  "outcome": "LOSS",
+  "margin": -10173.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101947192",
+  "opponent": "yvn kaggriculture",
+  "outcome": "LOSS",
+  "margin": -16800.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101928995",
+  "opponent": "Gaddam Shiva Teja",
+  "outcome": "LOSS",
+  "margin": -9956.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101924860",
+  "opponent": "Kadouci Abdelhak",
+  "outcome": "LOSS",
+  "margin": -10422.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101915944",
+  "opponent": "kwa",
+  "outcome": "WIN",
+  "margin": 3996.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101909026",
+  "opponent": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -3628.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101888962",
+  "opponent": "Semyon Epanov",
+  "outcome": "LOSS",
+  "margin": -10038.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101889150",
+  "opponent": "Kronki",
+  "outcome": "WIN",
+  "margin": 6248.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101844506",
+  "opponent": "RuiFSPinto",
+  "outcome": "LOSS",
+  "margin": -14054.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101837809",
+  "opponent": "yy",
+  "outcome": "LOSS",
+  "margin": -5175.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101770753",
+  "opponent": "Mr.Frundles",
+  "outcome": "LOSS",
+  "margin": -14121.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101754923",
+  "opponent": "Arman Tuganbaev",
+  "outcome": "WIN",
+  "margin": 2659.0,
+  "opp_match": 0.26666666666666666,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101730319",
+  "opponent": "Kadouci Abdelhak",
+  "outcome": "LOSS",
+  "margin": -6636.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101717040",
+  "opponent": "UncleWKTK",
+  "outcome": "LOSS",
+  "margin": -14976.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101692230",
+  "opponent": "\u0418\u0422\u041c\u041e\u041d\u0418 AI B2B 67 SaaS",
+  "outcome": "LOSS",
+  "margin": -7519.0,
+  "opp_match": 0.95,
+  "dev": 27,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101689996",
+  "opponent": "vkhydras",
+  "outcome": "WIN",
+  "margin": 2516.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101670079",
+  "opponent": "YJR",
+  "outcome": "LOSS",
+  "margin": -12092.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101665444",
+  "opponent": "Hanserong",
+  "outcome": "LOSS",
+  "margin": -3597.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101647778",
+  "opponent": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -18898.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101632211",
+  "opponent": "srijan k.r keshri",
+  "outcome": "LOSS",
+  "margin": -3086.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101632131",
+  "opponent": "smsxgz",
+  "outcome": "LOSS",
+  "margin": -4009.0,
+  "opp_match": 0.8166666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101627622",
+  "opponent": "yy li",
+  "outcome": "LOSS",
+  "margin": -13933.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101616501",
+  "opponent": "srijan k.r keshri",
+  "outcome": "LOSS",
+  "margin": -6927.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101603189",
+  "opponent": "Terry Luo",
+  "outcome": "WIN",
+  "margin": 2301.0,
+  "opp_match": 1.0,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "101567189",
+  "opponent": "aashka",
+  "outcome": "LOSS",
+  "margin": -10902.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101562804",
+  "opponent": "moonzfxs",
+  "outcome": "LOSS",
+  "margin": -14934.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101540537",
+  "opponent": "peikopon",
+  "outcome": "LOSS",
+  "margin": -7838.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101531518",
+  "opponent": "CoorDi",
+  "outcome": "LOSS",
+  "margin": -20841.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101520351",
+  "opponent": "CoorDi",
+  "outcome": "LOSS",
+  "margin": -15717.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101504818",
+  "opponent": "\u0418\u0422\u041c\u041e\u041d\u0418 AI B2B 67 SaaS",
+  "outcome": "LOSS",
+  "margin": -14145.0,
+  "opp_match": 0.95,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101493660",
+  "opponent": "Bohannn Wang",
+  "outcome": "LOSS",
+  "margin": -6316.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101487052",
+  "opponent": "tyz123456",
+  "outcome": "WIN",
+  "margin": 2833.0,
+  "opp_match": 0.9833333333333333,
+  "dev": 71,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101446643",
+  "opponent": "Bohannn Wang",
+  "outcome": "LOSS",
+  "margin": -10971.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101437737",
+  "opponent": "FarmGoose",
+  "outcome": "LOSS",
+  "margin": -5394.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101422203",
+  "opponent": "B\u1eedu Ph\u1ea1m Qu\u1ed1c",
+  "outcome": "LOSS",
+  "margin": -988.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101417723",
+  "opponent": "B\u1eedu Ph\u1ea1m Qu\u1ed1c",
+  "outcome": "WIN",
+  "margin": 7909.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101390908",
+  "opponent": "SJY321",
+  "outcome": "LOSS",
+  "margin": -4635.0,
+  "opp_match": 0.9833333333333333,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101375244",
+  "opponent": "SJY321",
+  "outcome": "LOSS",
+  "margin": -9343.0,
+  "opp_match": 0.9833333333333333,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101348435",
+  "opponent": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -15033.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101328297",
+  "opponent": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -9697.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101297232",
+  "opponent": "Izzoudine Mohamed KANTA",
+  "outcome": "WIN",
+  "margin": 4409.0,
+  "opp_match": 0.9666666666666667,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101263608",
+  "opponent": "peikopon",
+  "outcome": "LOSS",
+  "margin": -5499.0,
+  "opp_match": 0.9583333333333334,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101256776",
+  "opponent": "tyz123456",
+  "outcome": "LOSS",
+  "margin": -1962.0,
+  "opp_match": 0.9833333333333333,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101256768",
+  "opponent": "Ueddy",
+  "outcome": "WIN",
+  "margin": 2239.0,
+  "opp_match": 0.975,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101227099",
+  "opponent": "Mforg",
+  "outcome": "WIN",
+  "margin": 2699.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101215714",
+  "opponent": "Kaggs",
+  "outcome": "LOSS",
+  "margin": -5925.0,
+  "opp_match": 1.0,
+  "dev": 58,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "101179316",
+  "opponent": "Debmalya",
+  "outcome": "LOSS",
+  "margin": -16474.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101140333",
+  "opponent": "aashka",
+  "outcome": "LOSS",
+  "margin": -16603.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101138253",
+  "opponent": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -15997.0,
+  "opp_match": 0.9416666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101085808",
+  "opponent": "prvsiyan",
+  "outcome": "LOSS",
+  "margin": -10978.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101062961",
+  "opponent": "Janus",
+  "outcome": "LOSS",
+  "margin": -6188.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 30,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "101053910",
+  "opponent": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -15538.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101051554",
+  "opponent": "prvsiyan",
+  "outcome": "LOSS",
+  "margin": -4892.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "101035661",
+  "opponent": "Dmitry Larko",
+  "outcome": "WIN",
+  "margin": 1537.0,
+  "opp_match": 0.8916666666666667,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100964957",
+  "opponent": "UjjwalPardeshi",
+  "outcome": "WIN",
+  "margin": 3305.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100885026",
+  "opponent": "G!vIOne",
+  "outcome": "WIN",
+  "margin": 1658.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100878075",
+  "opponent": "SCNU",
+  "outcome": "LOSS",
+  "margin": -17972.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100857549",
+  "opponent": "Vaibhav Patel",
+  "outcome": "LOSS",
+  "margin": -22307.0,
+  "opp_match": 0.9166666666666666,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100853013",
+  "opponent": "yy",
+  "outcome": "WIN",
+  "margin": 1673.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100841552",
+  "opponent": "yy",
+  "outcome": "LOSS",
+  "margin": -4062.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100823398",
+  "opponent": "prvsiyan",
+  "outcome": "LOSS",
+  "margin": -14056.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100782202",
+  "opponent": "Furious Monk",
+  "outcome": "WIN",
+  "margin": 313.0,
+  "opp_match": 1.0,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100747892",
+  "opponent": "peikopon",
+  "outcome": "LOSS",
+  "margin": -4039.0,
+  "opp_match": 0.9583333333333334,
+  "dev": 75,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100700185",
+  "opponent": "UjjwalPardeshi",
+  "outcome": "LOSS",
+  "margin": -1393.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100656864",
+  "opponent": "SCNU",
+  "outcome": "LOSS",
+  "margin": -23688.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100652166",
+  "opponent": "SJY321",
+  "outcome": "LOSS",
+  "margin": -4353.0,
+  "opp_match": 0.9833333333333333,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100645348",
+  "opponent": "senkin13",
+  "outcome": "WIN",
+  "margin": 392.0,
+  "opp_match": 0.9666666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100631588",
+  "opponent": "SJY321",
+  "outcome": "LOSS",
+  "margin": -14119.0,
+  "opp_match": 0.9833333333333333,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100615571",
+  "opponent": "William Diment",
+  "outcome": "LOSS",
+  "margin": -19622.0,
+  "opp_match": 0.975,
+  "dev": 2,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100590687",
+  "opponent": "Aurora",
+  "outcome": "WIN",
+  "margin": 2617.0,
+  "opp_match": 1.0,
+  "dev": 71,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100579177",
+  "opponent": "redblackbst",
+  "outcome": "LOSS",
+  "margin": -14534.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100551853",
+  "opponent": "Carson Zhang",
+  "outcome": "LOSS",
+  "margin": -6432.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100524546",
+  "opponent": "Vaibhav Patel",
+  "outcome": "LOSS",
+  "margin": -2946.0,
+  "opp_match": 0.9583333333333334,
+  "dev": 4,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100519780",
+  "opponent": "antadam127",
+  "outcome": "LOSS",
+  "margin": -8981.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100519966",
+  "opponent": "nao.kwmr",
+  "outcome": "LOSS",
+  "margin": -989.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100478840",
+  "opponent": "Vaibhav Patel",
+  "outcome": "LOSS",
+  "margin": -8854.0,
+  "opp_match": 0.9583333333333334,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100474362",
+  "opponent": "ebisu_ya",
+  "outcome": "LOSS",
+  "margin": -7627.0,
+  "opp_match": 0.9666666666666667,
+  "dev": 4,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100469608",
+  "opponent": "lucaskna",
+  "outcome": "LOSS",
+  "margin": -17062.0,
+  "opp_match": 0.8916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100451551",
+  "opponent": "Janus",
+  "outcome": "LOSS",
+  "margin": -1708.0,
+  "opp_match": 1.0,
+  "dev": 71,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100428772",
+  "opponent": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -2630.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100412719",
+  "opponent": "Aurora",
+  "outcome": "WIN",
+  "margin": 2759.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100394511",
+  "opponent": "G!vIOne",
+  "outcome": "WIN",
+  "margin": 2081.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100380856",
+  "opponent": "Ugn\u0117 Miklovait\u0117",
+  "outcome": "WIN",
+  "margin": 3074.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100364956",
+  "opponent": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -11242.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100353582",
+  "opponent": "Mathurin Ache",
+  "outcome": "WIN",
+  "margin": 1857.0,
+  "opp_match": 1.0,
+  "dev": 71,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100351154",
+  "opponent": "Jiro2",
+  "outcome": "WIN",
+  "margin": 2118.0,
+  "opp_match": 1.0,
+  "dev": 4,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100348866",
+  "opponent": "Aurora",
+  "outcome": "WIN",
+  "margin": 3163.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100346587",
+  "opponent": "Erfan Eshratifar",
+  "outcome": "LOSS",
+  "margin": -3253.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100344314",
+  "opponent": "Lenin Goud",
+  "outcome": "WIN",
+  "margin": 3435.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100342036",
+  "opponent": "G!vIOne",
+  "outcome": "WIN",
+  "margin": 4284.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100339742",
+  "opponent": "Aurora",
+  "outcome": "WIN",
+  "margin": 3684.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100337451",
+  "opponent": "Zyy7390",
+  "outcome": "WIN",
+  "margin": 462.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100335169",
+  "opponent": "Reyhan Ksatria",
+  "outcome": "WIN",
+  "margin": 736.0,
+  "opp_match": 1.0,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100332909",
+  "opponent": "Terry Luo",
+  "outcome": "WIN",
+  "margin": 3824.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100330625",
+  "opponent": "qr farm",
+  "outcome": "WIN",
+  "margin": 7078.0,
+  "opp_match": 1.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100328350",
+  "opponent": "Iulian Curte",
+  "outcome": "WIN",
+  "margin": 5910.0,
+  "opp_match": 1.0,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100326053",
+  "opponent": "UtaAzu",
+  "outcome": "WIN",
+  "margin": 1681.0,
+  "opp_match": 1.0,
+  "dev": 58,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100323781",
+  "opponent": "Jiro2",
+  "outcome": "WIN",
+  "margin": 13522.0,
+  "opp_match": 1.0,
+  "dev": 4,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100321498",
+  "opponent": "Hello San Francisco",
+  "outcome": "WIN",
+  "margin": 8101.0,
+  "opp_match": 0.6666666666666666,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100319210",
+  "opponent": "Jiro2",
+  "outcome": "WIN",
+  "margin": 4259.0,
+  "opp_match": 0.975,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100316927",
+  "opponent": "Nadeem",
+  "outcome": "WIN",
+  "margin": 1940.0,
+  "opp_match": 1.0,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100314649",
+  "opponent": "Will",
+  "outcome": "WIN",
+  "margin": 3107.0,
+  "opp_match": 1.0,
+  "dev": 71,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100312366",
+  "opponent": "UtaAzu",
+  "outcome": "WIN",
+  "margin": 4551.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100310091",
+  "opponent": "Will",
+  "outcome": "WIN",
+  "margin": 4045.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100307804",
+  "opponent": "senkin13",
+  "outcome": "WIN",
+  "margin": 702.0,
+  "opp_match": 0.9666666666666667,
+  "dev": 51,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100305525",
+  "opponent": "Zejun_",
+  "outcome": "WIN",
+  "margin": 5475.0,
+  "opp_match": 1.0,
+  "dev": 30,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100303231",
+  "opponent": "Stephen Schott",
+  "outcome": "LOSS",
+  "margin": -6207.0,
+  "opp_match": 0.9083333333333333,
+  "dev": 4,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100301098",
+  "opponent": "srijan k.r keshri",
+  "outcome": "LOSS",
+  "margin": -18321.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100300957",
+  "opponent": "Tom3",
+  "outcome": "WIN",
+  "margin": 6486.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100298678",
+  "opponent": "Aurora",
+  "outcome": "WIN",
+  "margin": 2382.0,
+  "opp_match": 1.0,
+  "dev": 71,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100296391",
+  "opponent": "umair zia",
+  "outcome": "WIN",
+  "margin": 5763.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100294114",
+  "opponent": "satoooh",
+  "outcome": "WIN",
+  "margin": 9433.0,
+  "opp_match": 1.0,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100291827",
+  "opponent": "DK Armada",
+  "outcome": "WIN",
+  "margin": 2354.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100289740",
+  "opponent": "shinamonmon",
+  "outcome": "WIN",
+  "margin": 3835.0,
+  "opp_match": 1.0,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100289546",
+  "opponent": "Egor Trushin",
+  "outcome": "WIN",
+  "margin": 5059.0,
+  "opp_match": 1.0,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100287270",
+  "opponent": "tangaii",
+  "outcome": "LOSS",
+  "margin": -2737.0,
+  "opp_match": 1.0,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100284995",
+  "opponent": "Naru041104",
+  "outcome": "WIN",
+  "margin": 4446.0,
+  "opp_match": 1.0,
+  "dev": 28,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100282703",
+  "opponent": "Artem Voronov",
+  "outcome": "WIN",
+  "margin": 4265.0,
+  "opp_match": 1.0,
+  "dev": 30,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100280419",
+  "opponent": "satoooh",
+  "outcome": "WIN",
+  "margin": 5471.0,
+  "opp_match": 1.0,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100278127",
+  "opponent": "MD. Nazmus Sakib Anik",
+  "outcome": "WIN",
+  "margin": 2348.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100275843",
+  "opponent": "Suneeth reddy",
+  "outcome": "WIN",
+  "margin": 6678.0,
+  "opp_match": 1.0,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100273549",
+  "opponent": "MD. Nazmus Sakib Anik",
+  "outcome": "WIN",
+  "margin": 9750.0,
+  "opp_match": 1.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100271268",
+  "opponent": "Bruce Zheng",
+  "outcome": "WIN",
+  "margin": 2651.0,
+  "opp_match": 1.0,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100268979",
+  "opponent": "Aura Farming",
+  "outcome": "LOSS",
+  "margin": -2329.0,
+  "opp_match": 0.9916666666666667,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100266698",
+  "opponent": "Masashi Nishimoto",
+  "outcome": "WIN",
+  "margin": 1490.0,
+  "opp_match": 1.0,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100264412",
+  "opponent": "Suneeth reddy",
+  "outcome": "WIN",
+  "margin": 382.0,
+  "opp_match": 1.0,
+  "dev": 58,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100262122",
+  "opponent": "RyanHo",
+  "outcome": "LOSS",
+  "margin": -1624.0,
+  "opp_match": 0.9833333333333333,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100259842",
+  "opponent": "Suda",
+  "outcome": "WIN",
+  "margin": 3704.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100257561",
+  "opponent": "Akira Imae",
+  "outcome": "WIN",
+  "margin": 4543.0,
+  "opp_match": 1.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100255291",
+  "opponent": "Chanhyuk Han",
+  "outcome": "WIN",
+  "margin": 3962.0,
+  "opp_match": 1.0,
+  "dev": 30,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100253001",
+  "opponent": "yfy",
+  "outcome": "WIN",
+  "margin": 2603.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100250697",
+  "opponent": "blueblue222",
+  "outcome": "WIN",
+  "margin": 2276.0,
+  "opp_match": 1.0,
+  "dev": 71,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100248412",
+  "opponent": "Suyash Verma",
+  "outcome": "LOSS",
+  "margin": -605.0,
+  "opp_match": 1.0,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100246125",
+  "opponent": "Thirst",
+  "outcome": "WIN",
+  "margin": 2155.0,
+  "opp_match": 0.9666666666666667,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100243849",
+  "opponent": "shinamonmon",
+  "outcome": "WIN",
+  "margin": 4467.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100241549",
+  "opponent": "Saicharan Ramineni",
+  "outcome": "WIN",
+  "margin": 5861.0,
+  "opp_match": 1.0,
+  "dev": 30,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100239256",
+  "opponent": "Anaconda",
+  "outcome": "LOSS",
+  "margin": -6867.0,
+  "opp_match": 0.03333333333333333,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100234682",
+  "opponent": "Excluding",
+  "outcome": "LOSS",
+  "margin": -8867.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100236964",
+  "opponent": "alessandrozonta",
+  "outcome": "WIN",
+  "margin": 8358.0,
+  "opp_match": 1.0,
+  "dev": 6,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100232393",
+  "opponent": "Yanxi Jiang",
+  "outcome": "WIN",
+  "margin": 2382.0,
+  "opp_match": 1.0,
+  "dev": 77,
+  "tot": 340,
+  "firstdev": 236
+ },
+ {
+  "episode": "100230728",
+  "opponent": "WeAreFarmers",
+  "outcome": "WIN",
+  "margin": 610.0,
+  "opp_match": 1.0,
+  "dev": 60,
+  "tot": 340,
+  "firstdev": 229
+ },
+ {
+  "episode": "100230496",
+  "opponent": "Natnael Yerga",
+  "outcome": "WIN",
+  "margin": 1921.0,
+  "opp_match": 1.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100228223",
+  "opponent": "Ayaan Ghosh",
+  "outcome": "WIN",
+  "margin": 11169.0,
+  "opp_match": 0.03333333333333333,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100225936",
+  "opponent": "Ankit Hemant Lade",
+  "outcome": "WIN",
+  "margin": 7651.0,
+  "opp_match": 0.03333333333333333,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100223657",
+  "opponent": "Ahmet Erdem Pamuk",
+  "outcome": "WIN",
+  "margin": 17214.0,
+  "opp_match": 0.016666666666666666,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100221622",
+  "opponent": "waticson",
+  "outcome": "WIN",
+  "margin": 5761.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100221387",
+  "opponent": "JeremiahMannings",
+  "outcome": "WIN",
+  "margin": 5604.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100219116",
+  "opponent": "Richard Tang",
+  "outcome": "WIN",
+  "margin": 28953.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100216842",
+  "opponent": "Moroz Roman",
+  "outcome": "WIN",
+  "margin": 36993.0,
+  "opp_match": 0.008333333333333333,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100214562",
+  "opponent": "Nikola010",
+  "outcome": "WIN",
+  "margin": 30779.0,
+  "opp_match": 0.03333333333333333,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100212299",
+  "opponent": "Varshith K",
+  "outcome": "WIN",
+  "margin": 23015.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100212615",
+  "opponent": "Dev Rath",
+  "outcome": "WIN",
+  "margin": 30409.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100210028",
+  "opponent": "H Bharath",
+  "outcome": "WIN",
+  "margin": 27804.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100207776",
+  "opponent": "Filippo Paninforni",
+  "outcome": "WIN",
+  "margin": 73937.0,
+  "opp_match": 0.0,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ },
+ {
+  "episode": "100205492",
+  "opponent": "Bharath",
+  "outcome": "WIN",
+  "margin": 6928.0,
+  "opp_match": 0.016666666666666666,
+  "dev": 0,
+  "tot": 340,
+  "firstdev": null
+ }
+]

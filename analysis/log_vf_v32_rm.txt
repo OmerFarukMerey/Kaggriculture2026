@@ -1,0 +1,36 @@
+DISJOINTNESS ASSERTED: 12 verify seeds vs 29 used seeds; intersection=0, min|delta|=12776
+  seed= 60013 seat=0 A=  58724.0 B=  53633.0     +5091 W
+  seed= 60013 seat=1 A=  58724.0 B=  53633.0     +5091 W
+  seed= 60013 NOTE seat-symmetric (1 effective sample)
+  seed= 61403 seat=0 A= 113042.0 B= 105183.0     +7859 W
+  seed= 61403 seat=1 A= 113042.0 B= 105183.0     +7859 W
+  seed= 61403 NOTE seat-symmetric (1 effective sample)
+  seed= 62497 seat=0 A=  55543.0 B=  48482.0     +7061 W
+  seed= 62497 seat=1 A=  55585.0 B=  48480.0     +7105 W
+  seed= 63997 seat=0 A= 141575.0 B= 136321.0     +5254 W
+  seed= 63997 seat=1 A= 141575.0 B= 136321.0     +5254 W
+  seed= 63997 NOTE seat-symmetric (1 effective sample)
+  seed= 65003 seat=0 A=  53655.0 B=  48740.0     +4915 W
+  seed= 65003 seat=1 A=  46493.0 B=  42689.0     +3804 W
+  seed= 66103 seat=0 A=  90361.0 B=  83331.0     +7030 W
+  seed= 66103 seat=1 A=  76634.0 B=  69392.0     +7242 W
+  seed= 67213 seat=0 A=  50102.0 B=  47042.0     +3060 W
+  seed= 67213 seat=1 A=  50102.0 B=  47042.0     +3060 W
+  seed= 67213 NOTE seat-symmetric (1 effective sample)
+  seed= 68389 seat=0 A=  69911.0 B=  61668.0     +8243 W
+  seed= 68389 seat=1 A=  69652.0 B=  60628.0     +9024 W
+  seed= 69499 seat=0 A=  41366.0 B=  42554.0     -1188 L
+  seed= 69499 seat=1 A=  55587.0 B=  50256.0     +5331 W
+  seed= 70607 seat=0 A= 156525.0 B= 159584.0     -3059 L
+  seed= 70607 seat=1 A= 156525.0 B= 159584.0     -3059 L
+  seed= 70607 NOTE seat-symmetric (1 effective sample)
+  seed= 71711 seat=0 A=  73880.0 B=  67654.0     +6226 W
+  seed= 71711 seat=1 A=  73302.0 B=  67527.0     +5775 W
+  seed= 72823 seat=0 A= 134602.0 B= 127139.0     +7463 W
+  seed= 72823 seat=1 A= 134510.0 B= 127309.0     +7201 W
+
+A=v32 vs B=readmarket  panel=VERIFY(disjoint)
+  W-L-T        21-3-0  of 24 games (19 effective samples)
+  wr(half)     0.875
+  mean margin  +5068  (diagnostic only)
+  wrote analysis\verify_main_vs_readmarket_60013.json

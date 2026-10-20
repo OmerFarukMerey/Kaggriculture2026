@@ -1,0 +1,10 @@
+119 public completed episodes
+...0/119
+...20/119
+...40/119
+...60/119
+...80/119
+...100/119
+
+record: 99-20-0 of 119  winrate=0.832
+wrote analysis\autopsy_v31_live.json

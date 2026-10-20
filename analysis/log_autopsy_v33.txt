@@ -1,0 +1,14 @@
+62 public completed episodes
+...0/62
+...20/62
+...40/62
+...60/62
+
+record: 45-17-0 of 62  winrate=0.726
+wrote analysis\autopsy_v33_live.json
+har 0)
+...40/62
+...60/62
+
+record: 43-17-0 of 60  winrate=0.717
+wrote analysis\autopsy_v33_live.json

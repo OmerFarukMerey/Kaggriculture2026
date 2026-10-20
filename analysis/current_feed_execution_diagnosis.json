@@ -1,0 +1,50 @@
+[
+  {
+    "episode": "114717022",
+    "reproduced": true,
+    "counts": [
+      {
+        "required_feed_requests": 411
+      },
+      {
+        "required_feed_requests": 330
+      }
+    ],
+    "examples": [
+      [],
+      []
+    ]
+  },
+  {
+    "episode": "114834988",
+    "reproduced": true,
+    "counts": [
+      {
+        "required_feed_requests": 313
+      },
+      {
+        "required_feed_requests": 313
+      }
+    ],
+    "examples": [
+      [],
+      []
+    ]
+  },
+  {
+    "episode": "114857149",
+    "reproduced": true,
+    "counts": [
+      {
+        "required_feed_requests": 319
+      },
+      {
+        "required_feed_requests": 319
+      }
+    ],
+    "examples": [
+      [],
+      []
+    ]
+  }
+]

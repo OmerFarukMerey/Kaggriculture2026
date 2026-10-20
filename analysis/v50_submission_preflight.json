@@ -1,0 +1,23 @@
+{
+  "recent": [
+    {
+      "id": 56666488,
+      "status": "SubmissionStatus.COMPLETE",
+      "date": "2026-09-29 07:06:28.330000",
+      "description": "v49 exploratory: V81 carrot margin -22; 12-8-4 vs v48 and 16-8 vs v47 on 12 paired seeds; common-field score 72/96 vs v48 75/96; not a validated broad upgrade. Apache-2.0 ancestry retained."
+    },
+    {
+      "id": 56635809,
+      "status": "SubmissionStatus.COMPLETE",
+      "date": "2026-09-28 09:02:11.753000",
+      "description": "v48: V81 Harvest Ledger by haodou092 (Apache-2.0), mirror-gated 7-turn sales over 2965 V79; 33-7-8 local paired"
+    },
+    {
+      "id": 56635355,
+      "status": "SubmissionStatus.COMPLETE",
+      "date": "2026-09-28 08:46:31.253000",
+      "description": "v47: v46 with same-item market buy/sell isolation; local paired 33-9-6 vs v46"
+    }
+  ],
+  "submit_signature": "(file_name: str | None, message: str, competition: str | None, quiet: bool = False, sandbox: bool = False) -> kagglesdk.competitions.types.competition_api_service.ApiCreateSubmissionResponse"
+}

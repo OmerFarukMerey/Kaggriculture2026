@@ -1,0 +1,99 @@
+{
+  "submission": {
+    "id": 56666488,
+    "version": "v49-carrot-field-experiment",
+    "authorized_choice": "Upload carrot experiment",
+    "status": "SubmissionStatus.COMPLETE",
+    "archive": "submissions/v49-carrot-field-experiment/submission.tar.gz",
+    "source": "submissions/v49-carrot-field-experiment/main.py",
+    "archive_sha256": "3c2a49c37fa0b7c1391f32fa10faaae49b1dc2b0a5c9c39ec38d275724d4df77",
+    "retained_control": 56635809,
+    "replaced_submission": 56635355,
+    "events": [
+      {
+        "status": "SubmissionStatus.PENDING",
+        "observed_at": "2026-09-29T07:08:30Z"
+      },
+      {
+        "status": "SubmissionStatus.COMPLETE",
+        "observed_at": "2026-09-29T07:10:04Z"
+      }
+    ],
+    "date": "2026-09-29 07:06:28.330000",
+    "description": "v49 exploratory: V81 carrot margin -22; 12-8-4 vs v48 and 16-8 vs v47 on 12 paired seeds; common-field score 72/96 vs v48 75/96; not a validated broad upgrade. Apache-2.0 ancestry retained."
+  },
+  "source_sha256": "24415f580b202a712d462228ebb5611c78cb067c90c654a9486d53bfa50fd1f0",
+  "archive_sha256": "3c2a49c37fa0b7c1391f32fa10faaae49b1dc2b0a5c9c39ec38d275724d4df77",
+  "v48_prefix_unchanged": true,
+  "isolated_game": {
+    "seed": 632149,
+    "steps": 720,
+    "rewards": [
+      79492,
+      79492
+    ],
+    "valid": true,
+    "failures": [],
+    "max_action_seconds": [
+      0.345016,
+      0.342982
+    ],
+    "overage_used": [
+      0,
+      0
+    ]
+  },
+  "harness_regressions_passed": 3,
+  "heldout_head_to_head": {
+    "v48": {
+      "wins": 12,
+      "losses": 8,
+      "draws": 4
+    },
+    "v47": {
+      "wins": 16,
+      "losses": 8,
+      "draws": 0
+    }
+  },
+  "common_field": [
+    {
+      "name": "v48",
+      "w": 72,
+      "l": 18,
+      "t": 6,
+      "invalid": 0,
+      "score": 75,
+      "total": 96
+    },
+    {
+      "name": "carrot",
+      "w": 70,
+      "l": 22,
+      "t": 4,
+      "invalid": 0,
+      "score": 72,
+      "total": 96
+    },
+    {
+      "name": "cha22",
+      "w": 59,
+      "l": 37,
+      "t": 0,
+      "invalid": 0,
+      "score": 59,
+      "total": 96
+    },
+    {
+      "name": "riskfeed",
+      "w": 55,
+      "l": 41,
+      "t": 0,
+      "invalid": 0,
+      "score": 55,
+      "total": 96
+    }
+  ],
+  "independent_seed_blocks": 12,
+  "decision": "Explicit user authorization after disclosure of weaker common-field results"
+}

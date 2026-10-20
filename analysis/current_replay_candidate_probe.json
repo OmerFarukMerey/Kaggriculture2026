@@ -1,0 +1,164 @@
+[
+  {
+    "candidate": "carrot",
+    "episode": 114717022,
+    "seat": 1,
+    "rewards": [
+      101179.0,
+      65428.0
+    ],
+    "baseline": [
+      101110.0,
+      65465.0
+    ],
+    "margin": -35751.0,
+    "margin_change": -106.0,
+    "changed_actions": 13,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "carrot",
+    "episode": 114834988,
+    "seat": 1,
+    "rewards": [
+      102657.0,
+      98410.0
+    ],
+    "baseline": [
+      102657.0,
+      98410.0
+    ],
+    "margin": -4247.0,
+    "margin_change": 0.0,
+    "changed_actions": 0,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "carrot",
+    "episode": 114857149,
+    "seat": 0,
+    "rewards": [
+      68108.0,
+      68151.0
+    ],
+    "baseline": [
+      67747.0,
+      68291.0
+    ],
+    "margin": -43.0,
+    "margin_change": 501.0,
+    "changed_actions": 98,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "godmode",
+    "episode": 114717022,
+    "seat": 1,
+    "rewards": [
+      42535.0,
+      76850.0
+    ],
+    "baseline": [
+      101110.0,
+      65465.0
+    ],
+    "margin": 34315.0,
+    "margin_change": 69960.0,
+    "changed_actions": 586,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "godmode",
+    "episode": 114834988,
+    "seat": 1,
+    "rewards": [
+      104122.0,
+      98678.0
+    ],
+    "baseline": [
+      102657.0,
+      98410.0
+    ],
+    "margin": -5444.0,
+    "margin_change": -1197.0,
+    "changed_actions": 157,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "godmode",
+    "episode": 114857149,
+    "seat": 0,
+    "rewards": [
+      66909.0,
+      69320.0
+    ],
+    "baseline": [
+      67747.0,
+      68291.0
+    ],
+    "margin": -2411.0,
+    "margin_change": -1867.0,
+    "changed_actions": 165,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "icefire",
+    "episode": 114717022,
+    "seat": 1,
+    "rewards": [
+      101716.0,
+      65781.0
+    ],
+    "baseline": [
+      101110.0,
+      65465.0
+    ],
+    "margin": -35935.0,
+    "margin_change": -290.0,
+    "changed_actions": 142,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "icefire",
+    "episode": 114834988,
+    "seat": 1,
+    "rewards": [
+      103618.0,
+      98775.0
+    ],
+    "baseline": [
+      102657.0,
+      98410.0
+    ],
+    "margin": -4843.0,
+    "margin_change": -596.0,
+    "changed_actions": 141,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "icefire",
+    "episode": 114857149,
+    "seat": 0,
+    "rewards": [
+      66844.0,
+      69308.0
+    ],
+    "baseline": [
+      67747.0,
+      68291.0
+    ],
+    "margin": -2464.0,
+    "margin_change": -1920.0,
+    "changed_actions": 148,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  }
+]

@@ -1,0 +1,8 @@
+v32 vs kaito_v43: probed 80 episodes, clone(>=0.85)=49 share=0.613
+  frac distribution: [(1.0, 42), (0.0, 25), (0.9, 7), (0.1, 3), (0.7, 2), (0.8, 1)]
+  vs clones: 27-22-0
+  vs non-clones: 10-21-0
+v43c vs kaito_v43: probed 80 episodes, clone(>=0.85)=40 share=0.500
+  frac distribution: [(1.0, 40), (0.1, 32), (0.0, 8)]
+  vs clones: 2-33-5
+  vs non-clones: 37-3-0

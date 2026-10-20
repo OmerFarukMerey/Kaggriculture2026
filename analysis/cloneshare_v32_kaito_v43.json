@@ -1,0 +1,482 @@
+[
+ {
+  "frac": 0.95,
+  "opponent": "Ueddy",
+  "episode": "101256768",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "RyanHo",
+  "episode": "100262122",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Lenin Goud",
+  "episode": "102043035",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.825,
+  "opponent": "Dmitry Larko",
+  "episode": "101035661",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Reyhan Ksatria",
+  "episode": "100335169",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Varshith K",
+  "episode": "100212299",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.95,
+  "opponent": "\u0418\u0422\u041c\u041e\u041d\u0418 AI B2B 67 SaaS",
+  "episode": "101692230",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "Kaggle Agent",
+  "episode": "101138253",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "moonzfxs",
+  "episode": "101562804",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "UtaAzu",
+  "episode": "100326053",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "nao.kwmr",
+  "episode": "100519966",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.725,
+  "opponent": "smsxgz",
+  "episode": "101632131",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.9,
+  "opponent": "Stephen Schott",
+  "episode": "100303231",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "YJR",
+  "episode": "101670079",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Kaileh57",
+  "episode": "102125616",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Izzoudine Mohamed KANTA",
+  "episode": "101297232",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.675,
+  "opponent": "lucaskna",
+  "episode": "100469608",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Zejun_",
+  "episode": "100305525",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "tyz123456",
+  "episode": "101487052",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "jaepyeocho",
+  "episode": "102116449",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "JeremiahMannings",
+  "episode": "100221387",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "Bernardus",
+  "episode": "102295229",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Bruce Zheng",
+  "episode": "100271268",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "G!vIOne",
+  "episode": "100394511",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "srijan k.r keshri",
+  "episode": "101632211",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "vkhydras",
+  "episode": "101949158",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "Kaggle Agent",
+  "episode": "100364956",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Bohannn Wang",
+  "episode": "101446643",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.875,
+  "opponent": "Hello San Francisco",
+  "episode": "102176827",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Aurora",
+  "episode": "100348866",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "easonyanyan",
+  "episode": "102301624",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Varshith K",
+  "episode": "102431364",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "satoooh",
+  "episode": "100280419",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "theredbluepill",
+  "episode": "102074315",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Kaggs",
+  "episode": "101215714",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "apple farmer",
+  "episode": "102141095",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "alessandrozonta",
+  "episode": "100236964",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "Kaggle Agent",
+  "episode": "101053910",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Furious Monk",
+  "episode": "100782202",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Suneeth reddy",
+  "episode": "100264412",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Will",
+  "episode": "100314649",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "SJY321",
+  "episode": "101390908",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "yy",
+  "episode": "100841552",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "prvsiyan",
+  "episode": "101085808",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Lenin Goud",
+  "episode": "100344314",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.875,
+  "opponent": "Hello San Francisco",
+  "episode": "102183511",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "yvn kaggriculture",
+  "episode": "101947192",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "Vaibhav Patel",
+  "episode": "100857549",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Muhammad Imran",
+  "episode": "102370928",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "tangaii",
+  "episode": "100287270",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "B\u1eedu Ph\u1ea1m Qu\u1ed1c",
+  "episode": "101422203",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Richard Tang",
+  "episode": "100219116",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Erfan Eshratifar",
+  "episode": "100346587",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.05,
+  "opponent": "Bharath",
+  "episode": "100205492",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Will",
+  "episode": "100310091",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Akira Imae",
+  "episode": "100257561",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.9,
+  "opponent": "Stephen Schott",
+  "episode": "102023008",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "CoorDi",
+  "episode": "101531518",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "satoooh",
+  "episode": "100294114",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "Anaconda",
+  "episode": "100239256",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "peikopon",
+  "episode": "101540537",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.95,
+  "opponent": "senkin13",
+  "episode": "100645348",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Aurora",
+  "episode": "100590687",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "vkhydras",
+  "episode": "101689996",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.05,
+  "opponent": "Ahmet Erdem Pamuk",
+  "episode": "100223657",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Kadouci Abdelhak",
+  "episode": "101730319",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Jiro2",
+  "episode": "100323781",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "SCNU",
+  "episode": "100656864",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Dev Rath",
+  "episode": "100212615",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "DK Armada",
+  "episode": "100291827",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "SJY321",
+  "episode": "100652166",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Kaileh57",
+  "episode": "102092141",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "SCNU",
+  "episode": "100878075",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "MD. Nazmus Sakib Anik",
+  "episode": "100278127",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Egor Trushin",
+  "episode": "100289546",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "WeAreFarmers",
+  "episode": "100230728",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Xiaowenhao404",
+  "episode": "102435688",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "RuiFSPinto",
+  "episode": "101844506",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Varshith K",
+  "episode": "102411217",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Lenin Goud",
+  "episode": "101991667",
+  "outcome": "WIN"
+ }
+]

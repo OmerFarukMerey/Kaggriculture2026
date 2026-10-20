@@ -1,0 +1,39 @@
+{
+  "purpose": "Untuned held-out paired round robin after development",
+  "seeds": [
+    1738330552,
+    246009147,
+    329369857,
+    1175244579,
+    2081803902,
+    1958963692,
+    437161176,
+    332881584,
+    766350815,
+    1321693777,
+    750179537,
+    290259585
+  ],
+  "agents": {
+    "carrot": "candidates/research-carrot-more/main.py",
+    "godmode": "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+    "icefire": "candidates/opponent-icefire-entry/main.py",
+    "harvest": "../kaggriculture-candidates/current-harvest/main.py",
+    "v48": "submissions/v48-2965-mirrorgate/main.py"
+  },
+  "pairs": [
+    "candidates/research-carrot-more/main.py:../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+    "candidates/research-carrot-more/main.py:candidates/opponent-icefire-entry/main.py",
+    "candidates/research-carrot-more/main.py:../kaggriculture-candidates/current-harvest/main.py",
+    "candidates/research-carrot-more/main.py:submissions/v48-2965-mirrorgate/main.py",
+    "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py:candidates/opponent-icefire-entry/main.py",
+    "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py:../kaggriculture-candidates/current-harvest/main.py",
+    "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py:submissions/v48-2965-mirrorgate/main.py",
+    "candidates/opponent-icefire-entry/main.py:../kaggriculture-candidates/current-harvest/main.py",
+    "candidates/opponent-icefire-entry/main.py:submissions/v48-2965-mirrorgate/main.py",
+    "../kaggriculture-candidates/current-harvest/main.py:submissions/v48-2965-mirrorgate/main.py"
+  ],
+  "selection": "W-L-T by opponent; deduplicate seed-seat symmetry; do not select by margins alone",
+  "excluded": "Wins against original ice-fire factory entrypoint are discarded; fixed-anchor and wheat-value experiments rejected",
+  "created": "2026-09-28T20:53:27.978Z"
+}

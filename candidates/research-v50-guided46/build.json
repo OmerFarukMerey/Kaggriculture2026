@@ -1,0 +1,16 @@
+{
+  "source": "candidates\\research-v50-guided46\\main.py",
+  "sha256": "a48517cc7b7481c11c789d56f5fa8532b990b04570fae67698ca5bd5e966bf67",
+  "module_sha256": {
+    "_engine": "19a3042b8b09a37d6e2835f0cec8ad2e8963b659f4b5b35b6f660bb467d3f377",
+    "mechanics": "e612ccf808516e5c3d0a7987b28ba8eaaa43cb4f6a4291f01086868b41d336bd",
+    "market": "c38c77aec390ed00f663dcaf002a5353078416fbe56a13b0d7305d394cd17bcd",
+    "guided": "d703578c17b65ff32dad09f0255c0411067b510ec0012b0f9096b7e877f05739",
+    "native": "7abfd76adb60ca0817f7663d3cd166f0dec7dba614664c8e4888f0f17404dba3"
+  },
+  "guide": "submissions/v46-platform/main.py",
+  "reused": [
+    "submissions/v46-platform/main.py",
+    "kaggle-environments 1.32.7 deterministic rules"
+  ]
+}

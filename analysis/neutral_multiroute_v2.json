@@ -1,0 +1,40 @@
+[
+ {
+  "opp": "multiroute_v2.py",
+  "seed": 5000,
+  "seat": 0,
+  "edged_a": 151775.0,
+  "edged_b": 141701.0,
+  "stock_a": 151775.0,
+  "stock_b": 141701.0,
+  "edged_margin": 10074.0,
+  "stock_margin": 10074.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 2,
+   "units": 6,
+   "repays": 2,
+   "gated_out": 511,
+   "last_distance": 48
+  }
+ },
+ {
+  "opp": "multiroute_v2.py",
+  "seed": 5000,
+  "seat": 1,
+  "edged_a": 151775.0,
+  "edged_b": 141701.0,
+  "stock_a": 151775.0,
+  "stock_b": 141701.0,
+  "edged_margin": 10074.0,
+  "stock_margin": 10074.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 2,
+   "units": 6,
+   "repays": 2,
+   "gated_out": 511,
+   "last_distance": 48
+  }
+ }
+]

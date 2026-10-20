@@ -1,0 +1,12 @@
+160 public completed episodes
+...0/160
+...20/160
+...40/160
+...60/160
+...80/160
+...100/160
+...120/160
+...140/160
+
+record: 85-75-0 of 160  winrate=0.531
+wrote analysis\autopsy_v32_live.json

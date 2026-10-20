@@ -1,0 +1,9 @@
+opp=breaking_tie.py seed=5000 seat=0 | EDGED 151692.0000/141678.0000 m=+10014.0000 | STOCK 151692.0000/141678.0000 m=+10014.0000 | DRIFT +0.0000 | tel={'borrows': 2, 'units': 6, 'repays': 2, 'gated_out': 511, 'last_distance': 48}
+opp=breaking_tie.py seed=5000 seat=1 | EDGED 151692.0000/141678.0000 m=+10014.0000 | STOCK 151692.0000/141678.0000 m=+10014.0000 | DRIFT +0.0000 | tel={'borrows': 2, 'units': 6, 'repays': 2, 'gated_out': 511, 'last_distance': 48}
+SUMMARY breaking_tie.py: games=2 nonzero_drift=0 mean_edged=+10014.0000 mean_stock=+10014.0000 total_abs_drift=0.0000
+opp=multiroute_v2.py seed=5000 seat=0 | EDGED 151775.0000/141701.0000 m=+10074.0000 | STOCK 151775.0000/141701.0000 m=+10074.0000 | DRIFT +0.0000 | tel={'borrows': 2, 'units': 6, 'repays': 2, 'gated_out': 511, 'last_distance': 48}
+opp=multiroute_v2.py seed=5000 seat=1 | EDGED 151775.0000/141701.0000 m=+10074.0000 | STOCK 151775.0000/141701.0000 m=+10074.0000 | DRIFT +0.0000 | tel={'borrows': 2, 'units': 6, 'repays': 2, 'gated_out': 511, 'last_distance': 48}
+SUMMARY multiroute_v2.py: games=2 nonzero_drift=0 mean_edged=+10074.0000 mean_stock=+10074.0000 total_abs_drift=0.0000
+opp=boatlee_v20.py seed=5000 seat=0 | EDGED 151775.0000/141701.0000 m=+10074.0000 | STOCK 151775.0000/141701.0000 m=+10074.0000 | DRIFT +0.0000 | tel={'borrows': 2, 'units': 6, 'repays': 2, 'gated_out': 511, 'last_distance': 48}
+opp=boatlee_v20.py seed=5000 seat=1 | EDGED 151775.0000/141701.0000 m=+10074.0000 | STOCK 151775.0000/141701.0000 m=+10074.0000 | DRIFT +0.0000 | tel={'borrows': 2, 'units': 6, 'repays': 2, 'gated_out': 511, 'last_distance': 48}
+SUMMARY boatlee_v20.py: games=2 nonzero_drift=0 mean_edged=+10074.0000 mean_stock=+10074.0000 total_abs_drift=0.0000

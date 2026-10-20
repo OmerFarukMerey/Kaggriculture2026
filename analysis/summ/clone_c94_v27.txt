@@ -1,0 +1,4 @@
+v27 vs rayk_c94: probed 60 episodes, clone(>=0.85)=1 share=0.017
+  frac distribution: [(0.0, 43), (0.1, 8), (0.8, 7), (1.0, 1), (0.4, 1)]
+  vs clones: 1-0-0
+  vs non-clones: 47-12-0

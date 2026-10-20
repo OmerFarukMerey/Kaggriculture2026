@@ -1,0 +1,1284 @@
+{
+  "scope": "Completed investigation; user-authorized exploratory v49 upload",
+  "liveEvidence": {
+    "economics": "current_replay_economics.json",
+    "exactV48ReplayAgreement": "current_live_loader_agreement.json",
+    "production": "current_orbital_production.json"
+  },
+  "development": {
+    "screen": [
+      {
+        "pair": "../kaggriculture-candidates/current-harvest/main.py vs ../kaggriculture-candidates/current-demand-turn/main.py",
+        "n": 8,
+        "w": 0,
+        "l": 0,
+        "t": 8,
+        "invalid": 0,
+        "margin": 0,
+        "maxSeconds": 0.648431,
+        "overage": 0,
+        "mean": 0
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-harvest/main.py vs ../kaggriculture-candidates/current-master-v53/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 63776,
+        "maxSeconds": 0.95266,
+        "overage": 0,
+        "mean": 7972
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-harvest/main.py vs ../kaggriculture-candidates/current-multiroute/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 286378,
+        "maxSeconds": 0.598025,
+        "overage": 0,
+        "mean": 35797.25
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-harvest/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 4,
+        "t": 0,
+        "invalid": 0,
+        "margin": 9282,
+        "maxSeconds": 1.320034,
+        "overage": 0.32003399999999993,
+        "mean": 1160.25
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-harvest/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 2,
+        "t": 2,
+        "invalid": 0,
+        "margin": -294,
+        "maxSeconds": 0.597521,
+        "overage": 0,
+        "mean": -36.75
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-demand-turn/main.py vs ../kaggriculture-candidates/current-master-v53/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 63776,
+        "maxSeconds": 0.649889,
+        "overage": 0,
+        "mean": 7972
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-demand-turn/main.py vs ../kaggriculture-candidates/current-multiroute/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 286378,
+        "maxSeconds": 0.645598,
+        "overage": 0,
+        "mean": 35797.25
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-demand-turn/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 4,
+        "t": 0,
+        "invalid": 0,
+        "margin": 9282,
+        "maxSeconds": 1.30965,
+        "overage": 0.30965,
+        "mean": 1160.25
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-demand-turn/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 2,
+        "t": 2,
+        "invalid": 0,
+        "margin": -294,
+        "maxSeconds": 0.860892,
+        "overage": 0,
+        "mean": -36.75
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-master-v53/main.py vs ../kaggriculture-candidates/current-multiroute/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 272994,
+        "maxSeconds": 0.134216,
+        "overage": 0,
+        "mean": 34124.25
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-master-v53/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 0,
+        "l": 8,
+        "t": 0,
+        "invalid": 0,
+        "margin": -73204,
+        "maxSeconds": 0.585222,
+        "overage": 0,
+        "mean": -9150.5
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-master-v53/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 0,
+        "l": 8,
+        "t": 0,
+        "invalid": 0,
+        "margin": -63776,
+        "maxSeconds": 1.354013,
+        "overage": 0.3540129999999999,
+        "mean": -7972
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-multiroute/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 0,
+        "l": 8,
+        "t": 0,
+        "invalid": 0,
+        "margin": -291702,
+        "maxSeconds": 0.452197,
+        "overage": 0,
+        "mean": -36462.75
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-multiroute/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 0,
+        "l": 8,
+        "t": 0,
+        "invalid": 0,
+        "margin": -286378,
+        "maxSeconds": 0.496781,
+        "overage": 0,
+        "mean": -35797.25
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 4,
+        "t": 0,
+        "invalid": 0,
+        "margin": -9282,
+        "maxSeconds": 1.035631,
+        "overage": 0.03563099999999997,
+        "mean": -1160.25
+      }
+    ],
+    "correctedIcefire": [
+      {
+        "pair": "candidates/opponent-icefire-entry/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 2,
+        "l": 6,
+        "t": 0,
+        "invalid": 0,
+        "margin": -11402,
+        "maxSeconds": 0.422452,
+        "overage": 0,
+        "mean": -1425.25
+      },
+      {
+        "pair": "candidates/opponent-icefire-entry/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 4,
+        "t": 0,
+        "invalid": 0,
+        "margin": -4104,
+        "maxSeconds": 0.144016,
+        "overage": 0,
+        "mean": -513
+      },
+      {
+        "pair": "candidates/opponent-icefire-entry/main.py vs ../kaggriculture-candidates/current-master-v53/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 71936,
+        "maxSeconds": 0.123322,
+        "overage": 0,
+        "mean": 8992
+      },
+      {
+        "pair": "candidates/opponent-icefire-entry/main.py vs ../kaggriculture-candidates/current-multiroute/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 290222,
+        "maxSeconds": 0.106455,
+        "overage": 0,
+        "mean": 36277.75
+      }
+    ],
+    "fixedAnchor": [
+      {
+        "pair": "candidates/research-fixed-anchor/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 0,
+        "l": 6,
+        "t": 2,
+        "invalid": 0,
+        "margin": -980,
+        "maxSeconds": 0.596351,
+        "overage": 0,
+        "mean": -122.5
+      },
+      {
+        "pair": "candidates/research-fixed-anchor/main.py vs ../kaggriculture-candidates/current-master-v53/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 63808,
+        "maxSeconds": 0.598811,
+        "overage": 0,
+        "mean": 7976
+      },
+      {
+        "pair": "candidates/research-fixed-anchor/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 4,
+        "t": 0,
+        "invalid": 0,
+        "margin": 9366,
+        "maxSeconds": 1.188506,
+        "overage": 0.18850600000000006,
+        "mean": 1170.75
+      }
+    ],
+    "crop": [
+      {
+        "pair": "candidates/research-carrot-more/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 6,
+        "l": 2,
+        "t": 0,
+        "invalid": 0,
+        "margin": 738,
+        "maxSeconds": 1.868531,
+        "overage": 0.8685309999999999,
+        "mean": 92.25
+      },
+      {
+        "pair": "candidates/research-carrot-more/main.py vs ../kaggriculture-candidates/current-master-v53/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 63152,
+        "maxSeconds": 1.293053,
+        "overage": 0.293053,
+        "mean": 7894
+      },
+      {
+        "pair": "candidates/research-wheat-value/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 4,
+        "t": 0,
+        "invalid": 0,
+        "margin": -462,
+        "maxSeconds": 1.169241,
+        "overage": 0.2540739999999999,
+        "mean": -57.75
+      },
+      {
+        "pair": "candidates/research-wheat-value/main.py vs ../kaggriculture-candidates/current-master-v53/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 62130,
+        "maxSeconds": 0.308394,
+        "overage": 0,
+        "mean": 7766.25
+      }
+    ],
+    "historicalRouter": [
+      {
+        "pair": "submissions/v48-2965-mirrorgate/main.py vs submissions/v36-56252965/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 254598,
+        "maxSeconds": 1.321198,
+        "overage": 0.3211980000000001,
+        "mean": 31824.75
+      },
+      {
+        "pair": "candidates/research-carrot-more/main.py vs submissions/v36-56252965/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 247224,
+        "maxSeconds": 1.880264,
+        "overage": 0.8802639999999999,
+        "mean": 30903
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py vs submissions/v36-56252965/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 258140,
+        "maxSeconds": 0.254676,
+        "overage": 0,
+        "mean": 32267.5
+      }
+    ],
+    "economy": [
+      {
+        "pair": "../kaggriculture-candidates/secondary-thomas/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 2,
+        "l": 6,
+        "t": 0,
+        "invalid": 0,
+        "margin": -6738,
+        "maxSeconds": 1.901774,
+        "overage": 0.9017740000000001,
+        "mean": -842.25
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-thomas/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 6,
+        "l": 2,
+        "t": 0,
+        "invalid": 0,
+        "margin": 10636,
+        "maxSeconds": 1.035994,
+        "overage": 0.03599400000000008,
+        "mean": 1329.5
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-risk-feed/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 4,
+        "t": 0,
+        "invalid": 0,
+        "margin": -2804,
+        "maxSeconds": 1.324654,
+        "overage": 0.324654,
+        "mean": -350.5
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-risk-feed/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 16044,
+        "maxSeconds": 0.520328,
+        "overage": 0,
+        "mean": 2005.5
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-more-wheat/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 2,
+        "l": 6,
+        "t": 0,
+        "invalid": 0,
+        "margin": -3480,
+        "maxSeconds": 1.078629,
+        "overage": 0.07862900000000006,
+        "mean": -435
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-more-wheat/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 15414,
+        "maxSeconds": 0.347154,
+        "overage": 0,
+        "mean": 1926.75
+      }
+    ],
+    "production": [
+      {
+        "pair": "../kaggriculture-candidates/secondary-population/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 2,
+        "l": 6,
+        "t": 0,
+        "invalid": 0,
+        "margin": -11252,
+        "maxSeconds": 2.40982,
+        "overage": 1.4098199999999999,
+        "mean": -1406.5
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-population/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 4,
+        "l": 4,
+        "t": 0,
+        "invalid": 0,
+        "margin": -4638,
+        "maxSeconds": 0.44495,
+        "overage": 0,
+        "mean": -579.75
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-cha22/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 8,
+        "w": 2,
+        "l": 6,
+        "t": 0,
+        "invalid": 0,
+        "margin": -88,
+        "maxSeconds": 0.644559,
+        "overage": 0,
+        "mean": -11
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-cha22/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 8,
+        "w": 8,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 24606,
+        "maxSeconds": 0.475782,
+        "overage": 0,
+        "mean": 3075.75
+      }
+    ]
+  },
+  "firstHoldout": {
+    "seeds": [
+      1738330552,
+      246009147,
+      329369857,
+      1175244579,
+      2081803902,
+      1958963692,
+      437161176,
+      332881584,
+      766350815,
+      1321693777,
+      750179537,
+      290259585
+    ],
+    "standings": [
+      {
+        "name": "carrot",
+        "w": 66,
+        "l": 22,
+        "t": 8,
+        "invalid": 0,
+        "score": 0.7291666666666666
+      },
+      {
+        "name": "v48",
+        "w": 64,
+        "l": 22,
+        "t": 10,
+        "invalid": 0,
+        "score": 0.71875
+      },
+      {
+        "name": "harvest",
+        "w": 54,
+        "l": 32,
+        "t": 10,
+        "invalid": 0,
+        "score": 0.6145833333333334
+      },
+      {
+        "name": "godmode",
+        "w": 28,
+        "l": 68,
+        "t": 0,
+        "invalid": 0,
+        "score": 0.2916666666666667
+      },
+      {
+        "name": "icefire",
+        "w": 14,
+        "l": 82,
+        "t": 0,
+        "invalid": 0,
+        "score": 0.14583333333333334
+      }
+    ],
+    "pairs": [
+      {
+        "pair": "candidates/research-carrot-more/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 24,
+        "w": 20,
+        "l": 4,
+        "t": 0,
+        "invalid": 0,
+        "margin": 29552,
+        "maxSeconds": 0.407023,
+        "overage": 0,
+        "mean": 1231.3333333333333
+      },
+      {
+        "pair": "candidates/research-carrot-more/main.py vs candidates/opponent-icefire-entry/main.py",
+        "n": 24,
+        "w": 22,
+        "l": 2,
+        "t": 0,
+        "invalid": 0,
+        "margin": 35017,
+        "maxSeconds": 0.380578,
+        "overage": 0,
+        "mean": 1459.0416666666667
+      },
+      {
+        "pair": "candidates/research-carrot-more/main.py vs ../kaggriculture-candidates/current-harvest/main.py",
+        "n": 24,
+        "w": 12,
+        "l": 8,
+        "t": 4,
+        "invalid": 0,
+        "margin": 1520,
+        "maxSeconds": 0.493675,
+        "overage": 0,
+        "mean": 63.333333333333336
+      },
+      {
+        "pair": "candidates/research-carrot-more/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 24,
+        "w": 12,
+        "l": 8,
+        "t": 4,
+        "invalid": 0,
+        "margin": 1138,
+        "maxSeconds": 1.285419,
+        "overage": 0.2854190000000001,
+        "mean": 47.416666666666664
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py vs candidates/opponent-icefire-entry/main.py",
+        "n": 24,
+        "w": 16,
+        "l": 8,
+        "t": 0,
+        "invalid": 0,
+        "margin": 3097,
+        "maxSeconds": 0.408366,
+        "overage": 0,
+        "mean": 129.04166666666666
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py vs ../kaggriculture-candidates/current-harvest/main.py",
+        "n": 24,
+        "w": 4,
+        "l": 20,
+        "t": 0,
+        "invalid": 0,
+        "margin": -28508,
+        "maxSeconds": 1.636005,
+        "overage": 0.6360049999999999,
+        "mean": -1187.8333333333333
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 24,
+        "w": 4,
+        "l": 20,
+        "t": 0,
+        "invalid": 0,
+        "margin": -28610,
+        "maxSeconds": 1.67792,
+        "overage": 0.6779200000000001,
+        "mean": -1192.0833333333333
+      },
+      {
+        "pair": "candidates/opponent-icefire-entry/main.py vs ../kaggriculture-candidates/current-harvest/main.py",
+        "n": 24,
+        "w": 2,
+        "l": 22,
+        "t": 0,
+        "invalid": 0,
+        "margin": -33661,
+        "maxSeconds": 1.822726,
+        "overage": 0.8227260000000001,
+        "mean": -1402.5416666666667
+      },
+      {
+        "pair": "candidates/opponent-icefire-entry/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 24,
+        "w": 2,
+        "l": 22,
+        "t": 0,
+        "invalid": 0,
+        "margin": -33679,
+        "maxSeconds": 1.746665,
+        "overage": 0.7466649999999999,
+        "mean": -1403.2916666666667
+      },
+      {
+        "pair": "../kaggriculture-candidates/current-harvest/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 24,
+        "w": 4,
+        "l": 14,
+        "t": 6,
+        "invalid": 0,
+        "margin": -434,
+        "maxSeconds": 1.9898,
+        "overage": 0.9898,
+        "mean": -18.083333333333332
+      }
+    ],
+    "independence": "Both seats per seed; not 24 independent worlds per pairing. Public sources share substantial route ancestry."
+  },
+  "frozenTapeDiagnostics": [
+    {
+      "candidate": "carrot",
+      "episode": 114717022,
+      "seat": 1,
+      "rewards": [
+        101179,
+        65428
+      ],
+      "baseline": [
+        101110,
+        65465
+      ],
+      "margin": -35751,
+      "margin_change": -106,
+      "changed_actions": 13,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "carrot",
+      "episode": 114834988,
+      "seat": 1,
+      "rewards": [
+        102657,
+        98410
+      ],
+      "baseline": [
+        102657,
+        98410
+      ],
+      "margin": -4247,
+      "margin_change": 0,
+      "changed_actions": 0,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "carrot",
+      "episode": 114857149,
+      "seat": 0,
+      "rewards": [
+        68108,
+        68151
+      ],
+      "baseline": [
+        67747,
+        68291
+      ],
+      "margin": -43,
+      "margin_change": 501,
+      "changed_actions": 98,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "godmode",
+      "episode": 114717022,
+      "seat": 1,
+      "rewards": [
+        42535,
+        76850
+      ],
+      "baseline": [
+        101110,
+        65465
+      ],
+      "margin": 34315,
+      "margin_change": 69960,
+      "changed_actions": 586,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "godmode",
+      "episode": 114834988,
+      "seat": 1,
+      "rewards": [
+        104122,
+        98678
+      ],
+      "baseline": [
+        102657,
+        98410
+      ],
+      "margin": -5444,
+      "margin_change": -1197,
+      "changed_actions": 157,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "godmode",
+      "episode": 114857149,
+      "seat": 0,
+      "rewards": [
+        66909,
+        69320
+      ],
+      "baseline": [
+        67747,
+        68291
+      ],
+      "margin": -2411,
+      "margin_change": -1867,
+      "changed_actions": 165,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "icefire",
+      "episode": 114717022,
+      "seat": 1,
+      "rewards": [
+        101716,
+        65781
+      ],
+      "baseline": [
+        101110,
+        65465
+      ],
+      "margin": -35935,
+      "margin_change": -290,
+      "changed_actions": 142,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "icefire",
+      "episode": 114834988,
+      "seat": 1,
+      "rewards": [
+        103618,
+        98775
+      ],
+      "baseline": [
+        102657,
+        98410
+      ],
+      "margin": -4843,
+      "margin_change": -596,
+      "changed_actions": 141,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "icefire",
+      "episode": 114857149,
+      "seat": 0,
+      "rewards": [
+        66844,
+        69308
+      ],
+      "baseline": [
+        67747,
+        68291
+      ],
+      "margin": -2464,
+      "margin_change": -1920,
+      "changed_actions": 148,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "cha22",
+      "episode": 114717022,
+      "seat": 1,
+      "rewards": [
+        101602,
+        66409
+      ],
+      "baseline": [
+        101110,
+        65465
+      ],
+      "margin": -35193,
+      "margin_change": 452,
+      "changed_actions": 107,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "cha22",
+      "episode": 114834988,
+      "seat": 1,
+      "rewards": [
+        101241,
+        100728
+      ],
+      "baseline": [
+        102657,
+        98410
+      ],
+      "margin": -513,
+      "margin_change": 3734,
+      "changed_actions": 198,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "cha22",
+      "episode": 114857149,
+      "seat": 0,
+      "rewards": [
+        68229,
+        68630
+      ],
+      "baseline": [
+        67747,
+        68291
+      ],
+      "margin": -401,
+      "margin_change": 143,
+      "changed_actions": 180,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "riskfeed",
+      "episode": 114717022,
+      "seat": 1,
+      "rewards": [
+        101731,
+        66644
+      ],
+      "baseline": [
+        101110,
+        65465
+      ],
+      "margin": -35087,
+      "margin_change": 558,
+      "changed_actions": 80,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "riskfeed",
+      "episode": 114834988,
+      "seat": 1,
+      "rewards": [
+        102980,
+        99000
+      ],
+      "baseline": [
+        102657,
+        98410
+      ],
+      "margin": -3980,
+      "margin_change": 267,
+      "changed_actions": 114,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    },
+    {
+      "candidate": "riskfeed",
+      "episode": 114857149,
+      "seat": 0,
+      "rewards": [
+        66949,
+        69573
+      ],
+      "baseline": [
+        67747,
+        68291
+      ],
+      "margin": -2624,
+      "margin_change": -2080,
+      "changed_actions": 104,
+      "failures": [],
+      "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+    }
+  ],
+  "pending": [],
+  "rejected": [
+    "Fixed-anchor optimizer",
+    "Wheat value threshold 0",
+    "Godmode as a replacement for v48",
+    "Ice-and-Fire as a replacement for v48",
+    "Cha22 as a replacement for v48",
+    "Risk-aware feed as a replacement for v48",
+    "Carrot change as a demonstrated broad-field upgrade"
+  ],
+  "caution": "Carrot leads v48 only narrowly in the five-way table and trails it on the common external opponents; do not call this a broad improvement.",
+  "finalHoldouts": {
+    "cha22": [
+      {
+        "pair": "../kaggriculture-candidates/secondary-cha22/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 24,
+        "w": 6,
+        "l": 18,
+        "t": 0,
+        "invalid": 0,
+        "margin": -1775,
+        "maxSeconds": 1.903571,
+        "overage": 0.9035709999999999,
+        "mean": -73.95833333333333
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-cha22/main.py vs ../kaggriculture-candidates/current-harvest/main.py",
+        "n": 24,
+        "w": 6,
+        "l": 18,
+        "t": 0,
+        "invalid": 0,
+        "margin": -1693,
+        "maxSeconds": 1.715779,
+        "overage": 0.7157789999999999,
+        "mean": -70.54166666666667
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-cha22/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 24,
+        "w": 24,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 63806,
+        "maxSeconds": 0.725417,
+        "overage": 0,
+        "mean": 2658.5833333333335
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-cha22/main.py vs candidates/opponent-icefire-entry/main.py",
+        "n": 24,
+        "w": 24,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 70674,
+        "maxSeconds": 0.379647,
+        "overage": 0,
+        "mean": 2944.75
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-cha22/main.py vs submissions/v47-ready/main.py",
+        "n": 24,
+        "w": 5,
+        "l": 19,
+        "t": 0,
+        "invalid": 0,
+        "margin": -13289,
+        "maxSeconds": 0.729721,
+        "overage": 0,
+        "mean": -553.7083333333334
+      }
+    ],
+    "riskFeed": [
+      {
+        "pair": "../kaggriculture-candidates/secondary-risk-feed/main.py vs submissions/v48-2965-mirrorgate/main.py",
+        "n": 24,
+        "w": 4,
+        "l": 20,
+        "t": 0,
+        "invalid": 0,
+        "margin": -12376,
+        "maxSeconds": 1.566194,
+        "overage": 0.5661940000000001,
+        "mean": -515.6666666666666
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-risk-feed/main.py vs ../kaggriculture-candidates/current-harvest/main.py",
+        "n": 24,
+        "w": 6,
+        "l": 18,
+        "t": 0,
+        "invalid": 0,
+        "margin": -10816,
+        "maxSeconds": 1.215776,
+        "overage": 0.21577599999999997,
+        "mean": -450.6666666666667
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-risk-feed/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+        "n": 24,
+        "w": 24,
+        "l": 0,
+        "t": 0,
+        "invalid": 0,
+        "margin": 40480,
+        "maxSeconds": 0.383292,
+        "overage": 0,
+        "mean": 1686.6666666666667
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-risk-feed/main.py vs candidates/opponent-icefire-entry/main.py",
+        "n": 24,
+        "w": 22,
+        "l": 2,
+        "t": 0,
+        "invalid": 0,
+        "margin": 47023,
+        "maxSeconds": 0.282679,
+        "overage": 0,
+        "mean": 1959.2916666666667
+      },
+      {
+        "pair": "../kaggriculture-candidates/secondary-risk-feed/main.py vs submissions/v47-ready/main.py",
+        "n": 24,
+        "w": 3,
+        "l": 21,
+        "t": 0,
+        "invalid": 0,
+        "margin": -29192,
+        "maxSeconds": 0.603755,
+        "overage": 0,
+        "mean": -1216.3333333333333
+      }
+    ],
+    "v47Controls": [
+      {
+        "pair": "submissions/v48-2965-mirrorgate/main.py vs submissions/v47-ready/main.py",
+        "n": 24,
+        "w": 16,
+        "l": 8,
+        "t": 0,
+        "invalid": 0,
+        "margin": -10709,
+        "maxSeconds": 1.349095,
+        "overage": 0.34909499999999993,
+        "mean": -446.2083333333333
+      },
+      {
+        "pair": "candidates/research-carrot-more/main.py vs submissions/v47-ready/main.py",
+        "n": 24,
+        "w": 16,
+        "l": 8,
+        "t": 0,
+        "invalid": 0,
+        "margin": -11017,
+        "maxSeconds": 0.581835,
+        "overage": 0,
+        "mean": -459.0416666666667
+      }
+    ],
+    "commonOpponents": [
+      "../kaggriculture-candidates/current-harvest/main.py",
+      "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+      "candidates/opponent-icefire-entry/main.py",
+      "submissions/v47-ready/main.py"
+    ],
+    "commonScores": [
+      {
+        "name": "v48",
+        "w": 72,
+        "l": 18,
+        "t": 6,
+        "invalid": 0,
+        "score": 75,
+        "total": 96
+      },
+      {
+        "name": "carrot",
+        "w": 70,
+        "l": 22,
+        "t": 4,
+        "invalid": 0,
+        "score": 72,
+        "total": 96
+      },
+      {
+        "name": "cha22",
+        "w": 59,
+        "l": 37,
+        "t": 0,
+        "invalid": 0,
+        "score": 59,
+        "total": 96
+      },
+      {
+        "name": "riskfeed",
+        "w": 55,
+        "l": 41,
+        "t": 0,
+        "invalid": 0,
+        "score": 55,
+        "total": 96
+      }
+    ]
+  },
+  "feedExecution": [
+    {
+      "episode": "114717022",
+      "reproduced": true,
+      "counts": [
+        {
+          "required_feed_requests": 411
+        },
+        {
+          "required_feed_requests": 330
+        }
+      ],
+      "examples": [
+        [],
+        []
+      ]
+    },
+    {
+      "episode": "114834988",
+      "reproduced": true,
+      "counts": [
+        {
+          "required_feed_requests": 313
+        },
+        {
+          "required_feed_requests": 313
+        }
+      ],
+      "examples": [
+        [],
+        []
+      ]
+    },
+    {
+      "episode": "114857149",
+      "reproduced": true,
+      "counts": [
+        {
+          "required_feed_requests": 319
+        },
+        {
+          "required_feed_requests": 319
+        }
+      ],
+      "examples": [
+        [],
+        []
+      ]
+    }
+  ],
+  "recommendation": "Retain v48 as control. Treat v49 as a live experiment; local common-field results do not establish an improvement.",
+  "package": {
+    "a": "carrot-archive",
+    "b": "carrot-archive",
+    "seed": 632149,
+    "seat": 0,
+    "ar": 79492,
+    "br": 79492,
+    "m": 0,
+    "valid": true,
+    "failures": [],
+    "hashes": [
+      "24415f580b202a712d462228ebb5611c78cb067c90c654a9486d53bfa50fd1f0",
+      "24415f580b202a712d462228ebb5611c78cb067c90c654a9486d53bfa50fd1f0"
+    ],
+    "steps": 720,
+    "statuses": [
+      "DONE",
+      "DONE"
+    ],
+    "configuration": {
+      "episodeSteps": 720,
+      "seed": null,
+      "actTimeout": 1,
+      "runTimeout": 1200,
+      "boardSize": 10,
+      "startingMoney": 3000,
+      "maxMarketOrdersPerTurn": 10,
+      "turnsPerDay": 24,
+      "shedCapacity": 100,
+      "weedSpawnChance": 0.005,
+      "townShopUnlockInterval": 3,
+      "townShopSellInterval": 4,
+      "townCenterSellInterval": 24,
+      "farmHandCostMult": 1,
+      "marketParams": {}
+    },
+    "engine": "1.32.7",
+    "max_action_seconds": [
+      0.345016,
+      0.342982
+    ],
+    "overage_used": [
+      0,
+      0
+    ],
+    "elapsed": 8.786159900017083,
+    "archive_sha256": "3c2a49c37fa0b7c1391f32fa10faaae49b1dc2b0a5c9c39ec38d275724d4df77",
+    "source_sha256": "24415f580b202a712d462228ebb5611c78cb067c90c654a9486d53bfa50fd1f0",
+    "archive_members": [
+      "main.py"
+    ],
+    "promotion": "User-authorized exploratory upload; not a validated broad-field promotion",
+    "cleanup": "Isolated game passed. Windows prevented deleting the temporary current working directory at script exit; the empty directory was removed after the process exited.",
+    "v48_prefix_unchanged": true,
+    "benchmark_hashes": [
+      "24415f580b202a712d462228ebb5611c78cb067c90c654a9486d53bfa50fd1f0"
+    ]
+  },
+  "upload": {
+    "id": 56666488,
+    "version": "v49-carrot-field-experiment",
+    "authorized_choice": "Upload carrot experiment",
+    "status": "SubmissionStatus.COMPLETE",
+    "archive": "submissions/v49-carrot-field-experiment/submission.tar.gz",
+    "source": "submissions/v49-carrot-field-experiment/main.py",
+    "archive_sha256": "3c2a49c37fa0b7c1391f32fa10faaae49b1dc2b0a5c9c39ec38d275724d4df77",
+    "retained_control": 56635809,
+    "replaced_submission": 56635355,
+    "events": [
+      {
+        "status": "SubmissionStatus.PENDING",
+        "observed_at": "2026-09-29T07:08:30Z"
+      },
+      {
+        "status": "SubmissionStatus.COMPLETE",
+        "observed_at": "2026-09-29T07:10:04Z"
+      }
+    ],
+    "date": "2026-09-29 07:06:28.330000",
+    "description": "v49 exploratory: V81 carrot margin -22; 12-8-4 vs v48 and 16-8 vs v47 on 12 paired seeds; common-field score 72/96 vs v48 75/96; not a validated broad upgrade. Apache-2.0 ancestry retained."
+  }
+}

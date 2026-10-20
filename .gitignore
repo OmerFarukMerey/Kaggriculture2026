@@ -4,14 +4,23 @@ __pycache__/
 .venv/
 venv/
 
-# Scratch build output — packaged artifacts live under submissions/
+# Credentials and local tool settings
+kaggle.json
+.claude/
+
+# Replay JSONs run to tens of GB and live outside the repo (see README).
+#   kaggle competitions replay <EPISODE_ID> -p ../kaggriculture-data/replays
+replays/
+replays_top/
+*-replay.json
+
+# Official starter notebook (~23 MB), available from the competition page.
+kaggriculture-getting-started.ipynb
+
+# Scratch build output; packaged archives live next to their main.py
 /submission.tar.gz
+/archive/v21.2-pipeline/submission.tar.gz
 
-# Large re-downloadable artifacts.
-#   kaggle competitions replay <EPISODE_ID> -p ./replays
-replays/*.json
-# Official starter notebook (~23 MB), fetched from the competition page.
-/kaggriculture-getting-started.ipynb
-
-# macOS
+# OS noise
 .DS_Store
+Thumbs.db

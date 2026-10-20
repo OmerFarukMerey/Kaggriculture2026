@@ -1,0 +1,5 @@
+# Local evaluation (harness/, tools/build_v50.py --extract). Results in this repo were produced
+# with this exact version; the engine is not guaranteed stable across releases.
+kaggle-environments==1.32.7
+# Pulling episodes, replays and submitting.
+kaggle

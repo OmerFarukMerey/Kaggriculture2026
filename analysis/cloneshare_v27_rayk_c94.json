@@ -1,0 +1,362 @@
+[
+ {
+  "frac": 1.0,
+  "opponent": "Meng Di",
+  "episode": "92458650",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Touhidul Alam Seyam",
+  "episode": "92399676",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.8,
+  "opponent": "ShiviWhivi",
+  "episode": "92345175",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Adarsh",
+  "episode": "92781731",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Samuel Sundararaman ",
+  "episode": "92297723",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Zhen Li",
+  "episode": "92674951",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.825,
+  "opponent": "James Mcquay",
+  "episode": "92802018",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "\u6881\u5723\u7684\u6069\u60c5\u8fd8\u4e0d\u5b8c",
+  "episode": "92308987",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "yolo",
+  "episode": "92381136",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.125,
+  "opponent": "Saud Saudesen",
+  "episode": "92681676",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Boruiyang21",
+  "episode": "92293046",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.825,
+  "opponent": "kowalskii",
+  "episode": "92422898",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "MOHAMMADJAFAR ZAMANI",
+  "episode": "92747289",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "Amer Alkhalili",
+  "episode": "92323117",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Tai Tien Ta",
+  "episode": "92295868",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "GUAM",
+  "episode": "92659788",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Tam1m",
+  "episode": "92319338",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Md. Abdullah Al Mamun",
+  "episode": "92310868",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.775,
+  "opponent": "Zhang Yingluo",
+  "episode": "92730981",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "roma",
+  "episode": "92320283",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "ideal_m99",
+  "episode": "92305258",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "GzmCR632",
+  "episode": "92317471",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Labh Khatke",
+  "episode": "92309927",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Liquidus",
+  "episode": "92308057",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "TAUIL Abd Elilah",
+  "episode": "92311805",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "ack07",
+  "episode": "92306184",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.125,
+  "opponent": "Aadhithya Ramesh",
+  "episode": "92279906",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "Vishal Khomane",
+  "episode": "92641171",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "Rheal Thomas",
+  "episode": "92314644",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "suminshim",
+  "episode": "92288360",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Jiahan Cao",
+  "episode": "92277090",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Josep Audenis",
+  "episode": "92283638",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "aisamhottman",
+  "episode": "92706506",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.825,
+  "opponent": "Juwon Kweon",
+  "episode": "92646117",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Mateus Cruz, Msc.",
+  "episode": "92301494",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "StrugglerK",
+  "episode": "92624744",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.825,
+  "opponent": "KodamaSec Labs LTD",
+  "episode": "92667468",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "Hiroyasu Okuno",
+  "episode": "92347989",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Hugelidus",
+  "episode": "92445161",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Tommy Mancino",
+  "episode": "92281775",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "tyz123456",
+  "episode": "92624374",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "Nolan Liang",
+  "episode": "92313687",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "LEEKANG",
+  "episode": "92291171",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.825,
+  "opponent": "tipstar0125",
+  "episode": "92507982",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "Rheal Thomas",
+  "episode": "92561360",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "Deployable LLMs",
+  "episode": "92278022",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "venks",
+  "episode": "92410432",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "Ddere008",
+  "episode": "92551066",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "kss",
+  "episode": "92361334",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Israel Burns",
+  "episode": "92280124",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "stars_w",
+  "episode": "92668481",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "Nikola010",
+  "episode": "92519216",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Xiaolei Lian",
+  "episode": "92315588",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "62326368",
+  "episode": "92783311",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "Blacklions.",
+  "episode": "92768836",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Pascal Pfeiffer",
+  "episode": "92601241",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Manolo Chow",
+  "episode": "92316526",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Mateus Cruz, Msc.",
+  "episode": "92302456",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.025,
+  "opponent": "Bang sion",
+  "episode": "92543522",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.425,
+  "opponent": "spellstriker",
+  "episode": "92454019",
+  "outcome": "WIN"
+ }
+]

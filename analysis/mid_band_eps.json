@@ -1,0 +1,272 @@
+[
+ {
+  "episode": "100314649",
+  "opponent": "Will",
+  "outcome": "WIN",
+  "margin": 3107.0,
+  "seat": 0,
+  "our": 72855.0,
+  "their": 69748.0
+ },
+ {
+  "episode": "100332909",
+  "opponent": "Terry Luo",
+  "outcome": "WIN",
+  "margin": 3824.0,
+  "seat": 1,
+  "our": 123191.0,
+  "their": 119367.0
+ },
+ {
+  "episode": "101540537",
+  "opponent": "peikopon",
+  "outcome": "LOSS",
+  "margin": -7838.0,
+  "seat": 1,
+  "our": 58590.0,
+  "their": 66428.0
+ },
+ {
+  "episode": "100519780",
+  "opponent": "antadam127",
+  "outcome": "LOSS",
+  "margin": -8981.0,
+  "seat": 0,
+  "our": 69200.0,
+  "their": 78181.0
+ },
+ {
+  "episode": "100310091",
+  "opponent": "Will",
+  "outcome": "WIN",
+  "margin": 4045.0,
+  "seat": 0,
+  "our": 119331.0,
+  "their": 115286.0
+ },
+ {
+  "episode": "100700185",
+  "opponent": "UjjwalPardeshi",
+  "outcome": "LOSS",
+  "margin": -1393.0,
+  "seat": 0,
+  "our": 63689.0,
+  "their": 65082.0
+ },
+ {
+  "episode": "100335169",
+  "opponent": "Reyhan Ksatria",
+  "outcome": "WIN",
+  "margin": 736.0,
+  "seat": 1,
+  "our": 99201.0,
+  "their": 98465.0
+ },
+ {
+  "episode": "100428772",
+  "opponent": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -2630.0,
+  "seat": 1,
+  "our": 106222.0,
+  "their": 108852.0
+ },
+ {
+  "episode": "101138253",
+  "opponent": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -15997.0,
+  "seat": 1,
+  "our": 115217.0,
+  "their": 131214.0
+ },
+ {
+  "episode": "101053910",
+  "opponent": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -15538.0,
+  "seat": 0,
+  "our": 92742.0,
+  "their": 108280.0
+ },
+ {
+  "episode": "100342036",
+  "opponent": "G!vIOne",
+  "outcome": "WIN",
+  "margin": 4284.0,
+  "seat": 1,
+  "our": 81572.0,
+  "their": 77288.0
+ },
+ {
+  "episode": "100885026",
+  "opponent": "G!vIOne",
+  "outcome": "WIN",
+  "margin": 1658.0,
+  "seat": 0,
+  "our": 41882.0,
+  "their": 40224.0
+ },
+ {
+  "episode": "101179316",
+  "opponent": "Debmalya",
+  "outcome": "LOSS",
+  "margin": -16474.0,
+  "seat": 1,
+  "our": 50923.0,
+  "their": 67397.0
+ },
+ {
+  "episode": "101051554",
+  "opponent": "prvsiyan",
+  "outcome": "LOSS",
+  "margin": -4892.0,
+  "seat": 0,
+  "our": 79136.0,
+  "their": 84028.0
+ },
+ {
+  "episode": "100284995",
+  "opponent": "Naru041104",
+  "outcome": "WIN",
+  "margin": 4446.0,
+  "seat": 1,
+  "our": 101233.0,
+  "their": 96787.0
+ },
+ {
+  "episode": "100221387",
+  "opponent": "JeremiahMannings",
+  "outcome": "WIN",
+  "margin": 5604.0,
+  "seat": 1,
+  "our": 88588.0,
+  "their": 82984.0
+ },
+ {
+  "episode": "100239256",
+  "opponent": "Anaconda",
+  "outcome": "LOSS",
+  "margin": -6867.0,
+  "seat": 1,
+  "our": 51128.0,
+  "their": 57995.0
+ },
+ {
+  "episode": "100364956",
+  "opponent": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -11242.0,
+  "seat": 0,
+  "our": 77864.0,
+  "their": 89106.0
+ },
+ {
+  "episode": "100312366",
+  "opponent": "UtaAzu",
+  "outcome": "WIN",
+  "margin": 4551.0,
+  "seat": 0,
+  "our": 61185.0,
+  "their": 56634.0
+ },
+ {
+  "episode": "101603189",
+  "opponent": "Terry Luo",
+  "outcome": "WIN",
+  "margin": 2301.0,
+  "seat": 0,
+  "our": 85194.0,
+  "their": 82893.0
+ },
+ {
+  "episode": "100579177",
+  "opponent": "redblackbst",
+  "outcome": "LOSS",
+  "margin": -14534.0,
+  "seat": 1,
+  "our": 97550.0,
+  "their": 112084.0
+ },
+ {
+  "episode": "101215714",
+  "opponent": "Kaggs",
+  "outcome": "LOSS",
+  "margin": -5925.0,
+  "seat": 0,
+  "our": 120514.0,
+  "their": 126439.0
+ },
+ {
+  "episode": "101562804",
+  "opponent": "moonzfxs",
+  "outcome": "LOSS",
+  "margin": -14934.0,
+  "seat": 0,
+  "our": 64632.0,
+  "their": 79566.0
+ },
+ {
+  "episode": "100451551",
+  "opponent": "Janus",
+  "outcome": "LOSS",
+  "margin": -1708.0,
+  "seat": 1,
+  "our": 110733.0,
+  "their": 112441.0
+ },
+ {
+  "episode": "100278127",
+  "opponent": "MD. Nazmus Sakib Anik",
+  "outcome": "WIN",
+  "margin": 2348.0,
+  "seat": 1,
+  "our": 106037.0,
+  "their": 103689.0
+ },
+ {
+  "episode": "100241549",
+  "opponent": "Saicharan Ramineni",
+  "outcome": "WIN",
+  "margin": 5861.0,
+  "seat": 0,
+  "our": 96220.0,
+  "their": 90359.0
+ },
+ {
+  "episode": "100268979",
+  "opponent": "Aura Farming",
+  "outcome": "LOSS",
+  "margin": -2329.0,
+  "seat": 0,
+  "our": 120838.0,
+  "their": 123167.0
+ },
+ {
+  "episode": "100255291",
+  "opponent": "Chanhyuk Han",
+  "outcome": "WIN",
+  "margin": 3962.0,
+  "seat": 0,
+  "our": 110133.0,
+  "their": 106171.0
+ },
+ {
+  "episode": "100337451",
+  "opponent": "Zyy7390",
+  "outcome": "WIN",
+  "margin": 462.0,
+  "seat": 0,
+  "our": 65347.0,
+  "their": 64885.0
+ },
+ {
+  "episode": "100271268",
+  "opponent": "Bruce Zheng",
+  "outcome": "WIN",
+  "margin": 2651.0,
+  "seat": 1,
+  "our": 59108.0,
+  "their": 56457.0
+ }
+]

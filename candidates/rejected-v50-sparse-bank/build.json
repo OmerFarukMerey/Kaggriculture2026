@@ -1,0 +1,15 @@
+{
+  "source": "submissions\\v50-adaptive-economy\\main.py",
+  "sha256": "f271715604cedf2e1d9ce9221d44462389b46b7ed1e976121d14d2cbd0a9c7db",
+  "module_sha256": {
+    "_engine": "19a3042b8b09a37d6e2835f0cec8ad2e8963b659f4b5b35b6f660bb467d3f377",
+    "mechanics": "e612ccf808516e5c3d0a7987b28ba8eaaa43cb4f6a4291f01086868b41d336bd",
+    "data": "310278794f19adb4f9d7fab8f3ec48947a29e81811caba21bea55e22f5e0c0b6",
+    "production": "c1c00f5a21ffb906ce16b6bca9d6acb2021d51392ef4f937ae32a767843a06e9",
+    "market": "c38c77aec390ed00f663dcaf002a5353078416fbe56a13b0d7305d394cd17bcd"
+  },
+  "reused": [
+    "v48/v46 measured physical schedules",
+    "kaggle-environments 1.32.7 deterministic rules"
+  ]
+}

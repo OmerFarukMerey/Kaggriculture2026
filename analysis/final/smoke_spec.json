@@ -1,0 +1,93 @@
+{
+ "agents": {
+  "v38s": "../kaggriculture-candidates/final/kaggriculture-v38-smarter-feed-stronger-/main.py",
+  "v39s": "../kaggriculture-candidates/final/kaggriculture-v39-ready-before-the-rush/main.py",
+  "v34s": "../kaggriculture-candidates/final/kaggriculture-v34-observed-market-timing/main.py",
+  "v41s": "../kaggriculture-candidates/final/kaggriculture-v41-review-candidate/main.py",
+  "v53s": "../kaggriculture-candidates/final/kaggriculture-v53-opening-signature/main.py",
+  "v55s": "../kaggriculture-candidates/final/kaggriculture-v55-one-turn-market-race-e/main.py",
+  "v57s": "../kaggriculture-candidates/final/kaggriculture-v57-funding-order-invarian/main.py",
+  "mshock": "../kaggriculture-candidates/final/a-song-of-ice-and-fire-fixed-flexible/main.py",
+  "router7": "../kaggriculture-candidates/final/kaggriculture-shop-router-reactive-v7/main.py",
+  "pipe5": "../kaggriculture-candidates/final/kaggriculture-pipe-5-terminal-boost/main.py",
+  "herdwin": "../kaggriculture-candidates/final/kaggriculture-herd-safe-sale-window-subm/main.py",
+  "shepherd": "../kaggriculture-candidates/final/the-shepherds-ledger-herd-safe-sovereign/main.py",
+  "gtmaster": "../kaggriculture-candidates/final/game-theoretic-master-discrete-optimizat/main.py",
+  "godmode": "../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+  "v46": "submissions/v46-platform/main.py",
+  "v48": "submissions/v48-2965-mirrorgate/main.py",
+  "v50": "submissions/v50-adaptive-economy/main.py"
+ },
+ "pairs": [
+  [
+   "v38s",
+   "v46"
+  ],
+  [
+   "v39s",
+   "v46"
+  ],
+  [
+   "v34s",
+   "v46"
+  ],
+  [
+   "v41s",
+   "v46"
+  ],
+  [
+   "v53s",
+   "v46"
+  ],
+  [
+   "v55s",
+   "v46"
+  ],
+  [
+   "v57s",
+   "v46"
+  ],
+  [
+   "mshock",
+   "v46"
+  ],
+  [
+   "router7",
+   "v46"
+  ],
+  [
+   "pipe5",
+   "v46"
+  ],
+  [
+   "herdwin",
+   "v46"
+  ],
+  [
+   "shepherd",
+   "v46"
+  ],
+  [
+   "gtmaster",
+   "v46"
+  ],
+  [
+   "godmode",
+   "v46"
+  ],
+  [
+   "v48",
+   "v46"
+  ],
+  [
+   "v50",
+   "v46"
+  ]
+ ],
+ "seeds": [
+  61001
+ ],
+ "seats": [
+  0
+ ]
+}

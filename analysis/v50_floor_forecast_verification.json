@@ -1,0 +1,7 @@
+{
+  "before_forecast": 10.0,
+  "after_forecast": 1430.0,
+  "real_engine_relative_cash": 1422.0,
+  "floor_inventory": 10076,
+  "public_demand_after_glut": 72
+}

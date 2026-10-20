@@ -1,0 +1,32 @@
+{
+  "engine": "1.32.7",
+  "seed": 632149,
+  "steps": 720,
+  "statuses": [
+    "DONE",
+    "DONE"
+  ],
+  "actions": [
+    719,
+    719
+  ],
+  "rewards": [
+    90100.0,
+    90100.0
+  ],
+  "max_action_seconds": [
+    0.213979,
+    0.123679
+  ],
+  "files_after": [
+    "main.py"
+  ],
+  "errors": [],
+  "valid": true,
+  "source_sha256": "f271715604cedf2e1d9ce9221d44462389b46b7ed1e976121d14d2cbd0a9c7db",
+  "archive_sha256": "423865506e9318dcaea046c697bba21f30105c578de44d75f97534ca942cd4ae",
+  "archive_bytes": 104460,
+  "members": [
+    "main.py"
+  ]
+}

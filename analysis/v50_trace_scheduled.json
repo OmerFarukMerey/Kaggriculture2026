@@ -1,0 +1,4544 @@
+{
+  "seed": 1381090153,
+  "rewards": [
+    75029.0,
+    86839.0
+  ],
+  "statuses": [
+    "DONE",
+    "DONE"
+  ],
+  "steps": 720,
+  "errors": [],
+  "trades": [
+    {
+      "BUY_ANIMAL:COW": {
+        "quantity": 6,
+        "value": 2400
+      },
+      "BUY_ANIMAL:SHEEP": {
+        "quantity": 11,
+        "value": 5500
+      },
+      "BUY_PRODUCT:WHEAT": {
+        "quantity": 69,
+        "value": 2429
+      },
+      "BUY_SEED:MELON": {
+        "quantity": 12,
+        "value": 960
+      },
+      "BUY_SEED:WHEAT": {
+        "quantity": 165,
+        "value": 1650
+      },
+      "SELL:FERTILIZER": {
+        "quantity": 304,
+        "value": 12833
+      },
+      "SELL:WHEAT": {
+        "quantity": 218,
+        "value": 8608
+      },
+      "BUY_SEED:STRAWBERRY": {
+        "quantity": 33,
+        "value": 3300
+      },
+      "SELL:WOOL": {
+        "quantity": 282,
+        "value": 29632
+      },
+      "SELL:MILK": {
+        "quantity": 188,
+        "value": 16139
+      },
+      "SELL:MELON": {
+        "quantity": 72,
+        "value": 14264
+      },
+      "SELL:STRAWBERRY": {
+        "quantity": 249,
+        "value": 11610
+      },
+      "BUY_SEED:CARROT": {
+        "quantity": 28,
+        "value": 560
+      },
+      "SELL:CARROT": {
+        "quantity": 75,
+        "value": 3592
+      }
+    },
+    {
+      "BUY_PRODUCT:WHEAT": {
+        "quantity": 149,
+        "value": 5510
+      },
+      "SELL:WHEAT": {
+        "quantity": 395,
+        "value": 15656
+      },
+      "BUY_SEED:WHEAT": {
+        "quantity": 164,
+        "value": 1640
+      },
+      "BUY_ANIMAL:COW": {
+        "quantity": 6,
+        "value": 2400
+      },
+      "BUY_ANIMAL:SHEEP": {
+        "quantity": 11,
+        "value": 5500
+      },
+      "BUY_SEED:MELON": {
+        "quantity": 12,
+        "value": 960
+      },
+      "SELL:FERTILIZER": {
+        "quantity": 327,
+        "value": 13191
+      },
+      "BUY_SEED:STRAWBERRY": {
+        "quantity": 33,
+        "value": 3300
+      },
+      "SELL:WOOL": {
+        "quantity": 254,
+        "value": 33870
+      },
+      "SELL:MILK": {
+        "quantity": 179,
+        "value": 18470
+      },
+      "SELL:MELON": {
+        "quantity": 72,
+        "value": 14269
+      },
+      "BUY_PRODUCT:FERTILIZER": {
+        "quantity": 58,
+        "value": 883
+      },
+      "SELL:STRAWBERRY": {
+        "quantity": 246,
+        "value": 13698
+      },
+      "BUY_SEED:CARROT": {
+        "quantity": 31,
+        "value": 620
+      },
+      "SELL:CARROT": {
+        "quantity": 89,
+        "value": 4157
+      }
+    }
+  ],
+  "snapshots": [
+    {
+      "step": 0,
+      "farms": [
+        {
+          "money": 3000.0,
+          "counts": {},
+          "ready": {},
+          "hands": 0
+        },
+        {
+          "money": 3000.0,
+          "counts": {},
+          "ready": {},
+          "hands": 0
+        }
+      ],
+      "shops": [],
+      "prices": {
+        "WHEAT": 25,
+        "CARROT": 35,
+        "TOMATO": 60,
+        "STRAWBERRY": 120,
+        "MELON": 250,
+        "EGG": 50,
+        "MILK": 160,
+        "WOOL": 200,
+        "FERTILIZER": 100
+      }
+    },
+    {
+      "step": 24,
+      "farms": [
+        {
+          "money": 74.0,
+          "counts": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "SHEEP": 2,
+            "COW": 2
+          },
+          "ready": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "SHEEP": 0,
+            "COW": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 15.0,
+          "counts": {
+            "WHEAT": 8,
+            "MELON": 12,
+            "SHEEP": 2,
+            "COW": 2
+          },
+          "ready": {
+            "WHEAT": 8,
+            "MELON": 12,
+            "SHEEP": 0,
+            "COW": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [],
+      "prices": {
+        "WHEAT": 28,
+        "CARROT": 35,
+        "TOMATO": 60,
+        "STRAWBERRY": 128,
+        "MELON": 256,
+        "EGG": 50,
+        "MILK": 169,
+        "WOOL": 206,
+        "FERTILIZER": 100
+      }
+    },
+    {
+      "step": 48,
+      "farms": [
+        {
+          "money": 164.0,
+          "counts": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "PASTURE": 2,
+            "SHEEP": 2,
+            "COW": 2
+          },
+          "ready": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "PASTURE": 0,
+            "SHEEP": 0,
+            "COW": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 107.0,
+          "counts": {
+            "WHEAT": 8,
+            "MELON": 12,
+            "PASTURE": 1,
+            "SHEEP": 2,
+            "COW": 2
+          },
+          "ready": {
+            "WHEAT": 8,
+            "MELON": 12,
+            "PASTURE": 0,
+            "SHEEP": 0,
+            "COW": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [],
+      "prices": {
+        "WHEAT": 30,
+        "CARROT": 35,
+        "TOMATO": 60,
+        "STRAWBERRY": 132,
+        "MELON": 260,
+        "EGG": 50,
+        "MILK": 172,
+        "WOOL": 209,
+        "FERTILIZER": 99
+      }
+    },
+    {
+      "step": 72,
+      "farms": [
+        {
+          "money": 217.0,
+          "counts": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "COW": 3,
+            "SHEEP": 2,
+            "PASTURE": 1
+          },
+          "ready": {
+            "WHEAT": 11,
+            "MELON": 12,
+            "COW": 0,
+            "SHEEP": 0,
+            "PASTURE": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 220.0,
+          "counts": {
+            "WHEAT": 8,
+            "MELON": 12,
+            "COW": 3,
+            "SHEEP": 2
+          },
+          "ready": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "COW": 0,
+            "SHEEP": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP"
+      ],
+      "prices": {
+        "WHEAT": 30,
+        "CARROT": 35,
+        "TOMATO": 60,
+        "STRAWBERRY": 135,
+        "MELON": 262,
+        "EGG": 50,
+        "MILK": 175,
+        "WOOL": 212,
+        "FERTILIZER": 97
+      }
+    },
+    {
+      "step": 96,
+      "farms": [
+        {
+          "money": 270.0,
+          "counts": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "COW": 4,
+            "SHEEP": 2
+          },
+          "ready": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "COW": 0,
+            "SHEEP": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 273.0,
+          "counts": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "COW": 4,
+            "SHEEP": 2
+          },
+          "ready": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "COW": 0,
+            "SHEEP": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP"
+      ],
+      "prices": {
+        "WHEAT": 30,
+        "CARROT": 35,
+        "TOMATO": 61,
+        "STRAWBERRY": 137,
+        "MELON": 264,
+        "EGG": 50,
+        "MILK": 187,
+        "WOOL": 214,
+        "FERTILIZER": 95
+      }
+    },
+    {
+      "step": 120,
+      "farms": [
+        {
+          "money": 945.0,
+          "counts": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "COW": 4,
+            "SHEEP": 2
+          },
+          "ready": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "COW": 0,
+            "SHEEP": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 680.0,
+          "counts": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "COW": 4,
+            "SHEEP": 2
+          },
+          "ready": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "COW": 0,
+            "SHEEP": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP"
+      ],
+      "prices": {
+        "WHEAT": 30,
+        "CARROT": 35,
+        "TOMATO": 62,
+        "STRAWBERRY": 139,
+        "MELON": 266,
+        "EGG": 50,
+        "MILK": 196,
+        "WOOL": 215,
+        "FERTILIZER": 93
+      }
+    },
+    {
+      "step": 144,
+      "farms": [
+        {
+          "money": 998.0,
+          "counts": {
+            "WHEAT": 3,
+            "STRAWBERRY": 4,
+            "MELON": 12,
+            "COW": 4,
+            "SHEEP": 2
+          },
+          "ready": {
+            "WHEAT": 3,
+            "STRAWBERRY": 0,
+            "MELON": 12,
+            "COW": 0,
+            "SHEEP": 12
+          },
+          "hands": 0
+        },
+        {
+          "money": 793.0,
+          "counts": {
+            "WHEAT": 3,
+            "STRAWBERRY": 4,
+            "MELON": 12,
+            "COW": 4,
+            "SHEEP": 2
+          },
+          "ready": {
+            "WHEAT": 3,
+            "STRAWBERRY": 0,
+            "MELON": 12,
+            "COW": 0,
+            "SHEEP": 12
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE"
+      ],
+      "prices": {
+        "WHEAT": 31,
+        "CARROT": 35,
+        "TOMATO": 63,
+        "STRAWBERRY": 141,
+        "MELON": 267,
+        "EGG": 50,
+        "MILK": 203,
+        "WOOL": 217,
+        "FERTILIZER": 91
+      }
+    },
+    {
+      "step": 168,
+      "farms": [
+        {
+          "money": 1196.0,
+          "counts": {
+            "STRAWBERRY": 12,
+            "MELON": 12,
+            "WHEAT": 5,
+            "COW": 4,
+            "PASTURE": 5,
+            "SHEEP": 4
+          },
+          "ready": {
+            "STRAWBERRY": 0,
+            "MELON": 24,
+            "WHEAT": 5,
+            "COW": 0,
+            "PASTURE": 0,
+            "SHEEP": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 1115.0,
+          "counts": {
+            "STRAWBERRY": 12,
+            "MELON": 12,
+            "WHEAT": 5,
+            "COW": 4,
+            "PASTURE": 5,
+            "SHEEP": 4
+          },
+          "ready": {
+            "STRAWBERRY": 0,
+            "MELON": 24,
+            "WHEAT": 5,
+            "COW": 0,
+            "PASTURE": 0,
+            "SHEEP": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE"
+      ],
+      "prices": {
+        "WHEAT": 31,
+        "CARROT": 36,
+        "TOMATO": 64,
+        "STRAWBERRY": 142,
+        "MELON": 268,
+        "EGG": 50,
+        "MILK": 208,
+        "WOOL": 199,
+        "FERTILIZER": 88
+      }
+    },
+    {
+      "step": 192,
+      "farms": [
+        {
+          "money": 449.0,
+          "counts": {
+            "WHEAT": 9,
+            "STRAWBERRY": 16,
+            "MELON": 12,
+            "COW": 6,
+            "PASTURE": 3,
+            "SHEEP": 4
+          },
+          "ready": {
+            "WHEAT": 9,
+            "STRAWBERRY": 0,
+            "MELON": 36,
+            "COW": 12,
+            "PASTURE": 0,
+            "SHEEP": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 174.0,
+          "counts": {
+            "WHEAT": 9,
+            "STRAWBERRY": 16,
+            "MELON": 12,
+            "COW": 6,
+            "PASTURE": 3,
+            "SHEEP": 4
+          },
+          "ready": {
+            "WHEAT": 9,
+            "STRAWBERRY": 0,
+            "MELON": 36,
+            "COW": 12,
+            "PASTURE": 0,
+            "SHEEP": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE"
+      ],
+      "prices": {
+        "WHEAT": 32,
+        "CARROT": 36,
+        "TOMATO": 65,
+        "STRAWBERRY": 144,
+        "MELON": 269,
+        "EGG": 50,
+        "MILK": 214,
+        "WOOL": 219,
+        "FERTILIZER": 85
+      }
+    },
+    {
+      "step": 216,
+      "farms": [
+        {
+          "money": 1777.0,
+          "counts": {
+            "WHEAT": 5,
+            "STRAWBERRY": 20,
+            "MELON": 12,
+            "COW": 6,
+            "PASTURE": 1,
+            "SHEEP": 6
+          },
+          "ready": {
+            "WHEAT": 5,
+            "STRAWBERRY": 0,
+            "MELON": 48,
+            "COW": 0,
+            "PASTURE": 0,
+            "SHEEP": 8
+          },
+          "hands": 0
+        },
+        {
+          "money": 1573.0,
+          "counts": {
+            "WHEAT": 5,
+            "STRAWBERRY": 20,
+            "MELON": 12,
+            "COW": 6,
+            "PASTURE": 1,
+            "SHEEP": 6
+          },
+          "ready": {
+            "WHEAT": 5,
+            "STRAWBERRY": 0,
+            "MELON": 48,
+            "COW": 0,
+            "PASTURE": 0,
+            "SHEEP": 8
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 34,
+        "CARROT": 36,
+        "TOMATO": 65,
+        "STRAWBERRY": 145,
+        "MELON": 270,
+        "EGG": 51,
+        "MILK": 200,
+        "WOOL": 227,
+        "FERTILIZER": 81
+      }
+    },
+    {
+      "step": 240,
+      "farms": [
+        {
+          "money": 4018.0,
+          "counts": {
+            "WHEAT": 5,
+            "STRAWBERRY": 20,
+            "MELON": 12,
+            "COW": 6,
+            "SHEEP": 7
+          },
+          "ready": {
+            "WHEAT": 5,
+            "STRAWBERRY": 0,
+            "MELON": 60,
+            "COW": 11,
+            "SHEEP": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 4086.0,
+          "counts": {
+            "WHEAT": 5,
+            "STRAWBERRY": 20,
+            "MELON": 12,
+            "COW": 6,
+            "SHEEP": 7
+          },
+          "ready": {
+            "WHEAT": 5,
+            "STRAWBERRY": 0,
+            "MELON": 60,
+            "COW": 11,
+            "SHEEP": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 35,
+        "CARROT": 36,
+        "TOMATO": 66,
+        "STRAWBERRY": 154,
+        "MELON": 271,
+        "EGG": 51,
+        "MILK": 206,
+        "WOOL": 225,
+        "FERTILIZER": 76
+      }
+    },
+    {
+      "step": 264,
+      "farms": [
+        {
+          "money": 17085.0,
+          "counts": {
+            "WHEAT": 12,
+            "STRAWBERRY": 20,
+            "COOP": 1,
+            "SHEEP": 10,
+            "COW": 6,
+            "PASTURE": 1
+          },
+          "ready": {
+            "WHEAT": 13,
+            "STRAWBERRY": 0,
+            "COOP": 0,
+            "SHEEP": 0,
+            "COW": 6,
+            "PASTURE": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 16946.0,
+          "counts": {
+            "WHEAT": 12,
+            "STRAWBERRY": 20,
+            "COOP": 1,
+            "SHEEP": 10,
+            "COW": 6,
+            "PASTURE": 1
+          },
+          "ready": {
+            "WHEAT": 13,
+            "STRAWBERRY": 0,
+            "COOP": 0,
+            "SHEEP": 0,
+            "COW": 6,
+            "PASTURE": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 36,
+        "CARROT": 36,
+        "TOMATO": 67,
+        "STRAWBERRY": 160,
+        "MELON": 131,
+        "EGG": 51,
+        "MILK": 191,
+        "WOOL": 230,
+        "FERTILIZER": 76
+      }
+    },
+    {
+      "step": 288,
+      "farms": [
+        {
+          "money": 15710.0,
+          "counts": {
+            "STRAWBERRY": 33,
+            "WHEAT": 20,
+            "COOP": 1,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "STRAWBERRY": 0,
+            "WHEAT": 22,
+            "COOP": 0,
+            "SHEEP": 20,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 15615.0,
+          "counts": {
+            "STRAWBERRY": 33,
+            "WHEAT": 20,
+            "COOP": 1,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "STRAWBERRY": 0,
+            "WHEAT": 22,
+            "COOP": 0,
+            "SHEEP": 20,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE"
+      ],
+      "prices": {
+        "WHEAT": 38,
+        "CARROT": 36,
+        "TOMATO": 68,
+        "STRAWBERRY": 166,
+        "MELON": 76,
+        "EGG": 52,
+        "MILK": 185,
+        "WOOL": 233,
+        "FERTILIZER": 71
+      }
+    },
+    {
+      "step": 312,
+      "farms": [
+        {
+          "money": 20705.0,
+          "counts": {
+            "WHEAT": 24,
+            "STRAWBERRY": 33,
+            "COOP": 1,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 29,
+            "STRAWBERRY": 0,
+            "COOP": 0,
+            "SHEEP": 0,
+            "COW": 6
+          },
+          "hands": 0
+        },
+        {
+          "money": 20520.0,
+          "counts": {
+            "WHEAT": 24,
+            "STRAWBERRY": 33,
+            "COOP": 1,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 29,
+            "STRAWBERRY": 0,
+            "COOP": 0,
+            "SHEEP": 0,
+            "COW": 6
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE"
+      ],
+      "prices": {
+        "WHEAT": 40,
+        "CARROT": 37,
+        "TOMATO": 69,
+        "STRAWBERRY": 171,
+        "MELON": 78,
+        "EGG": 52,
+        "MILK": 175,
+        "WOOL": 228,
+        "FERTILIZER": 64
+      }
+    },
+    {
+      "step": 336,
+      "farms": [
+        {
+          "money": 23202.0,
+          "counts": {
+            "WHEAT": 24,
+            "STRAWBERRY": 33,
+            "COOP": 1,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 34,
+            "STRAWBERRY": 0,
+            "COOP": 0,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 23266.0,
+          "counts": {
+            "WHEAT": 24,
+            "STRAWBERRY": 33,
+            "COOP": 1,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 34,
+            "STRAWBERRY": 0,
+            "COOP": 0,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE"
+      ],
+      "prices": {
+        "WHEAT": 40,
+        "CARROT": 38,
+        "TOMATO": 70,
+        "STRAWBERRY": 176,
+        "MELON": 81,
+        "EGG": 53,
+        "MILK": 156,
+        "WOOL": 229,
+        "FERTILIZER": 57
+      }
+    },
+    {
+      "step": 360,
+      "farms": [
+        {
+          "money": 27616.0,
+          "counts": {
+            "WHEAT": 24,
+            "STRAWBERRY": 33,
+            "COOP": 1,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 38,
+            "STRAWBERRY": 8,
+            "COOP": 0,
+            "SHEEP": 22,
+            "COW": 15
+          },
+          "hands": 0
+        },
+        {
+          "money": 27389.0,
+          "counts": {
+            "WHEAT": 24,
+            "STRAWBERRY": 33,
+            "COOP": 1,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 38,
+            "STRAWBERRY": 8,
+            "COOP": 0,
+            "SHEEP": 22,
+            "COW": 15
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP"
+      ],
+      "prices": {
+        "WHEAT": 41,
+        "CARROT": 39,
+        "TOMATO": 70,
+        "STRAWBERRY": 180,
+        "MELON": 84,
+        "EGG": 53,
+        "MILK": 133,
+        "WOOL": 227,
+        "FERTILIZER": 53
+      }
+    },
+    {
+      "step": 384,
+      "farms": [
+        {
+          "money": 31994.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 39,
+            "STRAWBERRY": 16,
+            "SHEEP": 18,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 32887.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 40,
+            "STRAWBERRY": 16,
+            "SHEEP": 18,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP"
+      ],
+      "prices": {
+        "WHEAT": 41,
+        "CARROT": 40,
+        "TOMATO": 71,
+        "STRAWBERRY": 187,
+        "MELON": 86,
+        "EGG": 53,
+        "MILK": 147,
+        "WOOL": 199,
+        "FERTILIZER": 49
+      }
+    },
+    {
+      "step": 408,
+      "farms": [
+        {
+          "money": 42134.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 38,
+            "STRAWBERRY": 16,
+            "SHEEP": 14,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 42344.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 40,
+            "STRAWBERRY": 16,
+            "SHEEP": 14,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP"
+      ],
+      "prices": {
+        "WHEAT": 41,
+        "CARROT": 41,
+        "TOMATO": 72,
+        "STRAWBERRY": 165,
+        "MELON": 89,
+        "EGG": 54,
+        "MILK": 124,
+        "WOOL": 158,
+        "FERTILIZER": 44
+      }
+    },
+    {
+      "step": 432,
+      "farms": [
+        {
+          "money": 47648.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 39,
+            "STRAWBERRY": 24,
+            "SHEEP": 20,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 48539.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 41,
+            "STRAWBERRY": 24,
+            "SHEEP": 20,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE"
+      ],
+      "prices": {
+        "WHEAT": 41,
+        "CARROT": 42,
+        "TOMATO": 73,
+        "STRAWBERRY": 147,
+        "MELON": 91,
+        "EGG": 54,
+        "MILK": 114,
+        "WOOL": 107,
+        "FERTILIZER": 39
+      }
+    },
+    {
+      "step": 456,
+      "farms": [
+        {
+          "money": 52388.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 40,
+            "STRAWBERRY": 16,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 54881.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 42,
+            "STRAWBERRY": 16,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE"
+      ],
+      "prices": {
+        "WHEAT": 41,
+        "CARROT": 43,
+        "TOMATO": 74,
+        "STRAWBERRY": 72,
+        "MELON": 94,
+        "EGG": 55,
+        "MILK": 91,
+        "WOOL": 121,
+        "FERTILIZER": 34
+      }
+    },
+    {
+      "step": 480,
+      "farms": [
+        {
+          "money": 55040.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 42,
+            "STRAWBERRY": 24,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 57693.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 43,
+            "STRAWBERRY": 24,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE"
+      ],
+      "prices": {
+        "WHEAT": 42,
+        "CARROT": 44,
+        "TOMATO": 75,
+        "STRAWBERRY": 36,
+        "MELON": 96,
+        "EGG": 55,
+        "MILK": 87,
+        "WOOL": 112,
+        "FERTILIZER": 32
+      }
+    },
+    {
+      "step": 504,
+      "farms": [
+        {
+          "money": 56648.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 44,
+            "STRAWBERRY": 37,
+            "SHEEP": 20,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 61108.0,
+          "counts": {
+            "WHEAT": 25,
+            "STRAWBERRY": 33,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 46,
+            "STRAWBERRY": 37,
+            "SHEEP": 16,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY"
+      ],
+      "prices": {
+        "WHEAT": 41,
+        "CARROT": 45,
+        "TOMATO": 75,
+        "STRAWBERRY": 1,
+        "MELON": 99,
+        "EGG": 56,
+        "MILK": 76,
+        "WOOL": 116,
+        "FERTILIZER": 28
+      }
+    },
+    {
+      "step": 528,
+      "farms": [
+        {
+          "money": 58240.0,
+          "counts": {
+            "WHEAT": 30,
+            "STRAWBERRY": 27,
+            "SHEEP": 11,
+            "COW": 6,
+            "WEED": 1
+          },
+          "ready": {
+            "WHEAT": 49,
+            "STRAWBERRY": 21,
+            "SHEEP": 20,
+            "COW": 9,
+            "WEED": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 62481.0,
+          "counts": {
+            "WHEAT": 30,
+            "STRAWBERRY": 27,
+            "SHEEP": 11,
+            "COW": 6,
+            "WEED": 1
+          },
+          "ready": {
+            "WHEAT": 49,
+            "STRAWBERRY": 21,
+            "SHEEP": 19,
+            "COW": 9,
+            "WEED": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY"
+      ],
+      "prices": {
+        "WHEAT": 42,
+        "CARROT": 46,
+        "TOMATO": 76,
+        "STRAWBERRY": 5,
+        "MELON": 101,
+        "EGG": 56,
+        "MILK": 72,
+        "WOOL": 121,
+        "FERTILIZER": 22
+      }
+    },
+    {
+      "step": 552,
+      "farms": [
+        {
+          "money": 59918.0,
+          "counts": {
+            "WHEAT": 31,
+            "STRAWBERRY": 27,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 49,
+            "STRAWBERRY": 29,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 65664.0,
+          "counts": {
+            "WHEAT": 31,
+            "STRAWBERRY": 27,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 51,
+            "STRAWBERRY": 29,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY"
+      ],
+      "prices": {
+        "WHEAT": 42,
+        "CARROT": 47,
+        "TOMATO": 77,
+        "STRAWBERRY": 1,
+        "MELON": 104,
+        "EGG": 57,
+        "MILK": 55,
+        "WOOL": 121,
+        "FERTILIZER": 17
+      }
+    },
+    {
+      "step": 576,
+      "farms": [
+        {
+          "money": 60900.0,
+          "counts": {
+            "WHEAT": 38,
+            "STRAWBERRY": 20,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 59,
+            "STRAWBERRY": 7,
+            "SHEEP": 20,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 67130.0,
+          "counts": {
+            "WHEAT": 38,
+            "STRAWBERRY": 20,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 66,
+            "STRAWBERRY": 7,
+            "SHEEP": 14,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 42,
+        "CARROT": 48,
+        "TOMATO": 78,
+        "STRAWBERRY": 9,
+        "MELON": 106,
+        "EGG": 58,
+        "MILK": 51,
+        "WOOL": 112,
+        "FERTILIZER": 14
+      }
+    },
+    {
+      "step": 600,
+      "farms": [
+        {
+          "money": 62434.0,
+          "counts": {
+            "WHEAT": 41,
+            "STRAWBERRY": 17,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 61,
+            "STRAWBERRY": 25,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        },
+        {
+          "money": 69413.0,
+          "counts": {
+            "WHEAT": 41,
+            "STRAWBERRY": 17,
+            "SHEEP": 11,
+            "COW": 6
+          },
+          "ready": {
+            "WHEAT": 71,
+            "STRAWBERRY": 25,
+            "SHEEP": 12,
+            "COW": 9
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 42,
+        "CARROT": 49,
+        "TOMATO": 79,
+        "STRAWBERRY": 30,
+        "MELON": 108,
+        "EGG": 59,
+        "MILK": 40,
+        "WOOL": 72,
+        "FERTILIZER": 12
+      }
+    },
+    {
+      "step": 624,
+      "farms": [
+        {
+          "money": 63997.0,
+          "counts": {
+            "CARROT": 14,
+            "WHEAT": 31,
+            "SHEEP": 11,
+            "COW": 6,
+            "STRAWBERRY": 13
+          },
+          "ready": {
+            "CARROT": 14,
+            "WHEAT": 53,
+            "SHEEP": 12,
+            "COW": 9,
+            "STRAWBERRY": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 71918.0,
+          "counts": {
+            "CARROT": 14,
+            "WHEAT": 31,
+            "SHEEP": 11,
+            "COW": 6,
+            "STRAWBERRY": 13
+          },
+          "ready": {
+            "CARROT": 14,
+            "WHEAT": 64,
+            "SHEEP": 8,
+            "COW": 6,
+            "STRAWBERRY": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 42,
+        "CARROT": 50,
+        "TOMATO": 80,
+        "STRAWBERRY": 12,
+        "MELON": 111,
+        "EGG": 60,
+        "MILK": 30,
+        "WOOL": 24,
+        "FERTILIZER": 7
+      }
+    },
+    {
+      "step": 648,
+      "farms": [
+        {
+          "money": 64978.0,
+          "counts": {
+            "CARROT": 26,
+            "WHEAT": 19,
+            "SHEEP": 11,
+            "COW": 6,
+            "STRAWBERRY": 13
+          },
+          "ready": {
+            "CARROT": 26,
+            "WHEAT": 44,
+            "SHEEP": 20,
+            "COW": 9,
+            "STRAWBERRY": 26
+          },
+          "hands": 0
+        },
+        {
+          "money": 72955.0,
+          "counts": {
+            "CARROT": 26,
+            "WHEAT": 19,
+            "SHEEP": 11,
+            "COW": 6,
+            "STRAWBERRY": 13
+          },
+          "ready": {
+            "CARROT": 26,
+            "WHEAT": 61,
+            "SHEEP": 13,
+            "COW": 6,
+            "STRAWBERRY": 26
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 42,
+        "CARROT": 51,
+        "TOMATO": 81,
+        "STRAWBERRY": 30,
+        "MELON": 113,
+        "EGG": 61,
+        "MILK": 22,
+        "WOOL": 24,
+        "FERTILIZER": 2
+      }
+    },
+    {
+      "step": 672,
+      "farms": [
+        {
+          "money": 66638.0,
+          "counts": {
+            "CARROT": 25,
+            "WHEAT": 17,
+            "SHEEP": 11,
+            "COW": 6,
+            "STRAWBERRY": 4
+          },
+          "ready": {
+            "CARROT": 35,
+            "WHEAT": 33,
+            "SHEEP": 12,
+            "COW": 12,
+            "STRAWBERRY": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 75889.0,
+          "counts": {
+            "CARROT": 28,
+            "WHEAT": 14,
+            "SHEEP": 11,
+            "COW": 6,
+            "STRAWBERRY": 4
+          },
+          "ready": {
+            "CARROT": 40,
+            "WHEAT": 41,
+            "SHEEP": 10,
+            "COW": 8,
+            "STRAWBERRY": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 40,
+        "CARROT": 52,
+        "TOMATO": 81,
+        "STRAWBERRY": 43,
+        "MELON": 115,
+        "EGG": 63,
+        "MILK": 17,
+        "WOOL": 125,
+        "FERTILIZER": 2
+      }
+    },
+    {
+      "step": 696,
+      "farms": [
+        {
+          "money": 69416.0,
+          "counts": {
+            "CARROT": 13,
+            "SHEEP": 11,
+            "WHEAT": 8,
+            "WEED": 2,
+            "COW": 6,
+            "COOP": 1
+          },
+          "ready": {
+            "CARROT": 24,
+            "SHEEP": 12,
+            "WHEAT": 8,
+            "WEED": 0,
+            "COW": 12,
+            "COOP": 0
+          },
+          "hands": 0
+        },
+        {
+          "money": 80473.0,
+          "counts": {
+            "CARROT": 16,
+            "SHEEP": 11,
+            "WHEAT": 5,
+            "COW": 6,
+            "COOP": 1
+          },
+          "ready": {
+            "CARROT": 32,
+            "SHEEP": 11,
+            "WHEAT": 5,
+            "COW": 8,
+            "COOP": 0
+          },
+          "hands": 0
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 38,
+        "CARROT": 52,
+        "TOMATO": 82,
+        "STRAWBERRY": 30,
+        "MELON": 118,
+        "EGG": 64,
+        "MILK": 5,
+        "WOOL": 24,
+        "FERTILIZER": 1
+      }
+    },
+    {
+      "step": 718,
+      "farms": [
+        {
+          "money": 75029.0,
+          "counts": {
+            "SHEEP": 11,
+            "WEED": 2,
+            "COW": 6,
+            "WHEAT": 1,
+            "COOP": 1
+          },
+          "ready": {
+            "SHEEP": 0,
+            "WEED": 0,
+            "COW": 3,
+            "WHEAT": 1,
+            "COOP": 0
+          },
+          "hands": 11
+        },
+        {
+          "money": 86432.0,
+          "counts": {
+            "SHEEP": 11,
+            "COW": 6,
+            "COOP": 1
+          },
+          "ready": {
+            "SHEEP": 0,
+            "COW": 0,
+            "COOP": 0
+          },
+          "hands": 11
+        }
+      ],
+      "shops": [
+        "PIZZA_SHOP",
+        "YARN_STORE",
+        "BRUNCH_SPOT",
+        "PET_CAFE",
+        "ICE_CREAM_SHOP",
+        "YARN_STORE",
+        "BAKERY",
+        "BRUNCH_SPOT"
+      ],
+      "prices": {
+        "WHEAT": 35,
+        "CARROT": 42,
+        "TOMATO": 83,
+        "STRAWBERRY": 66,
+        "MELON": 120,
+        "EGG": 65,
+        "MILK": 1,
+        "WOOL": 61,
+        "FERTILIZER": 1
+      }
+    }
+  ],
+  "production": {
+    "selected_route": 9,
+    "compatible_routes": [
+      9
+    ],
+    "choices": [
+      {
+        "step": 0,
+        "reason": [
+          "initial"
+        ],
+        "route": 115,
+        "candidates": 41,
+        "top_scores": [
+          [
+            115,
+            183093.0
+          ],
+          [
+            114,
+            179752.0
+          ],
+          [
+            124,
+            177563.0
+          ],
+          [
+            108,
+            177169.0
+          ],
+          [
+            122,
+            177169.0
+          ]
+        ]
+      },
+      {
+        "step": 70,
+        "reason": [
+          "physical_divergence"
+        ],
+        "route": 124,
+        "candidates": 41,
+        "top_scores": [
+          [
+            124,
+            114279.65
+          ],
+          [
+            103,
+            114245.15
+          ],
+          [
+            114,
+            114237.57
+          ],
+          [
+            104,
+            114062.99
+          ],
+          [
+            112,
+            113939.33
+          ]
+        ]
+      },
+      {
+        "step": 72,
+        "reason": [
+          "revealed_demand"
+        ],
+        "route": 123,
+        "candidates": 40,
+        "top_scores": [
+          [
+            123,
+            116419.84
+          ],
+          [
+            124,
+            113427.9
+          ],
+          [
+            108,
+            113133.29
+          ],
+          [
+            122,
+            113133.29
+          ],
+          [
+            105,
+            112805.71
+          ]
+        ]
+      },
+      {
+        "step": 144,
+        "reason": [
+          "revealed_demand",
+          "physical_divergence"
+        ],
+        "route": 9,
+        "candidates": 40,
+        "top_scores": [
+          [
+            9,
+            97824.38
+          ],
+          [
+            128,
+            96194.69
+          ],
+          [
+            109,
+            96084.69
+          ],
+          [
+            127,
+            96084.69
+          ],
+          [
+            3,
+            95793.37
+          ]
+        ]
+      },
+      {
+        "step": 216,
+        "reason": [
+          "revealed_demand"
+        ],
+        "route": 9,
+        "candidates": 1,
+        "top_scores": [
+          [
+            9,
+            46220.02
+          ]
+        ]
+      },
+      {
+        "step": 288,
+        "reason": [
+          "revealed_demand"
+        ],
+        "route": 9,
+        "candidates": 1,
+        "top_scores": [
+          [
+            9,
+            12002.92
+          ]
+        ]
+      },
+      {
+        "step": 360,
+        "reason": [
+          "revealed_demand"
+        ],
+        "route": 9,
+        "candidates": 1,
+        "top_scores": [
+          [
+            9,
+            8943.93
+          ]
+        ]
+      },
+      {
+        "step": 432,
+        "reason": [
+          "revealed_demand"
+        ],
+        "route": 9,
+        "candidates": 1,
+        "top_scores": [
+          [
+            9,
+            4046.0
+          ]
+        ]
+      },
+      {
+        "step": 504,
+        "reason": [
+          "revealed_demand"
+        ],
+        "route": 9,
+        "candidates": 1,
+        "top_scores": [
+          [
+            9,
+            4013.81
+          ]
+        ]
+      },
+      {
+        "step": 576,
+        "reason": [
+          "revealed_demand"
+        ],
+        "route": 9,
+        "candidates": 1,
+        "top_scores": [
+          [
+            9,
+            835.55
+          ]
+        ]
+      }
+    ],
+    "repairs": [
+      {
+        "step": 94,
+        "actor": 2,
+        "from": [
+          "PASS"
+        ],
+        "to": [
+          "FEED"
+        ],
+        "reason": "late_useful_action",
+        "effective": true
+      },
+      {
+        "step": 383,
+        "actor": 6,
+        "from": [
+          "PASS"
+        ],
+        "to": [
+          "WATER"
+        ],
+        "reason": "late_useful_action",
+        "effective": true
+      },
+      {
+        "step": 574,
+        "actor": 4,
+        "from": [
+          "PASS"
+        ],
+        "to": [
+          "WATER"
+        ],
+        "reason": "late_useful_action",
+        "effective": true
+      },
+      {
+        "step": 575,
+        "actor": 2,
+        "from": [
+          "PASS"
+        ],
+        "to": [
+          "WATER"
+        ],
+        "reason": "late_useful_action",
+        "effective": true
+      },
+      {
+        "step": 575,
+        "actor": 6,
+        "from": [
+          "PASS"
+        ],
+        "to": [
+          "WATER"
+        ],
+        "reason": "late_useful_action",
+        "effective": true
+      },
+      {
+        "step": 623,
+        "actor": 5,
+        "from": [
+          "PASS"
+        ],
+        "to": [
+          "WATER"
+        ],
+        "reason": "late_useful_action",
+        "effective": true
+      },
+      {
+        "step": 711,
+        "actor": 4,
+        "from": [
+          "NORTH"
+        ],
+        "to": [
+          "EAST"
+        ],
+        "reason": "terminal_delivery",
+        "effective": true
+      },
+      {
+        "step": 712,
+        "actor": 4,
+        "from": [
+          "NORTH"
+        ],
+        "to": [
+          "EAST"
+        ],
+        "reason": "terminal_delivery",
+        "effective": true
+      },
+      {
+        "step": 714,
+        "actor": 4,
+        "from": [
+          "WATER"
+        ],
+        "to": [
+          "NORTH"
+        ],
+        "reason": "terminal_delivery",
+        "effective": true
+      },
+      {
+        "step": 715,
+        "actor": 4,
+        "from": [
+          "HARVEST"
+        ],
+        "to": [
+          "NORTH"
+        ],
+        "reason": "terminal_delivery",
+        "effective": true
+      },
+      {
+        "step": 715,
+        "actor": 5,
+        "from": [
+          "HARVEST"
+        ],
+        "to": [
+          "WEST"
+        ],
+        "reason": "terminal_delivery",
+        "effective": true
+      },
+      {
+        "step": 716,
+        "actor": 4,
+        "from": [
+          "EAST"
+        ],
+        "to": [
+          "DROP"
+        ],
+        "reason": "terminal_delivery",
+        "effective": true
+      },
+      {
+        "step": 716,
+        "actor": 5,
+        "from": [
+          "WEST"
+        ],
+        "to": [
+          "DROP"
+        ],
+        "reason": "terminal_delivery",
+        "effective": true
+      },
+      {
+        "step": 716,
+        "actor": 6,
+        "from": [
+          "PLACE",
+          "CARROT",
+          1000
+        ],
+        "to": [
+          "DROP"
+        ],
+        "reason": "terminal_delivery",
+        "effective": true
+      },
+      {
+        "step": 718,
+        "actor": 0,
+        "from": [
+          "PASS"
+        ],
+        "to": [
+          "COLLECT_FERTILIZER"
+        ],
+        "reason": "late_useful_action",
+        "effective": true
+      },
+      {
+        "step": 718,
+        "actor": 1,
+        "from": [
+          "PASS"
+        ],
+        "to": [
+          "COLLECT_FERTILIZER"
+        ],
+        "reason": "late_useful_action",
+        "effective": true
+      }
+    ],
+    "projection_failures": [],
+    "crop_substitutions": 0,
+    "resets": 1,
+    "pending_repairs": 0
+  },
+  "market": {
+    "resets": 0,
+    "observed_transitions": 718,
+    "removed_dead_orders": 38,
+    "input_topups": 62,
+    "delayed_sales": 36,
+    "overflow_sales": 0,
+    "errors": 0,
+    "queue_candidates": 3123,
+    "flow": {
+      "WHEAT": {
+        "mean": 1.27,
+        "deviation": 1.65,
+        "confidence": 0.582
+      },
+      "CARROT": {
+        "mean": 5.35,
+        "deviation": 6.32,
+        "confidence": 0.445
+      },
+      "TOMATO": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.82
+      },
+      "STRAWBERRY": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.819
+      },
+      "MELON": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.82
+      },
+      "EGG": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.82
+      },
+      "MILK": {
+        "mean": 0.59,
+        "deviation": 0.91,
+        "confidence": 0.636
+      },
+      "WOOL": {
+        "mean": 0.35,
+        "deviation": 0.78,
+        "confidence": 0.659
+      },
+      "FERTILIZER": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.82
+      }
+    },
+    "last": {
+      "step": 718,
+      "cash": 75029.0,
+      "post_unit_shed": {},
+      "carried": 2,
+      "reserve": {
+        "WHEAT": 0,
+        "FERTILIZER": 0
+      },
+      "purchase_need": {
+        "WHEAT": 0,
+        "FERTILIZER": 0
+      },
+      "sales": {},
+      "delayed": [],
+      "dead_orders_removed": 0,
+      "queue": [],
+      "worst_score": 75029.0,
+      "mean_score": 75029.0,
+      "tracked_net": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0
+      },
+      "assumptions": {
+        "cash": "only simulated sales may fund later slots",
+        "inputs": "shed reserves cover route pickups until restock",
+        "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+      }
+    }
+  },
+  "early_events": [
+    {
+      "step": 80,
+      "cash": 285.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "WHEAT": 1,
+          "FERTILIZER": 1
+        },
+        {},
+        {},
+        {},
+        {
+          "WHEAT": 3
+        },
+        {}
+      ],
+      "native": {
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "hands": [
+          [
+            "SOUTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "PLANT",
+            "WHEAT"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": [
+          [
+            "SELL",
+            "WHEAT",
+            3
+          ]
+        ]
+      },
+      "action": {
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "hands": [
+          [
+            "SOUTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "PLANT",
+            "WHEAT"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 80,
+        "cash": 285.0,
+        "post_unit_shed": {},
+        "carried": 6,
+        "reserve": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 285.0,
+        "mean_score": 285.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 81,
+      "cash": 285.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "WHEAT": 1,
+          "FERTILIZER": 2
+        },
+        {},
+        {},
+        {},
+        {
+          "WHEAT": 3
+        },
+        {}
+      ],
+      "native": {
+        "farmer": [
+          "NORTH"
+        ],
+        "hands": [
+          [
+            "WATER"
+          ],
+          [
+            "HARVEST"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "HARVEST"
+          ]
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "WHEAT",
+            2
+          ]
+        ]
+      },
+      "action": {
+        "farmer": [
+          "NORTH"
+        ],
+        "hands": [
+          [
+            "WATER"
+          ],
+          [
+            "HARVEST"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "HARVEST"
+          ]
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "WHEAT",
+            2
+          ]
+        ]
+      },
+      "planning": {
+        "step": 81,
+        "cash": 285.0,
+        "post_unit_shed": {},
+        "carried": 12,
+        "reserve": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [
+          [
+            "BUY_SEED",
+            "WHEAT",
+            2
+          ]
+        ],
+        "worst_score": 306.0,
+        "mean_score": 306.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 82,
+      "cash": 265.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "WHEAT": 1,
+          "FERTILIZER": 2
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "EAST"
+        ],
+        "hands": [
+          [
+            "WEST"
+          ],
+          [
+            "PLANT",
+            "WHEAT"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "PLANT",
+            "WHEAT"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "EAST"
+        ],
+        "hands": [
+          [
+            "WEST"
+          ],
+          [
+            "PLANT",
+            "WHEAT"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "PLANT",
+            "WHEAT"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 82,
+        "cash": 265.0,
+        "post_unit_shed": {},
+        "carried": 12,
+        "reserve": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 265.0,
+        "mean_score": 265.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 83,
+      "cash": 265.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "WHEAT": 1,
+          "FERTILIZER": 2
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "FEED"
+        ],
+        "hands": [
+          [
+            "WATER"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "FEED"
+        ],
+        "hands": [
+          [
+            "WATER"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 83,
+        "cash": 265.0,
+        "post_unit_shed": {},
+        "carried": 11,
+        "reserve": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 265.0,
+        "mean_score": 265.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 84,
+      "cash": 265.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "FERTILIZER": 2
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "CARE"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "HARVEST"
+          ],
+          [
+            "SOUTH"
+          ]
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "WHEAT",
+            1
+          ]
+        ]
+      },
+      "action": {
+        "farmer": [
+          "CARE"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "HARVEST"
+          ],
+          [
+            "SOUTH"
+          ]
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "WHEAT",
+            1
+          ]
+        ]
+      },
+      "planning": {
+        "step": 84,
+        "cash": 265.0,
+        "post_unit_shed": {},
+        "carried": 14,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [
+          [
+            "BUY_SEED",
+            "WHEAT",
+            1
+          ]
+        ],
+        "worst_score": 275.5,
+        "mean_score": 275.5,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 85,
+      "cash": 255.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "FERTILIZER": 2
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "PLANT",
+            "WHEAT"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "PLANT",
+            "WHEAT"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 85,
+        "cash": 255.0,
+        "post_unit_shed": {},
+        "carried": 15,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 255.0,
+        "mean_score": 255.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 86,
+      "cash": 255.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "FERTILIZER": 3
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "SOUTH"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "SOUTH"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "SOUTH"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "SOUTH"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 86,
+        "cash": 255.0,
+        "post_unit_shed": {},
+        "carried": 15,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 255.0,
+        "mean_score": 255.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 87,
+      "cash": 255.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "FERTILIZER": 3
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "SOUTH"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "SOUTH"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 87,
+        "cash": 255.0,
+        "post_unit_shed": {},
+        "carried": 15,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 255.0,
+        "mean_score": 255.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 88,
+      "cash": 255.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "FERTILIZER": 3
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "PLACE",
+          "FERTILIZER",
+          3
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "WEST"
+          ]
+        ],
+        "market": [
+          [
+            "SELL",
+            "FERTILIZER",
+            3
+          ],
+          [
+            "BUY_ANIMAL",
+            "COW",
+            1
+          ]
+        ]
+      },
+      "action": {
+        "farmer": [
+          "PLACE",
+          "FERTILIZER",
+          3
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "WEST"
+          ]
+        ],
+        "market": [
+          [
+            "SELL",
+            "FERTILIZER",
+            3
+          ],
+          [
+            "BUY_ANIMAL",
+            "COW",
+            1
+          ]
+        ]
+      },
+      "planning": {
+        "step": 88,
+        "cash": 255.0,
+        "post_unit_shed": {
+          "FERTILIZER": 3
+        },
+        "carried": 12,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {
+          "FERTILIZER": 3
+        },
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [
+          [
+            "SELL",
+            "FERTILIZER",
+            3
+          ],
+          [
+            "BUY_ANIMAL",
+            "COW",
+            1
+          ]
+        ],
+        "worst_score": 964.0,
+        "mean_score": 964.67,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 3
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 89,
+      "cash": 144.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 1,
+        "SHEEP": 0
+      },
+      "bags": [
+        {},
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "EAST"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "SOUTH"
+          ],
+          [
+            "EAST"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WATER"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 89,
+        "cash": 144.0,
+        "post_unit_shed": {
+          "COW": 1
+        },
+        "carried": 13,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 144.0,
+        "mean_score": 144.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 90,
+      "cash": 144.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 1,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "FERTILIZER": 1
+        },
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "PLACE",
+          "FERTILIZER"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "EAST"
+          ],
+          [
+            "CARE"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": [
+          [
+            "SELL",
+            "FERTILIZER",
+            1
+          ]
+        ]
+      },
+      "action": {
+        "farmer": [
+          "PLACE",
+          "FERTILIZER"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "EAST"
+          ],
+          [
+            "CARE"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": [
+          [
+            "SELL",
+            "FERTILIZER",
+            1
+          ]
+        ]
+      },
+      "planning": {
+        "step": 90,
+        "cash": 144.0,
+        "post_unit_shed": {
+          "FERTILIZER": 1,
+          "COW": 1
+        },
+        "carried": 12,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {
+          "FERTILIZER": 1
+        },
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [
+          [
+            "SELL",
+            "FERTILIZER",
+            1
+          ]
+        ],
+        "worst_score": 240.0,
+        "mean_score": 240.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 1
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 91,
+      "cash": 240.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 1,
+        "SHEEP": 0
+      },
+      "bags": [
+        {},
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "CARE"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "EAST"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "CARE"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "EAST"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 91,
+        "cash": 240.0,
+        "post_unit_shed": {
+          "COW": 1
+        },
+        "carried": 12,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 240.0,
+        "mean_score": 240.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 92,
+      "cash": 240.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 1,
+        "SHEEP": 0
+      },
+      "bags": [
+        {},
+        {},
+        {
+          "WHEAT": 3
+        },
+        {},
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "NORTH"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "EAST"
+          ],
+          [
+            "PICKUP",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "NORTH"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "EAST"
+          ],
+          [
+            "PICKUP",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 92,
+        "cash": 240.0,
+        "post_unit_shed": {},
+        "carried": 13,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 240.0,
+        "mean_score": 240.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 93,
+      "cash": 240.0,
+      "shed": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {},
+        {},
+        {
+          "WHEAT": 3
+        },
+        {
+          "COW": 1
+        },
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "PLACE",
+            "WHEAT"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": [
+          [
+            "SELL",
+            "WHEAT",
+            1
+          ]
+        ]
+      },
+      "action": {
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "PLACE",
+            "WHEAT"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 93,
+        "cash": 240.0,
+        "post_unit_shed": {
+          "WHEAT": 1
+        },
+        "carried": 13,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 240.0,
+        "mean_score": 240.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 94,
+      "cash": 240.0,
+      "shed": {
+        "WHEAT": 1,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "FERTILIZER": 1
+        },
+        {},
+        {
+          "WHEAT": 2
+        },
+        {
+          "COW": 1
+        },
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "CARE"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "CARE"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "FEED"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": []
+      },
+      "planning": {
+        "step": 94,
+        "cash": 240.0,
+        "post_unit_shed": {
+          "WHEAT": 1
+        },
+        "carried": 12,
+        "reserve": {
+          "WHEAT": 5,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {},
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [],
+        "worst_score": 240.0,
+        "mean_score": 240.0,
+        "tracked_net": {
+          "WHEAT": 0,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 95,
+      "cash": 240.0,
+      "shed": {
+        "WHEAT": 1,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {
+          "FERTILIZER": 1
+        },
+        {},
+        {
+          "WHEAT": 1
+        },
+        {
+          "COW": 1
+        },
+        {
+          "WHEAT": 6
+        },
+        {
+          "WHEAT": 3
+        }
+      ],
+      "native": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PLACE",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": []
+      },
+      "action": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PLACE",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "PASS"
+          ]
+        ],
+        "market": [
+          [
+            "SELL",
+            "WHEAT",
+            1
+          ]
+        ]
+      },
+      "planning": {
+        "step": 95,
+        "cash": 240.0,
+        "post_unit_shed": {
+          "WHEAT": 1
+        },
+        "carried": 11,
+        "reserve": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {
+          "WHEAT": 1
+        },
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [
+          [
+            "SELL",
+            "WHEAT",
+            1
+          ]
+        ],
+        "worst_score": 270.0,
+        "mean_score": 270.0,
+        "tracked_net": {
+          "WHEAT": 1,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 0
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    },
+    {
+      "step": 96,
+      "cash": 270.0,
+      "shed": {
+        "WHEAT": 10,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 1,
+        "GOOSE": 0,
+        "COW": 0,
+        "SHEEP": 0
+      },
+      "bags": [
+        {}
+      ],
+      "native": {
+        "farmer": [
+          "PICKUP",
+          "WHEAT",
+          5
+        ],
+        "hands": [],
+        "market": [
+          [
+            "HIRE"
+          ],
+          [
+            "HIRE"
+          ],
+          [
+            "HIRE"
+          ],
+          [
+            "HIRE"
+          ],
+          [
+            "SELL",
+            "FERTILIZER",
+            1
+          ]
+        ]
+      },
+      "action": {
+        "farmer": [
+          "PICKUP",
+          "WHEAT",
+          5
+        ],
+        "hands": [],
+        "market": [
+          [
+            "HIRE"
+          ],
+          [
+            "HIRE"
+          ],
+          [
+            "HIRE"
+          ],
+          [
+            "HIRE"
+          ],
+          [
+            "SELL",
+            "FERTILIZER",
+            1
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            5
+          ]
+        ]
+      },
+      "planning": {
+        "step": 96,
+        "cash": 270.0,
+        "post_unit_shed": {
+          "WHEAT": 5,
+          "FERTILIZER": 1
+        },
+        "carried": 5,
+        "reserve": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "purchase_need": {
+          "WHEAT": 0,
+          "FERTILIZER": 0
+        },
+        "sales": {
+          "WHEAT": 5,
+          "FERTILIZER": 1
+        },
+        "delayed": [],
+        "dead_orders_removed": 0,
+        "queue": [
+          [
+            "HIRE"
+          ],
+          [
+            "HIRE"
+          ],
+          [
+            "HIRE"
+          ],
+          [
+            "HIRE"
+          ],
+          [
+            "SELL",
+            "FERTILIZER",
+            1
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            5
+          ]
+        ],
+        "worst_score": 518.35,
+        "mean_score": 519.02,
+        "tracked_net": {
+          "WHEAT": 5,
+          "CARROT": 0,
+          "TOMATO": 0,
+          "STRAWBERRY": 0,
+          "MELON": 0,
+          "EGG": 0,
+          "MILK": 0,
+          "WOOL": 0,
+          "FERTILIZER": 1
+        },
+        "assumptions": {
+          "cash": "only simulated sales may fund later slots",
+          "inputs": "shed reserves cover route pickups until restock",
+          "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+        }
+      }
+    }
+  ],
+  "incumbent_route": 2
+}

@@ -1,0 +1,40 @@
+[
+ {
+  "opp": "breaking_tie.py",
+  "seed": 5000,
+  "seat": 0,
+  "edged_a": 151692.0,
+  "edged_b": 141678.0,
+  "stock_a": 151692.0,
+  "stock_b": 141678.0,
+  "edged_margin": 10014.0,
+  "stock_margin": 10014.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 2,
+   "units": 6,
+   "repays": 2,
+   "gated_out": 511,
+   "last_distance": 48
+  }
+ },
+ {
+  "opp": "breaking_tie.py",
+  "seed": 5000,
+  "seat": 1,
+  "edged_a": 151692.0,
+  "edged_b": 141678.0,
+  "stock_a": 151692.0,
+  "stock_b": 141678.0,
+  "edged_margin": 10014.0,
+  "stock_margin": 10014.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 2,
+   "units": 6,
+   "repays": 2,
+   "gated_out": 511,
+   "last_distance": 48
+  }
+ }
+]

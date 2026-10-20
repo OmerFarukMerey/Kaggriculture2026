@@ -1,0 +1,15 @@
+v29 25/158
+FAIL dl 95691594
+FAIL dl 95365532
+FAIL dl 95246697
+FAIL dl 95102754
+v29 50/158
+Traceback (most recent call last):
+  File "harness\pull_all.py", line 81, in <module>
+    print(f"DONE {tag}: asked={len(eps)} have={n} fails={len(fails)} {fails[:20]}", flush=True)
+  File "harness\pull_all.py", line 74, in main
+    else: print(f"NOTME {ep}", flush=True)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<python>\Lib\pathlib.py", line 1343, in unlink
+    os.unlink(self)
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: '..\\kaggriculture-data\\replays\\episode-94794590-replay.json'

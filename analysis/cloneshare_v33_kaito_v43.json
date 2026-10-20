@@ -1,0 +1,122 @@
+[
+ {
+  "frac": 0.05,
+  "opponent": "patience",
+  "episode": "102228108",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "Carson Zhang",
+  "episode": "102413306",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "Kurian George",
+  "episode": "102308602",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.05,
+  "opponent": "Tapabrata Biswas",
+  "episode": "102246028",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.975,
+  "opponent": "qr farm",
+  "episode": "102248258",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "\u53e4\u5fb7\u62dc\u5403",
+  "episode": "102187809",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "Papa Annan",
+  "episode": "102232592",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "pns",
+  "episode": "102201230",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "Paul Nassiri",
+  "episode": "102221390",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Sheep \ud83d\udc11",
+  "episode": "102299711",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "ubcict232",
+  "episode": "102254963",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Abhiram Anil",
+  "episode": "102174371",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 1.0,
+  "opponent": "Zyy7390",
+  "episode": "102281765",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "Ficu\u221e$",
+  "episode": "102223640",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "Prime Leo",
+  "episode": "102230350",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "tingyu516",
+  "episode": "102377854",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "teraSurfer40141",
+  "episode": "102268381",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.1,
+  "opponent": "quantara.cv",
+  "episode": "102212444",
+  "outcome": "WIN"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "Sri Jayavel K",
+  "episode": "102181085",
+  "outcome": "LOSS"
+ },
+ {
+  "frac": 0.0,
+  "opponent": "HydFarms",
+  "episode": "102252732",
+  "outcome": "LOSS"
+ }
+]

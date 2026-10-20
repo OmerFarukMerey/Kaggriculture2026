@@ -1,0 +1,283 @@
+{
+  "manifest_version": 1,
+  "generated_at_utc": "2026-09-28T20:59:21.982312+00:00",
+  "scope": "Current Kaggle CLI pulls for exactly abhinav0370/cha22-agent, nihilisticneuralnet/kaggriculture-population-robust-economy, and prvsiyan/kaggriculture-frontier-the-soil-remembers-rain. Notebook cells and policies were not executed. Embedded source was inspected and independently decoded only from AST literals with standard-library base85, zlib, and lzma.",
+  "acquisition": {
+    "kaggle_cli_version": "1.7.4.5",
+    "source_command": "kaggle kernels pull <ref> -p <directory> -m",
+    "output_command": "kaggle kernels output <ref> -p <directory>",
+    "status_at_pull": "KernelWorkerStatus.COMPLETE for all three notebooks",
+    "downloaded_at_utc": "2026-09-28T20:59:21.982312+00:00",
+    "kernel_version": "The Kaggle CLI metadata/list/files responses do not expose a numeric notebook version; kernel id_no, lastRunTime, and output creation time are recorded per candidate instead."
+  },
+  "safety_audit": {
+    "notebook_cells_or_downloaded_policies_executed": false,
+    "dependencies_installed": false,
+    "submissions_made": false,
+    "validation_or_tests_run": false,
+    "archive_handling": "Downloaded tar.gz files were opened read-only; every member name was checked for absolute paths and '..' components and every member hash was computed without extraction.",
+    "common_findings": [
+      "All three main.py files contain exec calls over fixed source-code string literals for bundled engine/planner helpers. Those literals are part of the policy and run on import, but no downloaded code was imported or executed during this audit.",
+      "No policy network or subprocess API was found.",
+      "The shared route payload is a fixed 41-route, 719-action-tape family; no episode-id dispatch was found."
+    ]
+  },
+  "reference_baselines": [
+    {
+      "name": "current-harvest",
+      "path": "kaggriculture-candidates/current-harvest/main.py",
+      "sha256": "8cffc452c3023082f261d66ec068d8a285a3febea5d4d56de2b13792e2086d5e",
+      "bytes": 1197325
+    },
+    {
+      "name": "current-master-v53",
+      "path": "kaggriculture-candidates/current-master-v53/main.py",
+      "sha256": "708c7485fa964853b193f175dcd83020602c005e159ce82e38dc350b22e970c8",
+      "bytes": 311246
+    },
+    {
+      "name": "current-multiroute",
+      "path": "kaggriculture-candidates/current-multiroute/main.py",
+      "sha256": "489f5d197527f107027626cce79d850fd2ca90edd43d94384b849b6511e27bdb",
+      "bytes": 75098
+    },
+    {
+      "name": "current-godmode-entry",
+      "path": "kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+      "sha256": "f9588c469d2c1829e46593faeab7efe088a70f6c77d04a78800217350c812ae5",
+      "bytes": 358
+    },
+    {
+      "name": "current-godmode-base",
+      "path": "kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/base_agent.py",
+      "sha256": "177d78bdf00aa96579d98052558e18cd3081d29f855c8a6f20a2bbfebcdbda11",
+      "bytes": 860103
+    }
+  ],
+  "lineage_comparison": {
+    "shared_route_payload": {
+      "encoded_literal_sha256": "54fe156ea7206e38fc83dab05160c4a145a3045ae3d639ad9a49422dded505ef",
+      "encoded_bytes": 94490,
+      "structure": "The decoded object has 3,982 deduplicated actions, 41 route tapes, 64 ordered two-shop mappings, and 719 callbacks per route.",
+      "also_exactly_present_in": [
+        "secondary-cha22/main.py",
+        "secondary-population/main.py",
+        "secondary-soil/main.py",
+        "current-harvest/main.py",
+        "current-godmode/gods_mode_hacked_stores/base_agent.py",
+        "2945/main.py"
+      ],
+      "production_geometry": "The common tapes are mixed livestock/crop schedules, not independent new trajectories: typical routes buy roughly 6-9 cows, 4-11 sheep, and 0-5 geese, while planting wheat, carrot, strawberry, and melon. Most apparent diversity in these three sources is wrapper behavior around this identical route bank."
+    },
+    "interpretation": [
+      "current-multiroute is structurally distinct and compact; all three investigated sources have only 2.5-3.2% line-sequence similarity to it.",
+      "current-master-v53 is another compact generalized lineage; similarity to these sources is 54.8-58.2%, materially below their overlap with the large route-wrapper family.",
+      "current-godmode delegates to a large base in the same route family and then adds current-shop sale deferral; comparisons therefore use its base_agent.py, not only its 358-byte entry module.",
+      "current-harvest is the larger repeated market-closure lineage. The investigated sources share its route bank and many inherited production/economic layers, even when their final wrappers differ."
+    ]
+  },
+  "novelty_ranking": [
+    {
+      "rank": 1,
+      "candidate": "secondary-population",
+      "verdict": "Most production-relevant mechanism, but not a new local candidate: its normalized AST is exactly identical to kaggriculture-candidates/2945/main.py after comments and docstrings are removed.",
+      "use": "Use the already-present 2945 candidate if a shop- and market-conditioned livestock substitution stressor is absent from the finalist panel; do not add this repackaging as a second opponent."
+    },
+    {
+      "rank": 2,
+      "candidate": "secondary-cha22",
+      "verdict": "Some real opening/late-input geometry changes exist, especially the fixed EarlyCycle extra-wheat opening, but the source remains the same route bank plus a very long inherited wrapper stack and overlaps heavily with current Godmode/Harvest ancestry.",
+      "use": "Only realistic as a wrapper-stack stressor if an external adapter selects ig_agent; lower priority than a genuinely independent route or production family."
+    },
+    {
+      "rank": 3,
+      "candidate": "secondary-soil",
+      "verdict": "The final advertised change is contiguous SELL-block ordering. Its productive opening, late seed/fertilizer cuts, and queue compaction are inherited/composed around the same route bank; this is mainly market-ordering diversity rather than new production geometry.",
+      "use": "Use only for final market-order sensitivity, not as a less-correlated production opponent."
+    }
+  ],
+  "realistically_novel_candidate": null,
+  "novelty_conclusion": "None of the three is a genuinely new production family relative to the repository. Population has the best production-level idea but is a semantic duplicate of the existing 2945 candidate; Cha22 and Soil retain the same shared 41-route payload and chiefly add or reorder wrapper layers.",
+  "candidates": [
+    {
+      "name": "secondary-cha22",
+      "notebook_ref": "abhinav0370/cha22-agent",
+      "kernel_id_no": 135642255,
+      "last_run_time_utc": "2026-09-24T09:30:24.023000Z",
+      "output_creation_time_utc": "2026-09-24 09:30 UTC (Kaggle CLI minute resolution)",
+      "directory": "kaggriculture-candidates/secondary-cha22",
+      "notebook": {
+        "path": "kaggriculture-candidates/secondary-cha22/cha22-agent.ipynb",
+        "sha256": "6789a04f542d3fc62ef49d3e55a1c02984f9dbc191cfa58d7aba3bdcf92da7e3"
+      },
+      "extracted_main_path": "kaggriculture-candidates/secondary-cha22/main.py",
+      "sha256": "127ed3e62988c0474d386db6527ae8ca9de9bb1fe7004128557ddef67126c652",
+      "bytes": 501543,
+      "required_sibling_paths": [],
+      "packaging": "submission_cha22.tar.gz has one safe flat member, main.py, whose bytes and SHA256 exactly match the downloaded main.py. submission.py is a byte-identical notebook-output convenience copy and is not a runtime sibling.",
+      "artifacts": [
+        {"path": "kaggriculture-candidates/secondary-cha22/submission.py", "sha256": "127ed3e62988c0474d386db6527ae8ca9de9bb1fe7004128557ddef67126c652", "role": "byte-identical output copy"},
+        {"path": "kaggriculture-candidates/secondary-cha22/submission_cha22.tar.gz", "sha256": "63e1554c9330557787462eb875960c8c9c9d52c4830251e657a512881625d86b", "role": "downloaded submission bundle"},
+        {"path": "kaggriculture-candidates/secondary-cha22/cha22-agent.log", "sha256": "b7a7eb718989f274c1778de32d26bd23bc773019c49d94a90ccd9c2f887836c4", "role": "downloaded Kaggle run log"},
+        {"path": "kaggriculture-candidates/secondary-cha22/kernel-metadata.json", "sha256": "589a41e067b9392d55760f20f45fb8352817078a2e2a50a9a891491b14935280", "role": "Kaggle pull metadata"}
+      ],
+      "source_extraction": "The notebook stores SOURCE_BYTES as a b''.join tuple of bytes literals. Static AST literal concatenation reproduced the downloaded main.py exactly, including the declared SHA256.",
+      "license_evidence": {
+        "license": "Apache-2.0",
+        "evidence": "main.py lines 1-18 preserve contributor/source attribution and lines 20-220 embed the full Apache License 2.0 text.",
+        "separate_license_file": false,
+        "concern": "No separate LICENSE or NOTICE output was published; preserve main.py intact because it carries both license and notices."
+      },
+      "policy_family": "Cha22/cha20 large public route-replay wrapper stack over the common Shop0913 41-route payload.",
+      "entrypoint": {
+        "kaggle_last_new_callable": "ig_agent",
+        "intended_policy": "ig_agent (queue-hole closure over the full cha20_entry_agent chain)",
+        "concern": "The final global named agent remains the older E343 weed-lag wrapper from line 6182. Later layers update cha20_entry_agent and kaggle_agent but never rebind agent. A harness that imports main.agent silently omits ready-stock advancing, terminal liquidation, EarlyCycle, funding/economic filters, reorder, late-input caps, merge, and IG closure.",
+        "adapter_required": "Yes for name-based harnesses: load with Kaggle get_last_callable semantics or externally bind the callable ig_agent as agent. Do not modify downloaded source."
+      },
+      "production_mix": "The common route bank mixes cows, sheep, geese, wheat, carrot, strawberry, and melon. The shipped suffix fixes _PIPE_MODE='EarlyCycle': it repurposes idle opening labor to plant/water an extra wheat, delays its harvest to a later day, restores the pasture, and delivers/sells the extra wheat. It also has visible-price carrot/herd substitutions inherited earlier in the chain and late seed/fertilizer caps.",
+      "route_adaptability": "At day 6 it selects a shop-pair route, sending Yarn Store worlds to the older V39 routes and other shop pairs to EXP240 routes; at day 27 it forces route 2. It records a rival opening signature but the shipped router does not dispatch on that signature. Later wrappers react to visible prices, shops, stock, rival sales, weeds, and funding state.",
+      "policy_level_changes": [
+        "Fixed EarlyCycle productive opening with one extra temporary wheat and delayed harvest/delivery.",
+        "Three-turn ready-stock sale advance, terminal seven-turn liquidation, multiple visible-state funding/economic filters, and final sale reorder/queue compaction.",
+        "Late fertilizer-use guard and remaining-plant-based wheat/carrot seed cap.",
+        "Same-item market-order merging followed by dead-sale hole closure."
+      ],
+      "comparison": {
+        "line_sequence_ratio": {"current-harvest": 0.71394, "current-master-v53": 0.54776, "current-multiroute": 0.02580, "current-godmode-base": 0.81731},
+        "shared_route_payload": true,
+        "assessment": "Not cosmetic-only, because EarlyCycle and late input guards change physical production; nevertheless the trajectory bank and most production logic are inherited from the same large family, so correlation remains high."
+      },
+      "safety_concerns": [
+        "Contains import-time exec of two fixed embedded helper literals; neither literal was executed during this audit.",
+        "No filesystem, environment-variable, network, subprocess, hidden-seed, or episode-id access was found in the policy.",
+        "Broad exception fallbacks can hide layer failures and return an older/raw action.",
+        "Entrypoint mismatch is material: main.agent is stale relative to Kaggle's last callable."
+      ]
+    },
+    {
+      "name": "secondary-population",
+      "notebook_ref": "nihilisticneuralnet/kaggriculture-population-robust-economy",
+      "kernel_id_no": 135290730,
+      "last_run_time_utc": "2026-09-24T13:03:50.793000Z",
+      "output_creation_time_utc": "2026-09-24 13:03 UTC (Kaggle CLI minute resolution)",
+      "directory": "kaggriculture-candidates/secondary-population",
+      "notebook": {
+        "path": "kaggriculture-candidates/secondary-population/kaggriculture-population-robust-economy.ipynb",
+        "sha256": "b2b3cc6b25c7407a0209b4d10e4fa883a78aa01a8fa6a5800719035e031331e5"
+      },
+      "extracted_main_path": "kaggriculture-candidates/secondary-population/main.py",
+      "sha256": "3ec06d07c1076dd8fdfe444cb5e19f1789f1e4f8d66597db3b3f70a5e80895fc",
+      "bytes": 813203,
+      "required_sibling_paths": [
+        "kaggriculture-candidates/secondary-population/LICENSE.txt",
+        "kaggriculture-candidates/secondary-population/NOTICE.txt"
+      ],
+      "packaging": "submission.tar.gz has three safe flat members: main.py, LICENSE.txt, and NOTICE.txt; every member exactly matches the separately downloaded output.",
+      "artifacts": [
+        {"path": "kaggriculture-candidates/secondary-population/LICENSE.txt", "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30", "role": "required license"},
+        {"path": "kaggriculture-candidates/secondary-population/NOTICE.txt", "sha256": "381106792e93900cc7a434898680a78e54bddadbd437ef48fb167d5d65501062", "role": "required attribution"},
+        {"path": "kaggriculture-candidates/secondary-population/submission.tar.gz", "sha256": "71183a36db9b4941d43296642b5c5028bedfe9dec1032113fa9fcfb4655f717a", "role": "downloaded submission bundle"},
+        {"path": "kaggriculture-candidates/secondary-population/kaggriculture-population-robust-economy.log", "sha256": "e4c28d07a87a9a46b5545668808f4fc72ffe98ccd2a0445eb51973c1df45a7d1", "role": "downloaded Kaggle run log"},
+        {"path": "kaggriculture-candidates/secondary-population/kernel-metadata.json", "sha256": "96f343a2ba8ce4f4909dcc08d9801b16451d0ca2839e39666fcae89fbc5b92d0", "role": "Kaggle pull metadata"}
+      ],
+      "source_extraction": "The notebook stores base85/zlib literals for main.py, LICENSE.txt, and NOTICE.txt. Static AST literal joining and decoding reproduced all three downloaded outputs exactly.",
+      "license_evidence": {
+        "license": "Apache-2.0",
+        "evidence": "LICENSE.txt is the full Apache-2.0 text. NOTICE.txt credits Thomas Tschinkel's The 2945 Farm v2 and its upstream public contributors and explicitly states that only comments were removed and strategy semantics/callable ordering were unchanged.",
+        "separate_license_file": true,
+        "concern": "main.py is intentionally comment-free, so LICENSE.txt and NOTICE.txt must travel with it."
+      },
+      "policy_family": "Exact semantic repackaging of The 2945 Farm / current-meta route-replay livestock economy.",
+      "entrypoint": {
+        "kaggle_last_new_callable": "agent",
+        "intended_policy": "final cow-to-goose substitution wrapper agent",
+        "concern": "None for Kaggle or name-based imports: the source ends with agent = globals().pop('agent'), reinserting the final wrapper as the last callable and preserving the global agent binding.",
+        "adapter_required": "No."
+      },
+      "production_mix": "The base tapes are the common mixed cow/sheep/goose and wheat/carrot/strawberry/melon schedules. Between steps 192-359, a visible-state EV model can replace planned goose purchases/coops with cows or sheep/pastures. Between steps 144-191, another bounded plan can replace planned cows/pastures with geese/coops only in no-milk/no-yarn shop worlds when the estimated gain clears both a 1.3 ratio and $600 threshold. Extra milk/wool/egg output is tracked and sold.",
+      "route_adaptability": "Day-6 routing uses the first two visible shops, Yarn Store specialization, and one hardcoded rival-opening signature (opponent money 229.0 plus market wheat inventory 9989) that selects route 128. Day 27 forces route 2. Livestock substitutions use current shops, market inventory/parameters, both visible farms, projected native purchases, and affordability.",
+      "policy_level_changes": [
+        "No policy change relative to kaggriculture-candidates/2945/main.py; only Python comments/docstrings were stripped and the source was repackaged.",
+        "Inherited shop- and market-conditioned goose/cow/sheep substitution is the production-level mechanism of interest."
+      ],
+      "comparison": {
+        "line_sequence_ratio": {"current-harvest": 0.64671, "current-master-v53": 0.58229, "current-multiroute": 0.03219, "current-godmode-base": 0.89189},
+        "shared_route_payload": true,
+        "exact_existing_duplicate": {"path": "kaggriculture-candidates/2945/main.py", "byte_sha256": "4f3ca95dd12d9a94b03339999d8803c155f450a8d3956636f050643301fcc5dd", "normalized_ast_equal": true, "normalized_ast_sha256": "8a16b1029640ed70fc742e07fccb7b85a053b31bb90fd572018a59acc0f30037"},
+        "assessment": "The dynamic livestock substitution is genuine production geometry, but this notebook adds zero new strategy semantics and should be deduplicated against the existing 2945 candidate."
+      },
+      "safety_concerns": [
+        "Contains import-time exec of two fixed embedded helper literals; neither literal was executed during this audit.",
+        "Imports os and can read an arbitrary JSON file named by V92_SELL_LIB through open(path). The branch is inactive when the environment variable is absent, and no sibling file is required by the shipped package.",
+        "Contains hardcoded opponent-opening fingerprint dispatch to route 128. This is not episode-id dispatch but is opponent-signature specialization and should be treated as overfit risk.",
+        "No network, subprocess, configuration-seed, hidden-state, or episode-id access was found."
+      ]
+    },
+    {
+      "name": "secondary-soil",
+      "notebook_ref": "prvsiyan/kaggriculture-frontier-the-soil-remembers-rain",
+      "kernel_id_no": 129506302,
+      "last_run_time_utc": "2026-09-22T22:34:33.133000Z",
+      "output_creation_time_utc": "2026-09-22 22:34 UTC (Kaggle CLI minute resolution)",
+      "directory": "kaggriculture-candidates/secondary-soil",
+      "notebook": {
+        "path": "kaggriculture-candidates/secondary-soil/kaggriculture-frontier-the-soil-remembers-rain.ipynb",
+        "sha256": "6771360492a5d028cc6f9491cb56796adb199fe7e5fe94072b9b43a38155465d"
+      },
+      "extracted_main_path": "kaggriculture-candidates/secondary-soil/main.py",
+      "sha256": "178ae0f727641cf4b618ebb98ade7aa1a1bed7517281aab9849de82a59d8ed3a",
+      "bytes": 1046403,
+      "required_sibling_paths": [
+        "kaggriculture-candidates/secondary-soil/LICENSE.txt",
+        "kaggriculture-candidates/secondary-soil/NOTICE.txt"
+      ],
+      "packaging": "submission.tar.gz has three safe flat members: main.py, LICENSE.txt, and NOTICE.txt; every member exactly matches the separately downloaded output. CSV files are analysis evidence only and are not runtime dependencies.",
+      "artifacts": [
+        {"path": "kaggriculture-candidates/secondary-soil/LICENSE.txt", "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30", "role": "required license"},
+        {"path": "kaggriculture-candidates/secondary-soil/NOTICE.txt", "sha256": "a8482cc51dada918c4ae944dcedbdc13b81d9fd6a4f534b410b7db0469519a3d", "role": "required attribution"},
+        {"path": "kaggriculture-candidates/secondary-soil/submission.tar.gz", "sha256": "ebf731c1a7e8bf8b7988a0d6fb27773db85ccbbafdd46ae26235fc8430894100", "role": "downloaded submission bundle"},
+        {"path": "kaggriculture-candidates/secondary-soil/final_order_holdout_1008_rows.csv", "sha256": "3d201ba4672cae252efd36e80ba93a95aaa4d07b4ca4798ffc0c16d4569bfe4d", "role": "downloaded analysis evidence, not trusted as score evidence"},
+        {"path": "kaggriculture-candidates/secondary-soil/final_order_paired_controls.csv", "sha256": "e94ce58fd67774e45b8aa1f9e38511c24937eab49a308fbef1b51c967294a4b5", "role": "downloaded analysis evidence, not trusted as score evidence"},
+        {"path": "kaggriculture-candidates/secondary-soil/paired_evidence.csv", "sha256": "7d977152f083b84896579ee845c698adbf3b2c662b869bdf57159df043754d9f", "role": "downloaded analysis evidence, not trusted as score evidence"},
+        {"path": "kaggriculture-candidates/secondary-soil/rejected_own_sale_repair_summary.csv", "sha256": "ceb39d9c7b171cbd0411e2ad566025657c6da18f644fe1bcdd2952b68c86c019", "role": "downloaded analysis evidence, not trusted as score evidence"},
+        {"path": "kaggriculture-candidates/secondary-soil/kaggriculture-frontier-the-soil-remembers-rain.log", "sha256": "daae3219c4961668d5f14baaaed460142c31c1a37caf62e37004f51fcaef6d1a", "role": "downloaded Kaggle run log"},
+        {"path": "kaggriculture-candidates/secondary-soil/kernel-metadata.json", "sha256": "7424fdf80cf3d343c85168cf8a3af6bfc120249542529158779b2c5d13b4efc7", "role": "Kaggle pull metadata"}
+      ],
+      "source_extraction": "The notebook stores main.py in one base85/lzma literal and LICENSE/NOTICE as plain literals. Static AST literal decoding reproduced all downloaded policy/notice outputs exactly.",
+      "license_evidence": {
+        "license": "Apache-2.0",
+        "evidence": "LICENSE.txt is the full Apache-2.0 text. NOTICE.txt identifies the 22 September final-market-order revision, links haideptry/the-2965-master-hybrid-engine, and says inherited source/notices are retained in main.py.",
+        "separate_license_file": true,
+        "concern": "Preserve both LICENSE.txt and NOTICE.txt with main.py."
+      },
+      "policy_family": "Soil/2965 hybrid giant route-replay stack with final market-order revision.",
+      "entrypoint": {
+        "kaggle_last_new_callable": "_final_sell_block_reorder_entrypoint",
+        "intended_policy": "_final_sell_block_reorder_entrypoint",
+        "concern": "No current break: the file ends by assigning both agent and kaggle_submission_agent to the final function. Earlier notebook sections explicitly document a corrected prior intermediate-entrypoint mistake.",
+        "adapter_required": "No."
+      },
+      "production_mix": "The common mixed livestock/crop route bank is retained. A fixed HybridOpening adds an opening wheat seed and uses idle labor for temporary wheat; later wrappers delay that harvest, cap day-27 wheat/carrot seed float to remaining plantings, and suppress fertilizer buys from step 696. The advertised final wrapper does not change physical production; it only permutes contiguous SELL blocks.",
+      "route_adaptability": "Same day-6 shop-pair/Yarn routing and hardcoded rival-opening signature as Population, then route 2 at day 27. The shipped _ALT_MODE is fixed to HybridOpening. A Mixed mode contains configuration-seed-based route selection, but that branch is dormant under the shipped constant. Later layers react to visible market/shop/inventory state.",
+      "policy_level_changes": [
+        "Sale-advance lookahead changed from 3 to 4.",
+        "Late seed hedge changed from 2 to 0 and fertilizer purchases are removed from step 696 onward.",
+        "Stable market-queue compaction removes provably dead slots.",
+        "Final wrapper reapplies inherited clone-model ordering to contiguous SELL blocks of length 2-6 after all later sale/queue edits."
+      ],
+      "comparison": {
+        "line_sequence_ratio": {"current-harvest": 0.77547, "current-master-v53": 0.55597, "current-multiroute": 0.02507, "current-godmode-base": 0.88226},
+        "shared_route_payload": true,
+        "assessment": "High same-family overlap. The final delta is sale ordering, while the physical opening/input changes are inherited composition rather than an independent production plan."
+      },
+      "safety_concerns": [
+        "Contains import-time exec of two fixed embedded helper literals; neither literal was executed during this audit.",
+        "Imports os and can read an arbitrary JSON file named by V92_SELL_LIB through open(path). The branch is inactive when the environment variable is absent, and no sibling file is required by the shipped package.",
+        "Contains hardcoded opponent-opening fingerprint dispatch to route 128.",
+        "Contains configuration['seed'] access in dormant Mixed-opening code. _ALT_MODE='HybridOpening' prevents that branch in the shipped policy, but it remains hidden-seed-capable code and should be flagged.",
+        "No network, subprocess, or episode-id access was found."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+[
+ {
+  "opp": "kaito_v27.py",
+  "seed": 5000,
+  "seat": 0,
+  "edged_a": 115294.0,
+  "edged_b": 98979.0,
+  "stock_a": 115294.0,
+  "stock_b": 98979.0,
+  "edged_margin": 16315.0,
+  "stock_margin": 16315.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 0,
+   "units": 0,
+   "repays": 0,
+   "gated_out": 505,
+   "last_distance": 23
+  }
+ },
+ {
+  "opp": "kaito_v27.py",
+  "seed": 5000,
+  "seat": 1,
+  "edged_a": 115049.0,
+  "edged_b": 99072.0,
+  "stock_a": 115049.0,
+  "stock_b": 99072.0,
+  "edged_margin": 15977.0,
+  "stock_margin": 15977.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 0,
+   "units": 0,
+   "repays": 0,
+   "gated_out": 505,
+   "last_distance": 23
+  }
+ },
+ {
+  "opp": "kaito_v27.py",
+  "seed": 5013,
+  "seat": 0,
+  "edged_a": 73419.0,
+  "edged_b": 67720.0,
+  "stock_a": 73419.0,
+  "stock_b": 67720.0,
+  "edged_margin": 5699.0,
+  "stock_margin": 5699.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 0,
+   "units": 0,
+   "repays": 0,
+   "gated_out": 505,
+   "last_distance": 23
+  }
+ },
+ {
+  "opp": "kaito_v27.py",
+  "seed": 5013,
+  "seat": 1,
+  "edged_a": 73419.0,
+  "edged_b": 67720.0,
+  "stock_a": 73419.0,
+  "stock_b": 67720.0,
+  "edged_margin": 5699.0,
+  "stock_margin": 5699.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 0,
+   "units": 0,
+   "repays": 0,
+   "gated_out": 505,
+   "last_distance": 23
+  }
+ }
+]

@@ -1,0 +1,198 @@
+{
+  "rewards": [
+    3000.0,
+    154496.0
+  ],
+  "states": 720,
+  "statuses": [
+    "DONE",
+    "DONE"
+  ],
+  "errors": [
+    {
+      "step": 3,
+      "seat": 0,
+      "error": "Traceback (most recent call last):\n  File \"<python>\\Lib\\site-packages\\kaggle_environments\\agent.py\", line 192, in act\n    action = self.agent(*args)\n             ^^^^^^^^^^^^^^^^^\n  File \"<v50>\", line 259, in v50_agent\n  File \"<v50/market.py>\", line 589, in act\n  File \"<v50/market.py>\", line 232, in _reserves\n  File \"<v50/market.py>\", line 209, in _future_until_restock\nIndexError: list index out of range\n"
+    }
+  ],
+  "max_action": [
+    0.034443,
+    0.277916
+  ],
+  "production": {
+    "selected_route": 115,
+    "compatible_routes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      100,
+      101,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    "choices": [
+      {
+        "step": 0,
+        "reason": [
+          "initial"
+        ],
+        "route": 115,
+        "candidates": 41,
+        "top_scores": [
+          [
+            115,
+            183093.0
+          ],
+          [
+            114,
+            179752.0
+          ],
+          [
+            124,
+            177563.0
+          ],
+          [
+            108,
+            177169.0
+          ],
+          [
+            122,
+            177169.0
+          ]
+        ]
+      }
+    ],
+    "repairs": [],
+    "projection_failures": [],
+    "crop_substitutions": 0,
+    "resets": 1,
+    "pending_repairs": 0
+  },
+  "market": {
+    "resets": 0,
+    "observed_transitions": 1,
+    "removed_dead_orders": 2,
+    "input_topups": 0,
+    "delayed_sales": 0,
+    "overflow_sales": 0,
+    "errors": 0,
+    "queue_candidates": 1,
+    "flow": {
+      "WHEAT": {
+        "mean": -1.6,
+        "deviation": 1.6,
+        "confidence": 0.01
+      },
+      "CARROT": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.036
+      },
+      "TOMATO": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.036
+      },
+      "STRAWBERRY": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.036
+      },
+      "MELON": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.036
+      },
+      "EGG": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.036
+      },
+      "MILK": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.036
+      },
+      "WOOL": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.036
+      },
+      "FERTILIZER": {
+        "mean": 0.0,
+        "deviation": 0.0,
+        "confidence": 0.036
+      }
+    },
+    "last": {
+      "step": 0,
+      "cash": 3000.0,
+      "post_unit_shed": {},
+      "carried": 0,
+      "reserve": {
+        "WHEAT": 0,
+        "FERTILIZER": 0
+      },
+      "total_input_need": {
+        "WHEAT": 0,
+        "FERTILIZER": 0
+      },
+      "sales": {},
+      "delayed": [],
+      "dead_orders_removed": 2,
+      "queue": [],
+      "worst_score": 3000.0,
+      "mean_score": 3000.0,
+      "tracked_net": {
+        "WHEAT": 0,
+        "CARROT": 0,
+        "TOMATO": 0,
+        "STRAWBERRY": 0,
+        "MELON": 0,
+        "EGG": 0,
+        "MILK": 0,
+        "WOOL": 0,
+        "FERTILIZER": 0
+      },
+      "assumptions": {
+        "cash": "only simulated sales may fund later slots",
+        "inputs": "shed reserves cover route pickups until restock",
+        "opponent": "weighted observed net flow plus no-op/adverse scenarios"
+      }
+    }
+  }
+}

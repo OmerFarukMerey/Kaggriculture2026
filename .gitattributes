@@ -1,0 +1,5 @@
+# Store every file byte-for-byte. NOTES.md / manifest.json / build.json record the sha256 of
+# the exact bytes sent to Kaggle (several are CRLF), so no end-of-line conversion anywhere.
+* -text
+*.tar.gz binary
+*.zip binary

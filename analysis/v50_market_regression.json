@@ -1,0 +1,93 @@
+{
+  "0": {
+    "before": {
+      "action": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [],
+        "market": [
+          [
+            "BUY_SEED",
+            "WHEAT",
+            1
+          ]
+        ]
+      },
+      "money": 2990.0,
+      "shed_milk": 10,
+      "wheat_seeds": 1
+    },
+    "after": {
+      "action": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [],
+        "market": [
+          [
+            "SELL",
+            "MILK",
+            10
+          ],
+          [
+            "BUY_SEED",
+            "WHEAT",
+            1
+          ]
+        ]
+      },
+      "money": 4401.0,
+      "shed_milk": 0,
+      "wheat_seeds": 1
+    }
+  },
+  "1": {
+    "before": {
+      "action": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [],
+        "market": [
+          [
+            "BUY_SEED",
+            "WHEAT",
+            1
+          ],
+          [
+            "SELL",
+            "MILK",
+            10
+          ]
+        ]
+      },
+      "money": 4307.0,
+      "shed_milk": 0,
+      "wheat_seeds": 1
+    },
+    "after": {
+      "action": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [],
+        "market": [
+          [
+            "SELL",
+            "MILK",
+            10
+          ],
+          [
+            "BUY_SEED",
+            "WHEAT",
+            1
+          ]
+        ]
+      },
+      "money": 4430.0,
+      "shed_milk": 0,
+      "wheat_seeds": 1
+    }
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "catalog_version": 1,
+  "as_of": "2026-09-28",
+  "scope": "Seven current public Kaggriculture notebooks pulled with the authenticated Kaggle CLI. Notebooks were not executed; artifacts were recovered from AST-evaluated literals and decoded with standard-library base64/base85, zlib/lzma and path-checked tar readers.",
+  "safety_audit": {
+    "notebook_shell_or_downloads_executed": false,
+    "policy_network_or_subprocess_calls_found": false,
+    "runtime_validation_performed": false,
+    "notes": [
+      "Large route/data literals and literal exec payloads were recursively decoded or parsed without executing policy code.",
+      "The only policy filesystem call found is a dead optional open(path) branch in the shared large-agent lineage where path is assigned None immediately before the guard.",
+      "The God Mode HTML files and Ice/Fire external dashboard dataset are analysis assets, not policy dependencies."
+    ]
+  },
+  "static_compare_order": [
+    {
+      "candidate": "current-multiroute",
+      "why": "Most lineage-diverse recovered policy: compact distilled trajectory, conditional score-bank branch, weed repair, feed-first opening and debt-tracked one-turn WHEAT/FERTILIZER sale splitting."
+    },
+    {
+      "candidate": "current-master-v53",
+      "why": "Compact generalized public-meta baseline ending in the R97 physical grain/supply guard; useful contrast to the much larger repeated market-closure lineage."
+    },
+    {
+      "candidate": "current-harvest",
+      "why": "Canonical representative of the Step1009 family: it contains the near-identical Demand policy plus two empty-order guards and a fail-closed outer action boundary."
+    }
+  ],
+  "deduplication": {
+    "exact_current_to_current_policy_duplicates": [],
+    "exact_existing_duplicates": [
+      {
+        "candidate": "current-godmode",
+        "duplicate_of": "kaggriculture-candidates/latest-godmode",
+        "scope": "All four Python policy files and both HTML assets are byte-identical."
+      }
+    ],
+    "near_duplicate_families": [
+      {
+        "canonical": "current-harvest",
+        "other": "current-demand-turn",
+        "line_sequence_ratio": 0.9986,
+        "delta": "Harvest changes two SELL-block scans to tolerate empty orders and appends the 24-line V85 fail-closed interface guard."
+      },
+      {
+        "canonical": "current-master-v53",
+        "other": "current-v31-bronze",
+        "line_sequence_ratio": 0.9584,
+        "delta": "Master changes the feed bonus calculation and adds the R88, R95 and R97 overlays; V31 ends at R86."
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "name": "current-v31-bronze",
+      "source_id": "evgendvorkin/kaggriculture-version-31-26-09-bronze-going-up",
+      "listed_time": "20:19",
+      "directory": "kaggriculture-candidates/current-v31-bronze",
+      "notebook": {
+        "path": "kaggriculture-candidates/current-v31-bronze/kaggriculture-version-31-26-09-bronze-going-up.ipynb",
+        "sha256": "3674056c3b9df2258e8c07daaa12cf772b328b6874b2ac943f04a4c8f8f8a5ac"
+      },
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/current-v31-bronze/main.py",
+          "sha256": "a2047ebd8ca5720221e1421529655d9c67a7b2fedb74e874c7d3c55a8970ac7e",
+          "role": "single-file runnable policy"
+        }
+      ],
+      "entrypoint": "agent",
+      "packaging": "Package main.py at archive root. Standard library only; no companion files.",
+      "license": "Apache-2.0 text and attribution are embedded in main.py.",
+      "source_structure": "Direct %%writefile cell; no payload execution was needed.",
+      "key_mechanics": [
+        "Shop-routed replay chassis with reactive storage, terminal rescue, tomato, sheep, input and market overlays.",
+        "R85 economic feed skipping and excess-fertilizer selling.",
+        "R86 only skips a feed when the next-day route still services that animal tile."
+      ],
+      "implementation_hypothesis": "Useful only as an ablation of later Master overlays; its main.py is the older prefix of current-master-v53, not a new bronze-title strategy.",
+      "concerns": [
+        "Notebook marketing is Version 31, while the extracted source header itself says independent confirmation is still required.",
+        "Subsumed by current-master-v53 except for one feed-bonus expression; low lineage diversity.",
+        "Notebook replay-analysis cells reference Kaggle input datasets, but those are not policy dependencies."
+      ],
+      "lineage": "Public ShopRouter/Metav4/V39 family; 95.84% line-sequence overlap with current-master-v53.",
+      "priority": "skip unless running a Master-layer ablation"
+    },
+    {
+      "name": "current-demand-turn",
+      "source_id": "tetsutani/demand-preserving-turn-sale-timing",
+      "listed_time": "17:41",
+      "directory": "kaggriculture-candidates/current-demand-turn",
+      "notebook": {
+        "path": "kaggriculture-candidates/current-demand-turn/demand-preserving-turn-sale-timing.ipynb",
+        "sha256": "43f80ebe5ae4e6e4a7bb5a125334e5ec5b96d52a5840993f96a19689ea445efe"
+      },
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/current-demand-turn/main.py",
+          "sha256": "55be5d5f124c8daaaa63c1a29ba4aab096004909666f04748007603c67b7d2a8",
+          "role": "single-file runnable policy"
+        },
+        {
+          "path": "kaggriculture-candidates/current-demand-turn/LICENSE.txt",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "role": "license"
+        },
+        {
+          "path": "kaggriculture-candidates/current-demand-turn/NOTICE.txt",
+          "sha256": "82f3cbdc5ee3b4dbbad054b2ba703a8370b6431af573adf10ad92964421e6ea7",
+          "role": "attribution"
+        },
+        {
+          "path": "kaggriculture-candidates/current-demand-turn/submission.tar.gz",
+          "sha256": "33532d53ca12d49f2af7e817a6b17cf7dad3d81c0036a109c63a4fb57778181a",
+          "role": "exact embedded submission archive"
+        }
+      ],
+      "entrypoint": "agent (also bound as kaggle_submission_agent)",
+      "packaging": "Exact embedded tar.gz has flat members LICENSE.txt, NOTICE.txt and main.py.",
+      "license": "Apache-2.0 with a detailed NOTICE preserving ShopRouter, Metav4, engine-extract and later overlay attribution.",
+      "source_structure": "A base85 literal contains the complete deterministic tar.gz; decoded statically and member paths were checked before writing.",
+      "key_mechanics": [
+        "Large public-meta route/reaction stack with opponent sale-race estimation, physical input protection, terminal rescue and many narrow market overlays.",
+        "Final Step1009 wrapper applies the same inventory-safe _s793_reorder to Step1008, the forty-first fixed-SELL/fixed-order closure pass.",
+        "Every final pass updates the prior action cache when the market order sequence changes."
+      ],
+      "implementation_hypothesis": "Tests whether an additional local order-search pass closes a residual market-order interaction; it does not introduce a new economic route or production policy.",
+      "concerns": [
+        "Source comments label Step1008 and Step1009 HOLD and require full evaluation, contradicting notebook prose that calls Step1008 promoted.",
+        "Forty-one repeated applications of the same local reorder suggest very low marginal diversity and possible tuning to a narrow evaluation stream.",
+        "A dormant optional open(path) exists in the inherited V92 stream loader, but path is hard-coded to None; no network or subprocess code was found.",
+        "Near-duplicate of current-harvest and therefore not a distinct first-pass benchmark target."
+      ],
+      "lineage": "Same giant Step1009 public-meta lineage as current-harvest; 99.86% line-sequence overlap.",
+      "priority": "paired ablation only; prefer current-harvest as family representative"
+    },
+    {
+      "name": "current-godmode",
+      "source_id": "leoprovorov/god-s-mode-hacked-stores",
+      "listed_time": "16:31",
+      "directory": "kaggriculture-candidates/current-godmode",
+      "notebook": {
+        "path": "kaggriculture-candidates/current-godmode/god-s-mode-hacked-stores.ipynb",
+        "sha256": "db70600c949a3d75485d278430247afb3f2ad2bfbd267fe889b5ac60d9557ec1"
+      },
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+          "sha256": "f9588c469d2c1829e46593faeab7efe088a70f6c77d04a78800217350c812ae5",
+          "role": "entry module"
+        },
+        {
+          "path": "kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/base_agent.py",
+          "sha256": "177d78bdf00aa96579d98052558e18cd3081d29f855c8a6f20a2bbfebcdbda11",
+          "role": "parent policy"
+        },
+        {
+          "path": "kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/shop_overlay.py",
+          "sha256": "f4a5d2ecae74a008eba992ca1a9aa0bf8789adc826d8783afd399c8006a4f436",
+          "role": "revealed-shop sale overlay"
+        },
+        {
+          "path": "kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/shop_predictor.py",
+          "sha256": "900b30017b3c97b07d2d4490aca88fabbc419bb9bfd2acb35c73aced8f1fe2ac",
+          "role": "diagnostic seed posterior"
+        },
+        {
+          "path": "kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/field-shops.html",
+          "sha256": "847602adebb1381ba0d16a64a5faab35fe997c5870c55b6247e9b49111b64746",
+          "role": "analysis-only HTML asset"
+        },
+        {
+          "path": "kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/field-worlds.html",
+          "sha256": "530ce60e53d5780b9c0bda3945abaf25645b373832b8448af4a7fd0016ed04e5",
+          "role": "analysis-only HTML asset"
+        }
+      ],
+      "entrypoint": "main.agent",
+      "packaging": "Place main.py, base_agent.py, shop_predictor.py and shop_overlay.py together at archive root. HTML files are not submission members. Benchmark with the bundle directory on sys.path.",
+      "license": "Apache-2.0 text and upstream notices are embedded in base_agent.py; no separate license file is present for the overlay modules.",
+      "source_structure": "One lzma/base85 framed six-file bundle; all filenames, lengths and embedded SHA256 values were verified statically.",
+      "key_mechanics": [
+        "512 non-exhaustive seed particles consume observed weed/shop evidence, but future-shop inference is explicitly telemetry-only.",
+        "Actual policy change is seed-blind: defer up to eight units of an already planned sale when revealed-shop demand predicts at least a three-point price gain, then force settlement four-turn-block plus one later.",
+        "Only reserves when own visible production footprint is not behind the opponent and shed load remains below a soft cap."
+      ],
+      "implementation_hypothesis": "The actionable mechanism is short revealed-demand sale deferral, not hidden-seed control; benchmark it only if that timing is absent from the existing parent.",
+      "concerns": [
+        "The God Mode title overstates the runnable policy: sampled future-shop predictions never alter actions.",
+        "All six recovered files are byte-identical to latest-godmode, so this pull adds no candidate diversity.",
+        "The stateful controller is a module singleton and performs posterior filtering/telemetry work that may add per-turn cost without action benefit."
+      ],
+      "lineage": "Existing latest-godmode exact duplicate; base_agent is the same large public V39/meta family.",
+      "priority": "deduplicated; do not re-benchmark"
+    },
+    {
+      "name": "current-ice-fire",
+      "source_id": "leoprovorov/a-song-of-ice-and-fire-fixed-flexible",
+      "listed_time": "14:09",
+      "directory": "kaggriculture-candidates/current-ice-fire",
+      "notebook": {
+        "path": "kaggriculture-candidates/current-ice-fire/a-song-of-ice-and-fire-fixed-flexible.ipynb",
+        "sha256": "946c8a6bd7a3f29c09b707f8389a7abdb7f8dfdbd7053857df7cc38396806dcb"
+      },
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/current-ice-fire/main.py",
+          "sha256": "12ad317ecac6c07fb2c2e10bf4820ecd1fd4551a5a36aa0e34ab93b2c33c2693",
+          "role": "single-file runnable policy"
+        }
+      ],
+      "entrypoint": "agent",
+      "packaging": "Package main.py alone at archive root. The three dashboard files referenced by article mode are external analysis assets and are not runtime dependencies.",
+      "license": "Apache-2.0 text and upstream attribution are embedded in main.py.",
+      "source_structure": "One lzma/base85 main.py literal with an expected source hash; decoded statically.",
+      "key_mechanics": [
+        "Large V39/public-meta parent plus an EarlyCycle opening that turns idle early actions into a temporary wheat crop.",
+        "Final MarketShock-M1-WR1K layer fingerprints the complete public and private observation at step 506 and replaces the farmer route through step 527 only for one stored scenario.",
+        "Unknown observations pass through bit-for-bit."
+      ],
+      "implementation_hypothesis": "Useful as a narrow memorization/route-repair diagnostic, not as evidence of general flexibility; activation outside its exact recorded world should be effectively zero.",
+      "concerns": [
+        "The final water repair key includes full farm, private, market and town state, making it an exact replay-state patch with weak expected transfer.",
+        "Notebook analysis of fixed versus flexible play does not describe a broadly adaptive final policy.",
+        "Shares 73.08% line-sequence overlap with current-demand-turn before its final specialized patch."
+      ],
+      "lineage": "Large public-meta lineage with a distinct but single-scenario exact-state tail patch.",
+      "priority": "low; benchmark only as an overfit control"
+    },
+    {
+      "name": "current-harvest",
+      "source_id": "haodou092/kaggriculture-harvest-ledger",
+      "listed_time": "12:01",
+      "directory": "kaggriculture-candidates/current-harvest",
+      "notebook": {
+        "path": "kaggriculture-candidates/current-harvest/kaggriculture-harvest-ledger.ipynb",
+        "sha256": "276ed8449aed98d004ffd01ccc294a1535819f10a7c6f64dcf4de2004e36cec5"
+      },
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/current-harvest/main.py",
+          "sha256": "8cffc452c3023082f261d66ec068d8a285a3febea5d4d56de2b13792e2086d5e",
+          "role": "single-file runnable policy"
+        },
+        {
+          "path": "kaggriculture-candidates/current-harvest/LICENSE.txt",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "role": "license"
+        },
+        {
+          "path": "kaggriculture-candidates/current-harvest/NOTICE.txt",
+          "sha256": "aa229f5feea4de2968d18b5f7005ee5f88195b955dcc17840d00bb1e49532e6b",
+          "role": "attribution"
+        }
+      ],
+      "entrypoint": "agent (v85_fail_closed_interface_agent)",
+      "packaging": "Flat archive with main.py, LICENSE.txt and NOTICE.txt.",
+      "license": "Apache-2.0; full license supplied and NOTICE points to the public top-2 parent while main.py retains upstream notices.",
+      "source_structure": "Three independent zlib/base85 file literals, each checked against an embedded SHA256.",
+      "key_mechanics": [
+        "Same Step1009 repeated fixed-SELL closure stack as current-demand-turn.",
+        "Two inherited SELL-block scans additionally tolerate empty market orders.",
+        "V85 returns valid parent actions by identity and replaces only exceptions or malformed top-level action containers with correctly hand-sized PASS actions."
+      ],
+      "implementation_hypothesis": "The V85 delta can prevent catastrophic invalid-action termination but cannot improve ordinary game economics; any score gain over Demand should come from rare failure avoidance.",
+      "concerns": [
+        "The parent still contains source comments marking Step1008/Step1009 HOLD despite notebook claims of a proven line.",
+        "V85 validates only container types, not command legality, arity or hand-count consistency.",
+        "Fallback sizing reads observation outside the try block, so severely malformed observations can still raise.",
+        "Near-duplicate of current-demand-turn; use this one as the single family representative."
+      ],
+      "lineage": "Canonical current representative of the giant Step1009 public-meta family; 99.86% overlap with Demand.",
+      "priority": "high within its family, but only one of Harvest/Demand should enter broad comparison"
+    },
+    {
+      "name": "current-multiroute",
+      "source_id": "flexonafft/kaggriculture-multi-route-farming-agent",
+      "listed_time": "10:57",
+      "directory": "kaggriculture-candidates/current-multiroute",
+      "notebook": {
+        "path": "kaggriculture-candidates/current-multiroute/kaggriculture-multi-route-farming-agent.ipynb",
+        "sha256": "c9c7e600146c480bb4665f4afa9ca6a20f5314320cd80beae91758bcac38b7bc"
+      },
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/current-multiroute/main.py",
+          "sha256": "489f5d197527f107027626cce79d850fd2ca90edd43d94384b849b6511e27bdb",
+          "role": "single-file runnable policy"
+        }
+      ],
+      "entrypoint": "c94_submission_agent (the final callable; module.agent is its parent implementation)",
+      "packaging": "Package main.py alone at archive root. Standard library only.",
+      "license": "Notebook claims Apache-2.0 attribution is retained, but neither main.py nor its decoded embedded branch contains an Apache/SPDX/license notice; retain the notebook as provenance and treat licensing as incomplete.",
+      "source_structure": "Outer zlib/base64 main.py literal. main.py contains a second zlib/base85 Python branch (41382 bytes, SHA256 aef493e6b0b898a6b5ea88db0b51bb96b4e5864ba559caeb51429201cd539932) executed at import; it was decoded and recursively AST-scanned without execution.",
+      "key_mechanics": [
+        "Distilled Lev Neganov episode trace with front-run sales, terminal liquidation and an observation-driven final-eight-turn controller.",
+        "After step 408, switches to an embedded score-bank-tuned trajectory branch when the bank lead is at most 250.",
+        "Repairs productive routes around weeds, buys five WHEAT first at step 0, and advances capped one-turn WHEAT/FERTILIZER sales while recording debt to reduce the original next-turn sale."
+      ],
+      "implementation_hypothesis": "Highest-diversity recovery candidate: its compact trajectory, conditional branch and one-turn commodity-sale split may respond differently to the live opponents that defeated recent submissions.",
+      "concerns": [
+        "Notebook calls the payload C95, but recovered code's final callable and final layer are explicitly c94_submission_agent/C94.",
+        "Trajectory is distilled from one named episode, so shop/opponent transfer remains a substantive risk.",
+        "Uses runtime exec(compile(decoded_source)) for the embedded branch; static recursion found no network, filesystem or subprocess behavior.",
+        "Some state is module-global, though per-seat debt dictionaries are used in the final layer."
+      ],
+      "lineage": "Distinct compact trajectory/controller lineage rather than the giant Step1009/V39 source stack.",
+      "priority": "highest diversity; compare early"
+    },
+    {
+      "name": "current-master-v53",
+      "source_id": "guruprasaathas111/kaggriculture-master-engine-v53e01d74d8f",
+      "listed_time": "02:34",
+      "directory": "kaggriculture-candidates/current-master-v53",
+      "notebook": {
+        "path": "kaggriculture-candidates/current-master-v53/kaggriculture-master-engine-v53e01d74d8f.ipynb",
+        "sha256": "0a81deda86ba2a191f985090a6fe2c586c74012bd83b74ac0c54fff43f717d26"
+      },
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/current-master-v53/main.py",
+          "sha256": "708c7485fa964853b193f175dcd83020602c005e159ce82e38dc350b22e970c8",
+          "role": "single-file runnable policy"
+        }
+      ],
+      "entrypoint": "agent",
+      "packaging": "Package main.py alone at archive root; notebook names the archive submission_competitive_v39.tar.gz.",
+      "license": "Apache-2.0 text and extensive public-source attribution are embedded in main.py.",
+      "source_structure": "Direct %%writefile main.py cell. Literal unit/planner exec strings and compressed route JSON were parsed statically.",
+      "key_mechanics": [
+        "Shop-routed replay chassis with sale lead/suppression, terminal physical planner, storage guard, tomato expansion, sheep branch and input harvesting.",
+        "R88 counts feed/care phase value before economic feed skipping.",
+        "R95 reserves two days of physical WHEAT demand; R97 protects funded pickup/feed supply by holding sales or inserting a bounded BUY_PRODUCT WHEAT while preserving order indices and budget/capacity constraints."
+      ],
+      "implementation_hypothesis": "A smaller, more general policy to test against the live-loss pattern: input continuity and physical grain protection may be more robust than dozens of marginal SELL-order closure passes.",
+      "concerns": [
+        "Naming is inconsistent: Kaggle id says Master Engine V5/v53, markdown says Master Engine V2, startup text/archive say V39, and source ends at R97.",
+        "R97 applies only under standard configuration and catches exceptions by returning the parent action.",
+        "It remains the same public ShopRouter/V39 ancestry as the larger candidates, so it is not fully independent."
+      ],
+      "lineage": "Compact public V39/R97 branch; supersedes current-v31-bronze and is an ancestor/prefix of the larger Demand/Harvest lineage.",
+      "priority": "high as a compact generalized contrast"
+    }
+  ]
+}

@@ -1,0 +1,2030 @@
+[
+ {
+  "episode": "100205492",
+  "opp": "Bharath",
+  "outcome": "WIN",
+  "margin": 6928.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100207776",
+  "opp": "Filippo Paninforni",
+  "outcome": "WIN",
+  "margin": 73937.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100210028",
+  "opp": "H Bharath",
+  "outcome": "WIN",
+  "margin": 27804.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100212299",
+  "opp": "Varshith K",
+  "outcome": "WIN",
+  "margin": 23015.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100212615",
+  "opp": "Dev Rath",
+  "outcome": "WIN",
+  "margin": 30409.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100214562",
+  "opp": "Nikola010",
+  "outcome": "WIN",
+  "margin": 30779.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100216842",
+  "opp": "Moroz Roman",
+  "outcome": "WIN",
+  "margin": 36993.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100219116",
+  "opp": "Richard Tang",
+  "outcome": "WIN",
+  "margin": 28953.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100221387",
+  "opp": "JeremiahMannings",
+  "outcome": "WIN",
+  "margin": 5604.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100221622",
+  "opp": "waticson",
+  "outcome": "WIN",
+  "margin": 5761.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100223657",
+  "opp": "Ahmet Erdem Pamuk",
+  "outcome": "WIN",
+  "margin": 17214.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100225936",
+  "opp": "Ankit Hemant Lade",
+  "outcome": "WIN",
+  "margin": 7651.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100228223",
+  "opp": "Ayaan Ghosh",
+  "outcome": "WIN",
+  "margin": 11169.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100230496",
+  "opp": "Natnael Yerga",
+  "outcome": "WIN",
+  "margin": 1921.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100230728",
+  "opp": "WeAreFarmers",
+  "outcome": "WIN",
+  "margin": 610.0,
+  "dev": 131,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   237
+  ]
+ },
+ {
+  "episode": "100232393",
+  "opp": "Yanxi Jiang",
+  "outcome": "WIN",
+  "margin": 2382.0,
+  "dev": 162,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100234682",
+  "opp": "Excluding",
+  "outcome": "LOSS",
+  "margin": -8867.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100236964",
+  "opp": "alessandrozonta",
+  "outcome": "WIN",
+  "margin": 8358.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100239256",
+  "opp": "Anaconda",
+  "outcome": "LOSS",
+  "margin": -6867.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100241549",
+  "opp": "Saicharan Ramineni",
+  "outcome": "WIN",
+  "margin": 5861.0,
+  "dev": 109,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100243849",
+  "opp": "shinamonmon",
+  "outcome": "WIN",
+  "margin": 4467.0,
+  "dev": 162,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100246125",
+  "opp": "Thirst",
+  "outcome": "WIN",
+  "margin": 2155.0,
+  "dev": 162,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100248412",
+  "opp": "Suyash Verma",
+  "outcome": "LOSS",
+  "margin": -605.0,
+  "dev": 131,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   237
+  ]
+ },
+ {
+  "episode": "100250697",
+  "opp": "blueblue222",
+  "outcome": "WIN",
+  "margin": 2276.0,
+  "dev": 152,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100253001",
+  "opp": "yfy",
+  "outcome": "WIN",
+  "margin": 2603.0,
+  "dev": 162,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100255291",
+  "opp": "Chanhyuk Han",
+  "outcome": "WIN",
+  "margin": 3962.0,
+  "dev": 111,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100257561",
+  "opp": "Akira Imae",
+  "outcome": "WIN",
+  "margin": 4543.0,
+  "dev": 17,
+  "cmp": 556,
+  "first": [
+   663,
+   664,
+   665
+  ]
+ },
+ {
+  "episode": "100259842",
+  "opp": "Suda",
+  "outcome": "WIN",
+  "margin": 3704.0,
+  "dev": 156,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100262122",
+  "opp": "RyanHo",
+  "outcome": "LOSS",
+  "margin": -1624.0,
+  "dev": 131,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   237
+  ]
+ },
+ {
+  "episode": "100264412",
+  "opp": "Suneeth reddy",
+  "outcome": "WIN",
+  "margin": 382.0,
+  "dev": 130,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   233
+  ]
+ },
+ {
+  "episode": "100266698",
+  "opp": "Masashi Nishimoto",
+  "outcome": "WIN",
+  "margin": 1490.0,
+  "dev": 132,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   233
+  ]
+ },
+ {
+  "episode": "100268979",
+  "opp": "Aura Farming",
+  "outcome": "LOSS",
+  "margin": -2329.0,
+  "dev": 131,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   237
+  ]
+ },
+ {
+  "episode": "100271268",
+  "opp": "Bruce Zheng",
+  "outcome": "WIN",
+  "margin": 2651.0,
+  "dev": 71,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100273549",
+  "opp": "MD. Nazmus Sakib Anik",
+  "outcome": "WIN",
+  "margin": 9750.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100275843",
+  "opp": "Suneeth reddy",
+  "outcome": "WIN",
+  "margin": 6678.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100278127",
+  "opp": "MD. Nazmus Sakib Anik",
+  "outcome": "WIN",
+  "margin": 2348.0,
+  "dev": 158,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100280419",
+  "opp": "satoooh",
+  "outcome": "WIN",
+  "margin": 5471.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100282703",
+  "opp": "Artem Voronov",
+  "outcome": "WIN",
+  "margin": 4265.0,
+  "dev": 111,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100284995",
+  "opp": "Naru041104",
+  "outcome": "WIN",
+  "margin": 4446.0,
+  "dev": 109,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100287270",
+  "opp": "tangaii",
+  "outcome": "LOSS",
+  "margin": -2737.0,
+  "dev": 131,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   237
+  ]
+ },
+ {
+  "episode": "100289546",
+  "opp": "Egor Trushin",
+  "outcome": "WIN",
+  "margin": 5059.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100289740",
+  "opp": "shinamonmon",
+  "outcome": "WIN",
+  "margin": 3835.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100291827",
+  "opp": "DK Armada",
+  "outcome": "WIN",
+  "margin": 2354.0,
+  "dev": 107,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100294114",
+  "opp": "satoooh",
+  "outcome": "WIN",
+  "margin": 9433.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100296391",
+  "opp": "umair zia",
+  "outcome": "WIN",
+  "margin": 5763.0,
+  "dev": 107,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100298678",
+  "opp": "Aurora",
+  "outcome": "WIN",
+  "margin": 2382.0,
+  "dev": 152,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100300957",
+  "opp": "Tom3",
+  "outcome": "WIN",
+  "margin": 6486.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100301098",
+  "opp": "srijan k.r keshri",
+  "outcome": "LOSS",
+  "margin": -18321.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100303231",
+  "opp": "Stephen Schott",
+  "outcome": "LOSS",
+  "margin": -6207.0,
+  "dev": 4,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100305525",
+  "opp": "Zejun_",
+  "outcome": "WIN",
+  "margin": 5475.0,
+  "dev": 109,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100307804",
+  "opp": "senkin13",
+  "outcome": "WIN",
+  "margin": 702.0,
+  "dev": 96,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100310091",
+  "opp": "Will",
+  "outcome": "WIN",
+  "margin": 4045.0,
+  "dev": 158,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100312366",
+  "opp": "UtaAzu",
+  "outcome": "WIN",
+  "margin": 4551.0,
+  "dev": 109,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100314649",
+  "opp": "Will",
+  "outcome": "WIN",
+  "margin": 3107.0,
+  "dev": 152,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100316927",
+  "opp": "Nadeem",
+  "outcome": "WIN",
+  "margin": 1940.0,
+  "dev": 130,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   237
+  ]
+ },
+ {
+  "episode": "100319210",
+  "opp": "Jiro2",
+  "outcome": "WIN",
+  "margin": 4259.0,
+  "dev": 28,
+  "cmp": 556,
+  "first": [
+   617,
+   618,
+   621
+  ]
+ },
+ {
+  "episode": "100321498",
+  "opp": "Hello San Francisco",
+  "outcome": "WIN",
+  "margin": 8101.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100323781",
+  "opp": "Jiro2",
+  "outcome": "WIN",
+  "margin": 13522.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100326053",
+  "opp": "UtaAzu",
+  "outcome": "WIN",
+  "margin": 1681.0,
+  "dev": 130,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   233
+  ]
+ },
+ {
+  "episode": "100328350",
+  "opp": "Iulian Curte",
+  "outcome": "WIN",
+  "margin": 5910.0,
+  "dev": 51,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100330625",
+  "opp": "qr farm",
+  "outcome": "WIN",
+  "margin": 7078.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100332909",
+  "opp": "Terry Luo",
+  "outcome": "WIN",
+  "margin": 3824.0,
+  "dev": 109,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100335169",
+  "opp": "Reyhan Ksatria",
+  "outcome": "WIN",
+  "margin": 736.0,
+  "dev": 131,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   237
+  ]
+ },
+ {
+  "episode": "100337451",
+  "opp": "Zyy7390",
+  "outcome": "WIN",
+  "margin": 462.0,
+  "dev": 162,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100339742",
+  "opp": "Aurora",
+  "outcome": "WIN",
+  "margin": 3684.0,
+  "dev": 156,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100342036",
+  "opp": "G!vIOne",
+  "outcome": "WIN",
+  "margin": 4284.0,
+  "dev": 103,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100344314",
+  "opp": "Lenin Goud",
+  "outcome": "WIN",
+  "margin": 3435.0,
+  "dev": 109,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100346587",
+  "opp": "Erfan Eshratifar",
+  "outcome": "LOSS",
+  "margin": -3253.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100348866",
+  "opp": "Aurora",
+  "outcome": "WIN",
+  "margin": 3163.0,
+  "dev": 156,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100351154",
+  "opp": "Jiro2",
+  "outcome": "WIN",
+  "margin": 2118.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100353582",
+  "opp": "Mathurin Ache",
+  "outcome": "WIN",
+  "margin": 1857.0,
+  "dev": 152,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100364956",
+  "opp": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -11242.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100380856",
+  "opp": "Ugn\u0117 Miklovait\u0117",
+  "outcome": "WIN",
+  "margin": 3074.0,
+  "dev": 104,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100394511",
+  "opp": "G!vIOne",
+  "outcome": "WIN",
+  "margin": 2081.0,
+  "dev": 103,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100412719",
+  "opp": "Aurora",
+  "outcome": "WIN",
+  "margin": 2759.0,
+  "dev": 162,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100428772",
+  "opp": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -2630.0,
+  "dev": 48,
+  "cmp": 556,
+  "first": [
+   578,
+   580,
+   581
+  ]
+ },
+ {
+  "episode": "100451551",
+  "opp": "Janus",
+  "outcome": "LOSS",
+  "margin": -1708.0,
+  "dev": 152,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100469608",
+  "opp": "lucaskna",
+  "outcome": "LOSS",
+  "margin": -17062.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100474362",
+  "opp": "ebisu_ya",
+  "outcome": "LOSS",
+  "margin": -7627.0,
+  "dev": 23,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100478840",
+  "opp": "Vaibhav Patel",
+  "outcome": "LOSS",
+  "margin": -8854.0,
+  "dev": 54,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100519780",
+  "opp": "antadam127",
+  "outcome": "LOSS",
+  "margin": -8981.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100519966",
+  "opp": "nao.kwmr",
+  "outcome": "LOSS",
+  "margin": -989.0,
+  "dev": 162,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100524546",
+  "opp": "Vaibhav Patel",
+  "outcome": "LOSS",
+  "margin": -2946.0,
+  "dev": 70,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100551853",
+  "opp": "Carson Zhang",
+  "outcome": "LOSS",
+  "margin": -6432.0,
+  "dev": 16,
+  "cmp": 556,
+  "first": [
+   663,
+   664,
+   665
+  ]
+ },
+ {
+  "episode": "100579177",
+  "opp": "redblackbst",
+  "outcome": "LOSS",
+  "margin": -14534.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100590687",
+  "opp": "Aurora",
+  "outcome": "WIN",
+  "margin": 2617.0,
+  "dev": 154,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100615571",
+  "opp": "William Diment",
+  "outcome": "LOSS",
+  "margin": -19622.0,
+  "dev": 22,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   641
+  ]
+ },
+ {
+  "episode": "100631588",
+  "opp": "SJY321",
+  "outcome": "LOSS",
+  "margin": -14119.0,
+  "dev": 22,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100645348",
+  "opp": "senkin13",
+  "outcome": "WIN",
+  "margin": 392.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100652166",
+  "opp": "SJY321",
+  "outcome": "LOSS",
+  "margin": -4353.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100656864",
+  "opp": "SCNU",
+  "outcome": "LOSS",
+  "margin": -23688.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100700185",
+  "opp": "UjjwalPardeshi",
+  "outcome": "LOSS",
+  "margin": -1393.0,
+  "dev": 158,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100747892",
+  "opp": "peikopon",
+  "outcome": "LOSS",
+  "margin": -4039.0,
+  "dev": 160,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100782202",
+  "opp": "Furious Monk",
+  "outcome": "WIN",
+  "margin": 313.0,
+  "dev": 29,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100823398",
+  "opp": "prvsiyan",
+  "outcome": "LOSS",
+  "margin": -14056.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100841552",
+  "opp": "yy",
+  "outcome": "LOSS",
+  "margin": -4062.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100853013",
+  "opp": "yy",
+  "outcome": "WIN",
+  "margin": 1673.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100857549",
+  "opp": "Vaibhav Patel",
+  "outcome": "LOSS",
+  "margin": -22307.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100878075",
+  "opp": "SCNU",
+  "outcome": "LOSS",
+  "margin": -17972.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "100885026",
+  "opp": "G!vIOne",
+  "outcome": "WIN",
+  "margin": 1658.0,
+  "dev": 103,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "100964957",
+  "opp": "UjjwalPardeshi",
+  "outcome": "WIN",
+  "margin": 3305.0,
+  "dev": 158,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101035661",
+  "opp": "Dmitry Larko",
+  "outcome": "WIN",
+  "margin": 1537.0,
+  "dev": 158,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101051554",
+  "opp": "prvsiyan",
+  "outcome": "LOSS",
+  "margin": -4892.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101053910",
+  "opp": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -15538.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101062961",
+  "opp": "Janus",
+  "outcome": "LOSS",
+  "margin": -6188.0,
+  "dev": 111,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101085808",
+  "opp": "prvsiyan",
+  "outcome": "LOSS",
+  "margin": -10978.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101138253",
+  "opp": "Kaggle Agent",
+  "outcome": "LOSS",
+  "margin": -15997.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101140333",
+  "opp": "aashka",
+  "outcome": "LOSS",
+  "margin": -16603.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101179316",
+  "opp": "Debmalya",
+  "outcome": "LOSS",
+  "margin": -16474.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101215714",
+  "opp": "Kaggs",
+  "outcome": "LOSS",
+  "margin": -5925.0,
+  "dev": 125,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   237
+  ]
+ },
+ {
+  "episode": "101227099",
+  "opp": "Mforg",
+  "outcome": "WIN",
+  "margin": 2699.0,
+  "dev": 158,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101256768",
+  "opp": "Ueddy",
+  "outcome": "WIN",
+  "margin": 2239.0,
+  "dev": 158,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101256776",
+  "opp": "tyz123456",
+  "outcome": "LOSS",
+  "margin": -1962.0,
+  "dev": 158,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101263608",
+  "opp": "peikopon",
+  "outcome": "LOSS",
+  "margin": -5499.0,
+  "dev": 74,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101297232",
+  "opp": "Izzoudine Mohamed KANTA",
+  "outcome": "WIN",
+  "margin": 4409.0,
+  "dev": 27,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101328297",
+  "opp": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -9697.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101348435",
+  "opp": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -15033.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101375244",
+  "opp": "SJY321",
+  "outcome": "LOSS",
+  "margin": -9343.0,
+  "dev": 6,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101390908",
+  "opp": "SJY321",
+  "outcome": "LOSS",
+  "margin": -4635.0,
+  "dev": 25,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101417723",
+  "opp": "B\u1eedu Ph\u1ea1m Qu\u1ed1c",
+  "outcome": "WIN",
+  "margin": 7909.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101422203",
+  "opp": "B\u1eedu Ph\u1ea1m Qu\u1ed1c",
+  "outcome": "LOSS",
+  "margin": -988.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101437737",
+  "opp": "FarmGoose",
+  "outcome": "LOSS",
+  "margin": -5394.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101446643",
+  "opp": "Bohannn Wang",
+  "outcome": "LOSS",
+  "margin": -10971.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101487052",
+  "opp": "tyz123456",
+  "outcome": "WIN",
+  "margin": 2833.0,
+  "dev": 154,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101493660",
+  "opp": "Bohannn Wang",
+  "outcome": "LOSS",
+  "margin": -6316.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101504818",
+  "opp": "\u0418\u0422\u041c\u041e\u041d\u0418 AI B2B 67 SaaS",
+  "outcome": "LOSS",
+  "margin": -14145.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101520351",
+  "opp": "CoorDi",
+  "outcome": "LOSS",
+  "margin": -15717.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101531518",
+  "opp": "CoorDi",
+  "outcome": "LOSS",
+  "margin": -20841.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101540537",
+  "opp": "peikopon",
+  "outcome": "LOSS",
+  "margin": -7838.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101562804",
+  "opp": "moonzfxs",
+  "outcome": "LOSS",
+  "margin": -14934.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101567189",
+  "opp": "aashka",
+  "outcome": "LOSS",
+  "margin": -10902.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101603189",
+  "opp": "Terry Luo",
+  "outcome": "WIN",
+  "margin": 2301.0,
+  "dev": 132,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   233
+  ]
+ },
+ {
+  "episode": "101616501",
+  "opp": "srijan k.r keshri",
+  "outcome": "LOSS",
+  "margin": -6927.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101627622",
+  "opp": "yy li",
+  "outcome": "LOSS",
+  "margin": -13933.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101632131",
+  "opp": "smsxgz",
+  "outcome": "LOSS",
+  "margin": -4009.0,
+  "dev": 61,
+  "cmp": 556,
+  "first": [
+   525,
+   526,
+   527
+  ]
+ },
+ {
+  "episode": "101632211",
+  "opp": "srijan k.r keshri",
+  "outcome": "LOSS",
+  "margin": -3086.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101647778",
+  "opp": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -18898.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101665444",
+  "opp": "Hanserong",
+  "outcome": "LOSS",
+  "margin": -3597.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101670079",
+  "opp": "YJR",
+  "outcome": "LOSS",
+  "margin": -12092.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101689996",
+  "opp": "vkhydras",
+  "outcome": "WIN",
+  "margin": 2516.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101692230",
+  "opp": "\u0418\u0422\u041c\u041e\u041d\u0418 AI B2B 67 SaaS",
+  "outcome": "LOSS",
+  "margin": -7519.0,
+  "dev": 104,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   251
+  ]
+ },
+ {
+  "episode": "101717040",
+  "opp": "UncleWKTK",
+  "outcome": "LOSS",
+  "margin": -14976.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101730319",
+  "opp": "Kadouci Abdelhak",
+  "outcome": "LOSS",
+  "margin": -6636.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101754923",
+  "opp": "Arman Tuganbaev",
+  "outcome": "WIN",
+  "margin": 2659.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101770753",
+  "opp": "Mr.Frundles",
+  "outcome": "LOSS",
+  "margin": -14121.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101837809",
+  "opp": "yy",
+  "outcome": "LOSS",
+  "margin": -5175.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101844506",
+  "opp": "RuiFSPinto",
+  "outcome": "LOSS",
+  "margin": -14054.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101888962",
+  "opp": "Semyon Epanov",
+  "outcome": "LOSS",
+  "margin": -10038.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101889150",
+  "opp": "Kronki",
+  "outcome": "WIN",
+  "margin": 6248.0,
+  "dev": 107,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "101909026",
+  "opp": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -3628.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101915944",
+  "opp": "kwa",
+  "outcome": "WIN",
+  "margin": 3996.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101924860",
+  "opp": "Kadouci Abdelhak",
+  "outcome": "LOSS",
+  "margin": -10422.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101928995",
+  "opp": "Gaddam Shiva Teja",
+  "outcome": "LOSS",
+  "margin": -9956.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101947192",
+  "opp": "yvn kaggriculture",
+  "outcome": "LOSS",
+  "margin": -16800.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101949158",
+  "opp": "vkhydras",
+  "outcome": "LOSS",
+  "margin": -10173.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "101991667",
+  "opp": "Lenin Goud",
+  "outcome": "WIN",
+  "margin": 5122.0,
+  "dev": 109,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "102023008",
+  "opp": "Stephen Schott",
+  "outcome": "LOSS",
+  "margin": -6082.0,
+  "dev": 2,
+  "cmp": 556,
+  "first": [
+   243,
+   244
+  ]
+ },
+ {
+  "episode": "102043035",
+  "opp": "Lenin Goud",
+  "outcome": "WIN",
+  "margin": 1922.0,
+  "dev": 132,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   233
+  ]
+ },
+ {
+  "episode": "102051871",
+  "opp": "YJR",
+  "outcome": "LOSS",
+  "margin": -26656.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102074315",
+  "opp": "theredbluepill",
+  "outcome": "WIN",
+  "margin": 5710.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102092141",
+  "opp": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -16287.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102098641",
+  "opp": "apple farmer",
+  "outcome": "LOSS",
+  "margin": -6348.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102116449",
+  "opp": "jaepyeocho",
+  "outcome": "WIN",
+  "margin": 16108.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102125616",
+  "opp": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -13436.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102141095",
+  "opp": "apple farmer",
+  "outcome": "LOSS",
+  "margin": -24171.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102150095",
+  "opp": "apple farmer",
+  "outcome": "WIN",
+  "margin": 3899.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102172465",
+  "opp": "ikevayansky",
+  "outcome": "LOSS",
+  "margin": -11296.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102176827",
+  "opp": "Hello San Francisco",
+  "outcome": "LOSS",
+  "margin": -9182.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102183511",
+  "opp": "Hello San Francisco",
+  "outcome": "LOSS",
+  "margin": -10131.0,
+  "dev": 2,
+  "cmp": 556,
+  "first": [
+   236,
+   237
+  ]
+ },
+ {
+  "episode": "102228269",
+  "opp": "Michael Timbs",
+  "outcome": "LOSS",
+  "margin": -3257.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102246180",
+  "opp": "Peter Cnudde",
+  "outcome": "LOSS",
+  "margin": -3829.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102295229",
+  "opp": "Bernardus",
+  "outcome": "LOSS",
+  "margin": -4730.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102297475",
+  "opp": "ra5anchor",
+  "outcome": "LOSS",
+  "margin": -4627.0,
+  "dev": 69,
+  "cmp": 556,
+  "first": [
+   236,
+   237,
+   242
+  ]
+ },
+ {
+  "episode": "102301624",
+  "opp": "easonyanyan",
+  "outcome": "LOSS",
+  "margin": -17114.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102308630",
+  "opp": "Ramesh Arvind",
+  "outcome": "LOSS",
+  "margin": -1630.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102326280",
+  "opp": "Brotron Carbide",
+  "outcome": "LOSS",
+  "margin": -743.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102337563",
+  "opp": "jaepyeocho",
+  "outcome": "LOSS",
+  "margin": -19965.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102364245",
+  "opp": "Collin Christensen",
+  "outcome": "LOSS",
+  "margin": -19354.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102366488",
+  "opp": "FarmGoose",
+  "outcome": "LOSS",
+  "margin": -19984.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102370928",
+  "opp": "Muhammad Imran",
+  "outcome": "LOSS",
+  "margin": -4150.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102397944",
+  "opp": "Izzoudine Mohamed KANTA",
+  "outcome": "LOSS",
+  "margin": -13.0,
+  "dev": 131,
+  "cmp": 556,
+  "first": [
+   229,
+   230,
+   237
+  ]
+ },
+ {
+  "episode": "102411217",
+  "opp": "Varshith K",
+  "outcome": "LOSS",
+  "margin": -17383.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102420094",
+  "opp": "Ryutogrrr",
+  "outcome": "LOSS",
+  "margin": -17981.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102422425",
+  "opp": "Ryutogrrr",
+  "outcome": "LOSS",
+  "margin": -17966.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102431364",
+  "opp": "Varshith K",
+  "outcome": "LOSS",
+  "margin": -18010.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ },
+ {
+  "episode": "102435688",
+  "opp": "Xiaowenhao404",
+  "outcome": "LOSS",
+  "margin": -4814.0,
+  "dev": 0,
+  "cmp": 556,
+  "first": []
+ }
+]

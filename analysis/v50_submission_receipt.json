@@ -1,0 +1,8 @@
+{
+  "at": "2026-09-29T13:02:23.347859+00:00",
+  "description": "v50: original market policy + own v46 farming. 8 unseen paired seeds: 10-6 vs each v46/v48/v49; common field 32-16 vs v48 34-10-4. Verified standalone. SHA 97865d7e8ad3.",
+  "response": "{\"message\": \"Successfully submitted to Kaggriculture\", \"ref\": 56676239}",
+  "source_sha256": "97865d7e8ad3386ea87976191831af031b3ca9a2a626ca009b0c49c42c0fe751",
+  "archive_sha256": "40b33be9f84f0f3e1d658096b89d02543c0155e9f332487eaa575f0317bd2456",
+  "archive_bytes": 297760
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "candidate": "cha22",
+    "episode": 114717022,
+    "seat": 1,
+    "rewards": [
+      101602.0,
+      66409.0
+    ],
+    "baseline": [
+      101110.0,
+      65465.0
+    ],
+    "margin": -35193.0,
+    "margin_change": 452.0,
+    "changed_actions": 107,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "cha22",
+    "episode": 114834988,
+    "seat": 1,
+    "rewards": [
+      101241.0,
+      100728.0
+    ],
+    "baseline": [
+      102657.0,
+      98410.0
+    ],
+    "margin": -513.0,
+    "margin_change": 3734.0,
+    "changed_actions": 198,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "cha22",
+    "episode": 114857149,
+    "seat": 0,
+    "rewards": [
+      68229.0,
+      68630.0
+    ],
+    "baseline": [
+      67747.0,
+      68291.0
+    ],
+    "margin": -401.0,
+    "margin_change": 143.0,
+    "changed_actions": 180,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "riskfeed",
+    "episode": 114717022,
+    "seat": 1,
+    "rewards": [
+      101731.0,
+      66644.0
+    ],
+    "baseline": [
+      101110.0,
+      65465.0
+    ],
+    "margin": -35087.0,
+    "margin_change": 558.0,
+    "changed_actions": 80,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "riskfeed",
+    "episode": 114834988,
+    "seat": 1,
+    "rewards": [
+      102980.0,
+      99000.0
+    ],
+    "baseline": [
+      102657.0,
+      98410.0
+    ],
+    "margin": -3980.0,
+    "margin_change": 267.0,
+    "changed_actions": 114,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  },
+  {
+    "candidate": "riskfeed",
+    "episode": 114857149,
+    "seat": 0,
+    "rewards": [
+      66949.0,
+      69573.0
+    ],
+    "baseline": [
+      67747.0,
+      68291.0
+    ],
+    "margin": -2624.0,
+    "margin_change": -2080.0,
+    "changed_actions": 104,
+    "failures": [],
+    "warning": "Frozen opponent actions, not a reactive head-to-head win-rate estimate"
+  }
+]

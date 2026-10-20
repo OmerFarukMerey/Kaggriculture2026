@@ -1,0 +1,48 @@
+{
+  "engine": "kaggle-environments 1.32.7",
+  "entries": [
+    {
+      "label": "harvest",
+      "entry": "v85_fail_closed_interface_agent",
+      "same_as_agent": true
+    },
+    {
+      "label": "demand",
+      "entry": "step1009_step1008_fortyfirst_final_fixedsell_closure_agent",
+      "same_as_agent": true
+    },
+    {
+      "label": "icefire",
+      "entry": "install_water_repair_local_patch",
+      "same_as_agent": false
+    },
+    {
+      "label": "master",
+      "entry": "agent",
+      "same_as_agent": true
+    },
+    {
+      "label": "multiroute",
+      "entry": "c94_submission_agent",
+      "same_as_agent": false
+    },
+    {
+      "label": "godmode",
+      "entry": "agent",
+      "same_as_agent": true
+    },
+    {
+      "label": "v48",
+      "entry": "step1009_step1008_fortyfirst_final_fixedsell_closure_agent",
+      "same_as_agent": true
+    }
+  ],
+  "icefire": {
+    "original_return_type": "function",
+    "repaired_return_type": "dict",
+    "repair": "Append agent = globals().pop(\"agent\") in opponent-only copy",
+    "excluded_raw_games": 48,
+    "reason": "Engine silently coerces factory returns to PASS; not a useful opponent win."
+  },
+  "harness_regressions": "3 tests passed: actual file-selected callable; terminal error masked by DONE; factory return coerced to PASS"
+}

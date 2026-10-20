@@ -1,0 +1,78 @@
+[
+ {
+  "opp": "rayk_c94.py",
+  "seed": 5000,
+  "seat": 0,
+  "edged_a": 112975.0,
+  "edged_b": 100164.0,
+  "stock_a": 113430.0,
+  "stock_b": 100230.0,
+  "edged_margin": 12811.0,
+  "stock_margin": 13200.0,
+  "drift": -389.0,
+  "tel": {
+   "borrows": 81,
+   "units": 415,
+   "repays": 81,
+   "gated_out": 0,
+   "last_distance": 20
+  }
+ },
+ {
+  "opp": "rayk_c94.py",
+  "seed": 5000,
+  "seat": 1,
+  "edged_a": 111594.0,
+  "edged_b": 99082.0,
+  "stock_a": 112016.0,
+  "stock_b": 99151.0,
+  "edged_margin": 12512.0,
+  "stock_margin": 12865.0,
+  "drift": -353.0,
+  "tel": {
+   "borrows": 80,
+   "units": 409,
+   "repays": 80,
+   "gated_out": 0,
+   "last_distance": 20
+  }
+ },
+ {
+  "opp": "rayk_c94.py",
+  "seed": 5013,
+  "seat": 0,
+  "edged_a": 110266.0,
+  "edged_b": 94595.0,
+  "stock_a": 110431.0,
+  "stock_b": 94545.0,
+  "edged_margin": 15671.0,
+  "stock_margin": 15886.0,
+  "drift": -215.0,
+  "tel": {
+   "borrows": 81,
+   "units": 415,
+   "repays": 81,
+   "gated_out": 0,
+   "last_distance": 20
+  }
+ },
+ {
+  "opp": "rayk_c94.py",
+  "seed": 5013,
+  "seat": 1,
+  "edged_a": 94580.0,
+  "edged_b": 80670.0,
+  "stock_a": 94885.0,
+  "stock_b": 80696.0,
+  "edged_margin": 13910.0,
+  "stock_margin": 14189.0,
+  "drift": -279.0,
+  "tel": {
+   "borrows": 81,
+   "units": 415,
+   "repays": 81,
+   "gated_out": 0,
+   "last_distance": 20
+  }
+ }
+]

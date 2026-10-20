@@ -1,0 +1,7 @@
+{
+  "price_boundary_quotes": 162,
+  "exact_market_scenarios": 300,
+  "real_engine_unit_scenarios": 3,
+  "optional_pickup_regression": "passed",
+  "courier_return_and_feed_cargo": "passed"
+}

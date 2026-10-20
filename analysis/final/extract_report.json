@@ -1,0 +1,150 @@
+{
+ "a-song-of-ice-and-fire-fixed-flexible": {
+  "how": "literal:PAYLOAD_B85",
+  "sha": "12ad317ecac6c07fb2c2e10bf4820ecd1fd4551a5a36aa0e34ab93b2c33c2693",
+  "bytes": 897851,
+  "expected": [
+   "12ad317ecac6c07fb2c2e10bf4820ecd1fd4551a5a36aa0e34ab93b2c33c2693"
+  ],
+  "hash_match": true,
+  "extra": []
+ },
+ "game-theoretic-master-discrete-optimizat": {
+  "how": "literal:PAYLOAD_B85:tar:main.py",
+  "sha": "03165654e70bd04479a1db776f58146531c320e622db09b9e59ae0a4353c7b82",
+  "bytes": 1148715,
+  "expected": [],
+  "hash_match": false,
+  "extra": [
+   "LICENSE.txt",
+   "NOTICE.txt"
+  ]
+ },
+ "kaggricult-man-reverse-engineering": {
+  "how": null,
+  "sha": null,
+  "bytes": 0,
+  "expected": [
+   "12ad317ecac6c07fb2c2e10bf4820ecd1fd4551a5a36aa0e34ab93b2c33c2693"
+  ],
+  "hash_match": false,
+  "extra": []
+ },
+ "kaggriculture-herd-safe-sale-window-subm": {
+  "how": "output:submission.tar.gz",
+  "sha": "4889137f1adf1f9266b2ad5a6ac6700c40e9be6dfe3654e39db375fb55b71341",
+  "bytes": 1033759,
+  "expected": [
+   "4889137f1adf1f9266b2ad5a6ac6700c40e9be6dfe3654e39db375fb55b71341"
+  ],
+  "hash_match": true,
+  "extra": [
+   "LICENSE.txt",
+   "NOTICE.txt"
+  ]
+ },
+ "kaggriculture-pipe-5-terminal-boost": {
+  "how": "output:submission.tar.gz",
+  "sha": "a5cb643b0516906fb7660613a4eebe00a6cc949a8de98d7744a7071038da824c",
+  "bytes": 322037,
+  "expected": [
+   "a5cb643b0516906fb7660613a4eebe00a6cc949a8de98d7744a7071038da824c"
+  ],
+  "hash_match": true,
+  "extra": []
+ },
+ "kaggriculture-shop-router-reactive-v7": {
+  "how": "output:submission.tar.gz",
+  "sha": "e221f4875daff8b03e8f0ec7c86bd3a2a72c0768b049d4c25064abd5301a532b",
+  "bytes": 347606,
+  "expected": [],
+  "hash_match": false,
+  "extra": []
+ },
+ "kaggriculture-v34-observed-market-timing": {
+  "how": "writefile",
+  "sha": "58f3cbf957c267b464ec0bcfdc9ba7940f708e6ae77c7219b09f07a00a083869",
+  "bytes": 254081,
+  "expected": [
+   "58f3cbf957c267b464ec0bcfdc9ba7940f708e6ae77c7219b09f07a00a083869"
+  ],
+  "hash_match": true,
+  "extra": []
+ },
+ "kaggriculture-v38-smarter-feed-stronger-": {
+  "how": "writefile",
+  "sha": "a2047ebd8ca5720221e1421529655d9c67a7b2fedb74e874c7d3c55a8970ac7e",
+  "bytes": 299348,
+  "expected": [
+   "a2047ebd8ca5720221e1421529655d9c67a7b2fedb74e874c7d3c55a8970ac7e"
+  ],
+  "hash_match": true,
+  "extra": []
+ },
+ "kaggriculture-v39-ready-before-the-rush": {
+  "how": "writefile",
+  "sha": "708c7485fa964853b193f175dcd83020602c005e159ce82e38dc350b22e970c8",
+  "bytes": 311246,
+  "expected": [
+   "708c7485fa964853b193f175dcd83020602c005e159ce82e38dc350b22e970c8"
+  ],
+  "hash_match": true,
+  "extra": []
+ },
+ "kaggriculture-v41-review-candidate": {
+  "how": "output:submission_competitive_v41_REVIEW.tar.gz",
+  "sha": "8951ff93742015cba535b125223cf2e541bb7b602080fc4584f30c2613d210f3",
+  "bytes": 331608,
+  "expected": [
+   "8951ff93742015cba535b125223cf2e541bb7b602080fc4584f30c2613d210f3"
+  ],
+  "hash_match": true,
+  "extra": []
+ },
+ "kaggriculture-v43-local-confirmed": {
+  "how": "output:submission_competitive_v43.tar.gz",
+  "sha": "919fc1d61050cd96f799979e49177ae3ac7bce98ec9835724238bea73f4a08ed",
+  "bytes": 321555,
+  "expected": [],
+  "hash_match": false,
+  "extra": []
+ },
+ "kaggriculture-v53-opening-signature": {
+  "how": "output:submission_competitive_v53.tar.gz",
+  "sha": "20fe549dd4573b9fd1dfb32a1782c205fa74f0edfdfd6cbe935079533e0a9d0e",
+  "bytes": 1036778,
+  "expected": [
+   "20fe549dd4573b9fd1dfb32a1782c205fa74f0edfdfd6cbe935079533e0a9d0e"
+  ],
+  "hash_match": true,
+  "extra": []
+ },
+ "kaggriculture-v55-one-turn-market-race-e": {
+  "how": "output:submission_competitive_v55.tar.gz",
+  "sha": "f09034624844da494669c4ab0e0d9a797da1a19db95eb138b875d309bd1aa01b",
+  "bytes": 1014183,
+  "expected": [
+   "f09034624844da494669c4ab0e0d9a797da1a19db95eb138b875d309bd1aa01b"
+  ],
+  "hash_match": true,
+  "extra": []
+ },
+ "kaggriculture-v57-funding-order-invarian": {
+  "how": "literal:SOURCE_BLOB",
+  "sha": "2ee689fdc58f38b7bf6b80b8d3f48129d19b47201dbee51fdcbd977498a5106f",
+  "bytes": 1067076,
+  "expected": [
+   "2ee689fdc58f38b7bf6b80b8d3f48129d19b47201dbee51fdcbd977498a5106f"
+  ],
+  "hash_match": true,
+  "extra": []
+ },
+ "the-shepherds-ledger-herd-safe-sovereign": {
+  "how": "output:submission.tar.gz",
+  "sha": "1eb0938d1a032e6189f5c08963cb2114ce71166942dd97727cccd405a002d2ee",
+  "bytes": 897884,
+  "expected": [],
+  "hash_match": false,
+  "extra": []
+ }
+}

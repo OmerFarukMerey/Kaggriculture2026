@@ -1,0 +1,2662 @@
+[
+ {
+  "episode": "98276157",
+  "seat": 1,
+  "opponent": "OceanMix",
+  "our": 57614.0,
+  "their": 73933.0,
+  "margin": -16319.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98237272",
+  "seat": 1,
+  "opponent": "Auto Fermers",
+  "our": 106350.0,
+  "their": 107149.0,
+  "margin": -799.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98227974",
+  "seat": 0,
+  "opponent": "Nuri DUDAK",
+  "our": 80317.0,
+  "their": 84323.0,
+  "margin": -4006.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98225878",
+  "seat": 0,
+  "opponent": "islet",
+  "our": 99616.0,
+  "their": 99616.0,
+  "margin": 0.0,
+  "outcome": "TIE",
+  "nsteps": 720
+ },
+ {
+  "episode": "98219203",
+  "seat": 0,
+  "opponent": "lime0001",
+  "our": 139483.0,
+  "their": 139329.0,
+  "margin": 154.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "98193950",
+  "seat": 0,
+  "opponent": "yanjixiang",
+  "our": 56275.0,
+  "their": 69200.0,
+  "margin": -12925.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98191642",
+  "seat": 1,
+  "opponent": "tangaii",
+  "our": 39888.0,
+  "their": 47782.0,
+  "margin": -7894.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98180337",
+  "seat": 0,
+  "opponent": "yamakawanin",
+  "our": 45028.0,
+  "their": 46677.0,
+  "margin": -1649.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98136855",
+  "seat": 1,
+  "opponent": "Matsu",
+  "our": 89708.0,
+  "their": 93711.0,
+  "margin": -4003.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98107201",
+  "seat": 0,
+  "opponent": "Erfan Eshratifar",
+  "our": 135837.0,
+  "their": 140902.0,
+  "margin": -5065.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98084611",
+  "seat": 0,
+  "opponent": "lucaskna",
+  "our": 114861.0,
+  "their": 119600.0,
+  "margin": -4739.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98057325",
+  "seat": 0,
+  "opponent": "Stephen Schott",
+  "our": 98013.0,
+  "their": 110093.0,
+  "margin": -12080.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "98045873",
+  "seat": 0,
+  "opponent": "Jin Niu",
+  "our": 83560.0,
+  "their": 77793.0,
+  "margin": 5767.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "98004678",
+  "seat": 1,
+  "opponent": "bhundreds",
+  "our": 51999.0,
+  "their": 55993.0,
+  "margin": -3994.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97993384",
+  "seat": 0,
+  "opponent": "mtmr_s1",
+  "our": 65816.0,
+  "their": 79993.0,
+  "margin": -14177.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97954705",
+  "seat": 0,
+  "opponent": "nofreewill42",
+  "our": 80386.0,
+  "their": 82331.0,
+  "margin": -1945.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97947843",
+  "seat": 1,
+  "opponent": "Lebxgue.",
+  "our": 80316.0,
+  "their": 49166.0,
+  "margin": 31150.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97904355",
+  "seat": 0,
+  "opponent": "nofreewill42",
+  "our": 61733.0,
+  "their": 64552.0,
+  "margin": -2819.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97881516",
+  "seat": 1,
+  "opponent": "Umut Keltek",
+  "our": 51752.0,
+  "their": 56852.0,
+  "margin": -5100.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97845133",
+  "seat": 1,
+  "opponent": "Roshan Roy",
+  "our": 112853.0,
+  "their": 113598.0,
+  "margin": -745.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97845261",
+  "seat": 1,
+  "opponent": "Khalid",
+  "our": 38618.0,
+  "their": 40438.0,
+  "margin": -1820.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97842839",
+  "seat": 0,
+  "opponent": "Roshan Roy",
+  "our": 82396.0,
+  "their": 83438.0,
+  "margin": -1042.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97836084",
+  "seat": 0,
+  "opponent": "MOHAMMADJAFAR ZAMANI",
+  "our": 28836.0,
+  "their": 29344.0,
+  "margin": -508.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97829184",
+  "seat": 0,
+  "opponent": "nofreewill42",
+  "our": 49239.0,
+  "their": 50708.0,
+  "margin": -1469.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97820003",
+  "seat": 0,
+  "opponent": "ringbearer",
+  "our": 96650.0,
+  "their": 112060.0,
+  "margin": -15410.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97755915",
+  "seat": 0,
+  "opponent": "kirito83",
+  "our": 79520.0,
+  "their": 81863.0,
+  "margin": -2343.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97689896",
+  "seat": 1,
+  "opponent": "vijaikm",
+  "our": 88406.0,
+  "their": 85526.0,
+  "margin": 2880.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97657912",
+  "seat": 1,
+  "opponent": "CleoCantCompete",
+  "our": 84124.0,
+  "their": 85250.0,
+  "margin": -1126.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97626013",
+  "seat": 1,
+  "opponent": "Kagamihara",
+  "our": 102079.0,
+  "their": 104881.0,
+  "margin": -2802.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97596361",
+  "seat": 1,
+  "opponent": "Lebxgue.",
+  "our": 67301.0,
+  "their": 46634.0,
+  "margin": 20667.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97591804",
+  "seat": 0,
+  "opponent": "HIDEYO CHIBA",
+  "our": 125503.0,
+  "their": 104560.0,
+  "margin": 20943.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97541372",
+  "seat": 1,
+  "opponent": "Kagamihara",
+  "our": 73059.0,
+  "their": 72503.0,
+  "margin": 556.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97523254",
+  "seat": 0,
+  "opponent": "Baen",
+  "our": 41883.0,
+  "their": 48150.0,
+  "margin": -6267.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97495871",
+  "seat": 1,
+  "opponent": "Vibe Farmer",
+  "our": 94413.0,
+  "their": 98060.0,
+  "margin": -3647.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97452464",
+  "seat": 1,
+  "opponent": "Alperen S\u00f6ylen",
+  "our": 134397.0,
+  "their": 129339.0,
+  "margin": 5058.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97427498",
+  "seat": 0,
+  "opponent": "NCK",
+  "our": 70817.0,
+  "their": 71016.0,
+  "margin": -199.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97420623",
+  "seat": 1,
+  "opponent": "track",
+  "our": 54523.0,
+  "their": 56292.0,
+  "margin": -1769.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97420701",
+  "seat": 1,
+  "opponent": "MOHAMMADJAFAR ZAMANI",
+  "our": 148734.0,
+  "their": 149031.0,
+  "margin": -297.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97384161",
+  "seat": 0,
+  "opponent": "Ali",
+  "our": 86628.0,
+  "their": 89408.0,
+  "margin": -2780.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97379613",
+  "seat": 1,
+  "opponent": "kevin zhou",
+  "our": 93993.0,
+  "their": 93099.0,
+  "margin": 894.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97345390",
+  "seat": 1,
+  "opponent": "Emmanuel Lo",
+  "our": 103372.0,
+  "their": 105354.0,
+  "margin": -1982.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97311001",
+  "seat": 1,
+  "opponent": "kazusw",
+  "our": 65193.0,
+  "their": 71087.0,
+  "margin": -5894.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97301816",
+  "seat": 0,
+  "opponent": "Aurora wy",
+  "our": 81227.0,
+  "their": 84151.0,
+  "margin": -2924.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97269906",
+  "seat": 0,
+  "opponent": "JungHwan",
+  "our": 64544.0,
+  "their": 70398.0,
+  "margin": -5854.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97270139",
+  "seat": 0,
+  "opponent": "ZotAZaw3",
+  "our": 118865.0,
+  "their": 117520.0,
+  "margin": 1345.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97258738",
+  "seat": 1,
+  "opponent": "Masashi Nishimoto",
+  "our": 59493.0,
+  "their": 59175.0,
+  "margin": 318.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97242738",
+  "seat": 1,
+  "opponent": "Kanth Da",
+  "our": 107903.0,
+  "their": 107883.0,
+  "margin": 20.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97215128",
+  "seat": 1,
+  "opponent": "Nuri DUDAK",
+  "our": 56938.0,
+  "their": 57506.0,
+  "margin": -568.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97194820",
+  "seat": 0,
+  "opponent": "CornHub Premium",
+  "our": 49618.0,
+  "their": 49358.0,
+  "margin": 260.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97165227",
+  "seat": 0,
+  "opponent": "Fabian Ruiz",
+  "our": 105961.0,
+  "their": 108735.0,
+  "margin": -2774.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97158379",
+  "seat": 0,
+  "opponent": "rperez04",
+  "our": 82606.0,
+  "their": 83328.0,
+  "margin": -722.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97137673",
+  "seat": 0,
+  "opponent": "XW",
+  "our": 48259.0,
+  "their": 69926.0,
+  "margin": -21667.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "97117343",
+  "seat": 1,
+  "opponent": "NCK",
+  "our": 84521.0,
+  "their": 56280.0,
+  "margin": 28241.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97090016",
+  "seat": 1,
+  "opponent": "MOHAMMADJAFAR ZAMANI",
+  "our": 68642.0,
+  "their": 68403.0,
+  "margin": 239.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97048956",
+  "seat": 1,
+  "opponent": "fog flower",
+  "our": 63567.0,
+  "their": 62197.0,
+  "margin": 1370.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "97000788",
+  "seat": 0,
+  "opponent": "Sarthak Sharma ",
+  "our": 120384.0,
+  "their": 127222.0,
+  "margin": -6838.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96971272",
+  "seat": 1,
+  "opponent": "Joseph Adamski",
+  "our": 50233.0,
+  "their": 54919.0,
+  "margin": -4686.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96937196",
+  "seat": 1,
+  "opponent": "SahilKumarTolani",
+  "our": 112163.0,
+  "their": 101049.0,
+  "margin": 11114.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96923315",
+  "seat": 1,
+  "opponent": "Driz Lo",
+  "our": 57030.0,
+  "their": 57814.0,
+  "margin": -784.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96921205",
+  "seat": 1,
+  "opponent": "ReinFARMent Learning?",
+  "our": 55232.0,
+  "their": 53893.0,
+  "margin": 1339.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96868464",
+  "seat": 1,
+  "opponent": "Auto Fermers",
+  "our": 43768.0,
+  "their": 45223.0,
+  "margin": -1455.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96825320",
+  "seat": 1,
+  "opponent": "Sripad Modali",
+  "our": 75397.0,
+  "their": 71368.0,
+  "margin": 4029.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96802378",
+  "seat": 0,
+  "opponent": "Arnav Goel",
+  "our": 124095.0,
+  "their": 124050.0,
+  "margin": 45.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96781759",
+  "seat": 1,
+  "opponent": "mountain Lee111",
+  "our": 69957.0,
+  "their": 80805.0,
+  "margin": -10848.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96777393",
+  "seat": 0,
+  "opponent": "Yusuke Hayashi",
+  "our": 85850.0,
+  "their": 79208.0,
+  "margin": 6642.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96772740",
+  "seat": 1,
+  "opponent": "Kyoungwon Jeong",
+  "our": 131480.0,
+  "their": 132584.0,
+  "margin": -1104.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96738377",
+  "seat": 0,
+  "opponent": "Arnav Goel",
+  "our": 107652.0,
+  "their": 106975.0,
+  "margin": 677.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96731497",
+  "seat": 1,
+  "opponent": "Bruce",
+  "our": 56178.0,
+  "their": 56497.0,
+  "margin": -319.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96704177",
+  "seat": 1,
+  "opponent": "Olympus",
+  "our": 100499.0,
+  "their": 102189.0,
+  "margin": -1690.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96681547",
+  "seat": 0,
+  "opponent": "1m0ke",
+  "our": 86056.0,
+  "their": 85467.0,
+  "margin": 589.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96647230",
+  "seat": 0,
+  "opponent": "webmaking",
+  "our": 68270.0,
+  "their": 67864.0,
+  "margin": 406.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96617563",
+  "seat": 0,
+  "opponent": "yasu",
+  "our": 71649.0,
+  "their": 71890.0,
+  "margin": -241.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96615278",
+  "seat": 1,
+  "opponent": "ra5anchor",
+  "our": 96284.0,
+  "their": 96756.0,
+  "margin": -472.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96613033",
+  "seat": 0,
+  "opponent": "K.nosaka",
+  "our": 107383.0,
+  "their": 108791.0,
+  "margin": -1408.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96603922",
+  "seat": 1,
+  "opponent": "Sripad Modali",
+  "our": 123004.0,
+  "their": 124543.0,
+  "margin": -1539.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96576595",
+  "seat": 0,
+  "opponent": "S\u00e9bastien Mametz (Pixs)",
+  "our": 49021.0,
+  "their": 52421.0,
+  "margin": -3400.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96551417",
+  "seat": 0,
+  "opponent": "BOB",
+  "our": 82321.0,
+  "their": 83177.0,
+  "margin": -856.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96524095",
+  "seat": 0,
+  "opponent": "KeHao Liu",
+  "our": 107261.0,
+  "their": 108714.0,
+  "margin": -1453.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96519568",
+  "seat": 0,
+  "opponent": "Hai Dang",
+  "our": 110911.0,
+  "their": 108047.0,
+  "margin": 2864.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96508191",
+  "seat": 1,
+  "opponent": "HiroyukiSasaki",
+  "our": 57648.0,
+  "their": 58431.0,
+  "margin": -783.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96492084",
+  "seat": 1,
+  "opponent": "TTANE",
+  "our": 82491.0,
+  "their": 83558.0,
+  "margin": -1067.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96487460",
+  "seat": 0,
+  "opponent": "l1aF",
+  "our": 55217.0,
+  "their": 55557.0,
+  "margin": -340.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96462677",
+  "seat": 0,
+  "opponent": "Lebxgue.",
+  "our": 91045.0,
+  "their": 89367.0,
+  "margin": 1678.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96453537",
+  "seat": 1,
+  "opponent": "Dmitrii Gluzdov",
+  "our": 87097.0,
+  "their": 89928.0,
+  "margin": -2831.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96426171",
+  "seat": 1,
+  "opponent": "Chanhyuk Han",
+  "our": 82423.0,
+  "their": 80687.0,
+  "margin": 1736.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96400849",
+  "seat": 0,
+  "opponent": "Hello San Francisco",
+  "our": 97213.0,
+  "their": 100908.0,
+  "margin": -3695.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96385165",
+  "seat": 0,
+  "opponent": "FarmGoose",
+  "our": 105372.0,
+  "their": 105138.0,
+  "margin": 234.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96376015",
+  "seat": 0,
+  "opponent": "DASH\u6751",
+  "our": 87197.0,
+  "their": 83970.0,
+  "margin": 3227.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96353127",
+  "seat": 1,
+  "opponent": "kevin zhou",
+  "our": 86803.0,
+  "their": 86540.0,
+  "margin": 263.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96328117",
+  "seat": 1,
+  "opponent": "Yura",
+  "our": 147497.0,
+  "their": 133933.0,
+  "margin": 13564.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96302813",
+  "seat": 1,
+  "opponent": "track",
+  "our": 78737.0,
+  "their": 77251.0,
+  "margin": 1486.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96293776",
+  "seat": 1,
+  "opponent": "CleoCantCompete",
+  "our": 45750.0,
+  "their": 45331.0,
+  "margin": 419.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96271109",
+  "seat": 0,
+  "opponent": "Egor Trushin",
+  "our": 60801.0,
+  "their": 62240.0,
+  "margin": -1439.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96268682",
+  "seat": 0,
+  "opponent": "Anh Qu\u00e2n",
+  "our": 104427.0,
+  "their": 104534.0,
+  "margin": -107.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96246065",
+  "seat": 0,
+  "opponent": "Swachhith B",
+  "our": 80884.0,
+  "their": 81134.0,
+  "margin": -250.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96237019",
+  "seat": 1,
+  "opponent": "Hackoholics",
+  "our": 120404.0,
+  "their": 123337.0,
+  "margin": -2933.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96193678",
+  "seat": 1,
+  "opponent": "Wang H2O",
+  "our": 117099.0,
+  "their": 119893.0,
+  "margin": -2794.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96148007",
+  "seat": 0,
+  "opponent": "Gebreab K. Zewdie",
+  "our": 110166.0,
+  "their": 106538.0,
+  "margin": 3628.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "96095315",
+  "seat": 0,
+  "opponent": "denden12",
+  "our": 62210.0,
+  "their": 63976.0,
+  "margin": -1766.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96092963",
+  "seat": 1,
+  "opponent": "Kam",
+  "our": 106085.0,
+  "their": 107427.0,
+  "margin": -1342.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96072702",
+  "seat": 1,
+  "opponent": "BOB",
+  "our": 90162.0,
+  "their": 91730.0,
+  "margin": -1568.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96022191",
+  "seat": 1,
+  "opponent": "Lindicaphxag",
+  "our": 87725.0,
+  "their": 87851.0,
+  "margin": -126.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96015556",
+  "seat": 1,
+  "opponent": "MOHAMMADJAFAR ZAMANI",
+  "our": 54021.0,
+  "their": 54068.0,
+  "margin": -47.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "96010827",
+  "seat": 1,
+  "opponent": "Hello San Francisco",
+  "our": 69550.0,
+  "their": 71992.0,
+  "margin": -2442.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95990551",
+  "seat": 1,
+  "opponent": "Tumaini Makena",
+  "our": 65490.0,
+  "their": 64062.0,
+  "margin": 1428.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95935798",
+  "seat": 0,
+  "opponent": "ziliangCok",
+  "our": 83030.0,
+  "their": 85454.0,
+  "margin": -2424.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95883144",
+  "seat": 1,
+  "opponent": "\u8001\u4e61",
+  "our": 81149.0,
+  "their": 67987.0,
+  "margin": 13162.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95853406",
+  "seat": 1,
+  "opponent": "Anand",
+  "our": 117301.0,
+  "their": 119166.0,
+  "margin": -1865.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95819341",
+  "seat": 0,
+  "opponent": "Rayk Kretzschmar",
+  "our": 54353.0,
+  "their": 56516.0,
+  "margin": -2163.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95812472",
+  "seat": 1,
+  "opponent": "ponsuk",
+  "our": 36176.0,
+  "their": 35293.0,
+  "margin": 883.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95776007",
+  "seat": 1,
+  "opponent": "\u0418\u0422\u041c\u041e\u041d\u0418 AI B2B 67 SaaS",
+  "our": 120970.0,
+  "their": 116890.0,
+  "margin": 4080.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95741825",
+  "seat": 0,
+  "opponent": "Arda Ceylan",
+  "our": 64843.0,
+  "their": 65266.0,
+  "margin": -423.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95709644",
+  "seat": 1,
+  "opponent": "Yunho Hwang",
+  "our": 95304.0,
+  "their": 96257.0,
+  "margin": -953.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95707612",
+  "seat": 0,
+  "opponent": "KeHao Liu",
+  "our": 56946.0,
+  "their": 65900.0,
+  "margin": -8954.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95677911",
+  "seat": 1,
+  "opponent": "Tumaini Makena",
+  "our": 71731.0,
+  "their": 70961.0,
+  "margin": 770.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95657403",
+  "seat": 1,
+  "opponent": "Teddy Tennant",
+  "our": 71251.0,
+  "their": 69071.0,
+  "margin": 2180.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95632292",
+  "seat": 1,
+  "opponent": "Ueddy",
+  "our": 109057.0,
+  "their": 106324.0,
+  "margin": 2733.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95609425",
+  "seat": 0,
+  "opponent": "Tomas Escobar Rivera",
+  "our": 104795.0,
+  "their": 98615.0,
+  "margin": 6180.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95584341",
+  "seat": 0,
+  "opponent": "1o",
+  "our": 130491.0,
+  "their": 131364.0,
+  "margin": -873.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95561278",
+  "seat": 0,
+  "opponent": "Ozi",
+  "our": 66829.0,
+  "their": 68097.0,
+  "margin": -1268.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95559221",
+  "seat": 1,
+  "opponent": "Zhao Liying",
+  "our": 145782.0,
+  "their": 142539.0,
+  "margin": 3243.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95538767",
+  "seat": 1,
+  "opponent": "HiroyukiSasaki",
+  "our": 116880.0,
+  "their": 117863.0,
+  "margin": -983.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95527328",
+  "seat": 1,
+  "opponent": "T Hansda",
+  "our": 79278.0,
+  "their": 77039.0,
+  "margin": 2239.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95506779",
+  "seat": 1,
+  "opponent": "lemon1219",
+  "our": 73593.0,
+  "their": 62535.0,
+  "margin": 11058.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95481842",
+  "seat": 0,
+  "opponent": "shinamonmon",
+  "our": 102046.0,
+  "their": 90752.0,
+  "margin": 11294.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95474872",
+  "seat": 1,
+  "opponent": "Lucien de Rubempre",
+  "our": 114260.0,
+  "their": 115506.0,
+  "margin": -1246.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95443002",
+  "seat": 0,
+  "opponent": "JovanaLab",
+  "our": 64158.0,
+  "their": 63601.0,
+  "margin": 557.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95404144",
+  "seat": 0,
+  "opponent": "VanKoha",
+  "our": 63135.0,
+  "their": 65486.0,
+  "margin": -2351.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95374642",
+  "seat": 1,
+  "opponent": "KeHao Liu",
+  "our": 54357.0,
+  "their": 53026.0,
+  "margin": 1331.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95351759",
+  "seat": 0,
+  "opponent": "Igor Zharov",
+  "our": 107149.0,
+  "their": 107380.0,
+  "margin": -231.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95310609",
+  "seat": 0,
+  "opponent": "FarmGoose",
+  "our": 76798.0,
+  "their": 76664.0,
+  "margin": 134.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95294623",
+  "seat": 1,
+  "opponent": "Teddy Tennant",
+  "our": 45781.0,
+  "their": 44305.0,
+  "margin": 1476.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95292283",
+  "seat": 0,
+  "opponent": "FarmGoose",
+  "our": 151378.0,
+  "their": 151147.0,
+  "margin": 231.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95258245",
+  "seat": 0,
+  "opponent": "\u0418\u0422\u041c\u041e\u041d\u0418 AI B2B 67 SaaS",
+  "our": 85240.0,
+  "their": 82041.0,
+  "margin": 3199.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95207980",
+  "seat": 0,
+  "opponent": "Rayk Kretzschmar",
+  "our": 100899.0,
+  "their": 102572.0,
+  "margin": -1673.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95157794",
+  "seat": 0,
+  "opponent": "Wiz",
+  "our": 105496.0,
+  "their": 105745.0,
+  "margin": -249.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "95155270",
+  "seat": 1,
+  "opponent": "Swachhith B",
+  "our": 105362.0,
+  "their": 87383.0,
+  "margin": 17979.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95141728",
+  "seat": 0,
+  "opponent": "Ariel Suntasig",
+  "our": 56629.0,
+  "their": 53504.0,
+  "margin": 3125.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95089284",
+  "seat": 1,
+  "opponent": "kumanomi",
+  "our": 88264.0,
+  "their": 81042.0,
+  "margin": 7222.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95055016",
+  "seat": 1,
+  "opponent": "Masataka Suzuki",
+  "our": 64809.0,
+  "their": 64161.0,
+  "margin": 648.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95018506",
+  "seat": 1,
+  "opponent": "Braxton Dyer",
+  "our": 149597.0,
+  "their": 141349.0,
+  "margin": 8248.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "95000192",
+  "seat": 0,
+  "opponent": "Calmracer",
+  "our": 60528.0,
+  "their": 52253.0,
+  "margin": 8275.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94993428",
+  "seat": 0,
+  "opponent": "Rokaiya Somapti",
+  "our": 115771.0,
+  "their": 107685.0,
+  "margin": 8086.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94959109",
+  "seat": 0,
+  "opponent": "yuanzhe zhou",
+  "our": 73723.0,
+  "their": 72701.0,
+  "margin": 1022.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94943116",
+  "seat": 1,
+  "opponent": "Jeff Marc E. Cadet",
+  "our": 88037.0,
+  "their": 87341.0,
+  "margin": 696.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94929449",
+  "seat": 1,
+  "opponent": "YoungCheol Son",
+  "our": 100219.0,
+  "their": 101032.0,
+  "margin": -813.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94892955",
+  "seat": 0,
+  "opponent": "THeLAB",
+  "our": 100157.0,
+  "their": 111270.0,
+  "margin": -11113.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94858462",
+  "seat": 0,
+  "opponent": "iamlonely",
+  "our": 87733.0,
+  "their": 88087.0,
+  "margin": -354.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94835881",
+  "seat": 0,
+  "opponent": "Dean0016",
+  "our": 88862.0,
+  "their": 94050.0,
+  "margin": -5188.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94806201",
+  "seat": 1,
+  "opponent": "Khalid",
+  "our": 67783.0,
+  "their": 68724.0,
+  "margin": -941.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94776629",
+  "seat": 1,
+  "opponent": "Shivangoudaa",
+  "our": 56316.0,
+  "their": 53956.0,
+  "margin": 2360.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94776630",
+  "seat": 1,
+  "opponent": "Ariel Suntasig",
+  "our": 69100.0,
+  "their": 53196.0,
+  "margin": 15904.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94751458",
+  "seat": 0,
+  "opponent": "Tomas Escobar Rivera",
+  "our": 67659.0,
+  "their": 59719.0,
+  "margin": 7940.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94731908",
+  "seat": 0,
+  "opponent": "Cliffton",
+  "our": 81723.0,
+  "their": 78901.0,
+  "margin": 2822.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94716799",
+  "seat": 1,
+  "opponent": "yaphel lee",
+  "our": 61612.0,
+  "their": 62182.0,
+  "margin": -570.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94701744",
+  "seat": 0,
+  "opponent": "Sere1n",
+  "our": 108953.0,
+  "their": 86480.0,
+  "margin": 22473.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94698287",
+  "seat": 0,
+  "opponent": "satoooh",
+  "our": 151534.0,
+  "their": 148823.0,
+  "margin": 2711.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94681533",
+  "seat": 0,
+  "opponent": "Artem Voronov",
+  "our": 94491.0,
+  "their": 87900.0,
+  "margin": 6591.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94663020",
+  "seat": 1,
+  "opponent": "\u5cb8\u672c\u6e67\u58eb\u90ce",
+  "our": 49850.0,
+  "their": 52395.0,
+  "margin": -2545.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94649633",
+  "seat": 1,
+  "opponent": "gogogo",
+  "our": 68278.0,
+  "their": 59615.0,
+  "margin": 8663.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94621029",
+  "seat": 1,
+  "opponent": "TIM",
+  "our": 81435.0,
+  "their": 80439.0,
+  "margin": 996.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94612824",
+  "seat": 1,
+  "opponent": "Jordan Schaeffer",
+  "our": 55237.0,
+  "their": 55242.0,
+  "margin": -5.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94609421",
+  "seat": 0,
+  "opponent": "danilka200300",
+  "our": 77095.0,
+  "their": 77127.0,
+  "margin": -32.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94609349",
+  "seat": 1,
+  "opponent": "Howon Kang",
+  "our": 52348.0,
+  "their": 53691.0,
+  "margin": -1343.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94573845",
+  "seat": 1,
+  "opponent": "supr3mum",
+  "our": 95693.0,
+  "their": 96556.0,
+  "margin": -863.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94550693",
+  "seat": 1,
+  "opponent": "lucaskna",
+  "our": 78850.0,
+  "their": 83828.0,
+  "margin": -4978.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94548253",
+  "seat": 0,
+  "opponent": "MalelizarazoP",
+  "our": 75891.0,
+  "their": 75558.0,
+  "margin": 333.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94526997",
+  "seat": 0,
+  "opponent": "John Park",
+  "our": 96662.0,
+  "their": 96505.0,
+  "margin": 157.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94523507",
+  "seat": 1,
+  "opponent": "Hassan Algizani",
+  "our": 50367.0,
+  "their": 55097.0,
+  "margin": -4730.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94507607",
+  "seat": 0,
+  "opponent": "Robert Koval",
+  "our": 79950.0,
+  "their": 64875.0,
+  "margin": 15075.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94506649",
+  "seat": 1,
+  "opponent": "\u5f20\u83e0",
+  "our": 79360.0,
+  "their": 78727.0,
+  "margin": 633.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94499677",
+  "seat": 0,
+  "opponent": "Xman",
+  "our": 85225.0,
+  "their": 83765.0,
+  "margin": 1460.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94483843",
+  "seat": 1,
+  "opponent": "\u53f2\u6c38\u521a",
+  "our": 138227.0,
+  "their": 137651.0,
+  "margin": 576.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94467105",
+  "seat": 1,
+  "opponent": "\u5225\u73ed",
+  "our": 129448.0,
+  "their": 122539.0,
+  "margin": 6909.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94457370",
+  "seat": 1,
+  "opponent": "lllleeeo",
+  "our": 105039.0,
+  "their": 105069.0,
+  "margin": -30.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94438838",
+  "seat": 1,
+  "opponent": "Crop Dusta",
+  "our": 120626.0,
+  "their": 133630.0,
+  "margin": -13004.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94425613",
+  "seat": 0,
+  "opponent": "huyimin517517",
+  "our": 72521.0,
+  "their": 74716.0,
+  "margin": -2195.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94417453",
+  "seat": 0,
+  "opponent": "vijaikm",
+  "our": 117325.0,
+  "their": 112960.0,
+  "margin": 4365.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94409790",
+  "seat": 1,
+  "opponent": "Cliffton",
+  "our": 97411.0,
+  "their": 76274.0,
+  "margin": 21137.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94409776",
+  "seat": 0,
+  "opponent": "Eishkaran Singh",
+  "our": 133504.0,
+  "their": 127956.0,
+  "margin": 5548.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94394711",
+  "seat": 0,
+  "opponent": "Tien N.",
+  "our": 81253.0,
+  "their": 76780.0,
+  "margin": 4473.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94391318",
+  "seat": 0,
+  "opponent": "Mohammed Nomaan",
+  "our": 88986.0,
+  "their": 84341.0,
+  "margin": 4645.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94377996",
+  "seat": 0,
+  "opponent": "Braxton Dyer",
+  "our": 92228.0,
+  "their": 95292.0,
+  "margin": -3064.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94375498",
+  "seat": 0,
+  "opponent": "Tian_Wang1210",
+  "our": 132904.0,
+  "their": 126726.0,
+  "margin": 6178.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94362289",
+  "seat": 0,
+  "opponent": "Ojas Aklecha",
+  "our": 125458.0,
+  "their": 135150.0,
+  "margin": -9692.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94350578",
+  "seat": 1,
+  "opponent": "SaiKushal185",
+  "our": 110367.0,
+  "their": 110867.0,
+  "margin": -500.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94348181",
+  "seat": 0,
+  "opponent": "Cindy Meng90",
+  "our": 60573.0,
+  "their": 62211.0,
+  "margin": -1638.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94347187",
+  "seat": 1,
+  "opponent": "Soumalya Mandal",
+  "our": 78610.0,
+  "their": 75485.0,
+  "margin": 3125.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94338221",
+  "seat": 0,
+  "opponent": "Raoul Biagioni",
+  "our": 105663.0,
+  "their": 104768.0,
+  "margin": 895.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94337519",
+  "seat": 1,
+  "opponent": "Hak",
+  "our": 117830.0,
+  "their": 115977.0,
+  "margin": 1853.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94330495",
+  "seat": 0,
+  "opponent": "CARLOS CAADA ROSTRO",
+  "our": 44815.0,
+  "their": 41376.0,
+  "margin": 3439.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94325353",
+  "seat": 1,
+  "opponent": "satoooh",
+  "our": 83001.0,
+  "their": 67560.0,
+  "margin": 15441.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94319190",
+  "seat": 0,
+  "opponent": "Masashi Nishimoto",
+  "our": 46578.0,
+  "their": 45996.0,
+  "margin": 582.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94314752",
+  "seat": 1,
+  "opponent": "Heikki Leskel\u00e4",
+  "our": 89258.0,
+  "their": 86728.0,
+  "margin": 2530.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94309472",
+  "seat": 0,
+  "opponent": "Tian_Wang1210",
+  "our": 83288.0,
+  "their": 79470.0,
+  "margin": 3818.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94304273",
+  "seat": 0,
+  "opponent": "Inna Campo",
+  "our": 48627.0,
+  "their": 44984.0,
+  "margin": 3643.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94299845",
+  "seat": 0,
+  "opponent": "H\u1ed3 Kh\u00e1nh Duy",
+  "our": 62924.0,
+  "their": 58748.0,
+  "margin": 4176.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94295481",
+  "seat": 0,
+  "opponent": "Toru59er",
+  "our": 101799.0,
+  "their": 96962.0,
+  "margin": 4837.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94291898",
+  "seat": 0,
+  "opponent": "Baen",
+  "our": 85031.0,
+  "their": 80360.0,
+  "margin": 4671.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94286826",
+  "seat": 0,
+  "opponent": "Team Name Pending",
+  "our": 32756.0,
+  "their": 36618.0,
+  "margin": -3862.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94283117",
+  "seat": 1,
+  "opponent": "Chiranjieev",
+  "our": 70236.0,
+  "their": 67413.0,
+  "margin": 2823.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94279423",
+  "seat": 0,
+  "opponent": "Shuiys",
+  "our": 63626.0,
+  "their": 56192.0,
+  "margin": 7434.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94273837",
+  "seat": 0,
+  "opponent": "OnlyFarms",
+  "our": 75843.0,
+  "their": 76142.0,
+  "margin": -299.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94272001",
+  "seat": 1,
+  "opponent": "WeAreFarmers",
+  "our": 76263.0,
+  "their": 83152.0,
+  "margin": -6889.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94266350",
+  "seat": 0,
+  "opponent": "Tien N.",
+  "our": 139620.0,
+  "their": 134513.0,
+  "margin": 5107.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94258756",
+  "seat": 1,
+  "opponent": "researchstudio.site",
+  "our": 82793.0,
+  "their": 79349.0,
+  "margin": 3444.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94257295",
+  "seat": 1,
+  "opponent": "Crop Dusta",
+  "our": 138240.0,
+  "their": 151515.0,
+  "margin": -13275.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94255429",
+  "seat": 1,
+  "opponent": "wataru420",
+  "our": 53583.0,
+  "their": 50259.0,
+  "margin": 3324.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94255331",
+  "seat": 0,
+  "opponent": "senkin13",
+  "our": 66239.0,
+  "their": 65756.0,
+  "margin": 483.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94251721",
+  "seat": 1,
+  "opponent": "\u3081\u3081\u3063\u3061",
+  "our": 78427.0,
+  "their": 81237.0,
+  "margin": -2810.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94249671",
+  "seat": 1,
+  "opponent": "Suneeth reddy",
+  "our": 75638.0,
+  "their": 75140.0,
+  "margin": 498.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94246072",
+  "seat": 1,
+  "opponent": "Saulo Qui\u00f1ones G\u00f3ngora",
+  "our": 82833.0,
+  "their": 67422.0,
+  "margin": 15411.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94242891",
+  "seat": 0,
+  "opponent": "Shuiys",
+  "our": 73342.0,
+  "their": 70000.0,
+  "margin": 3342.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94241307",
+  "seat": 0,
+  "opponent": "aisamhottman",
+  "our": 95804.0,
+  "their": 96586.0,
+  "margin": -782.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94239667",
+  "seat": 0,
+  "opponent": "asi1024",
+  "our": 42424.0,
+  "their": 41306.0,
+  "margin": 1118.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94236943",
+  "seat": 1,
+  "opponent": "yzyhello",
+  "our": 88807.0,
+  "their": 87242.0,
+  "margin": 1565.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94234213",
+  "seat": 0,
+  "opponent": "Vladimir Babin",
+  "our": 51464.0,
+  "their": 47131.0,
+  "margin": 4333.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94232632",
+  "seat": 1,
+  "opponent": "Lord Momo",
+  "our": 134212.0,
+  "their": 131318.0,
+  "margin": 2894.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94231041",
+  "seat": 1,
+  "opponent": "oliver",
+  "our": 120302.0,
+  "their": 117981.0,
+  "margin": 2321.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94227627",
+  "seat": 0,
+  "opponent": "Sebastian Mateus",
+  "our": 80962.0,
+  "their": 63045.0,
+  "margin": 17917.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94225807",
+  "seat": 1,
+  "opponent": "Prashanth Reddy Biyyani",
+  "our": 127608.0,
+  "their": 120351.0,
+  "margin": 7257.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94220427",
+  "seat": 1,
+  "opponent": "tyz123456",
+  "our": 78760.0,
+  "their": 78394.0,
+  "margin": 366.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94217684",
+  "seat": 0,
+  "opponent": "\u738b\u4e00\u51e1",
+  "our": 72066.0,
+  "their": 76824.0,
+  "margin": -4758.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94207038",
+  "seat": 1,
+  "opponent": "yotsutose",
+  "our": 79079.0,
+  "their": 76813.0,
+  "margin": 2266.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94190710",
+  "seat": 0,
+  "opponent": "hinemos",
+  "our": 104054.0,
+  "their": 80488.0,
+  "margin": 23566.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94186370",
+  "seat": 0,
+  "opponent": "Said Mohamed Omary",
+  "our": 85933.0,
+  "their": 77233.0,
+  "margin": 8700.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94185885",
+  "seat": 1,
+  "opponent": "\u6ca1\u843d\u8005",
+  "our": 73563.0,
+  "their": 71674.0,
+  "margin": 1889.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94185405",
+  "seat": 1,
+  "opponent": "Mandy Lin",
+  "our": 45427.0,
+  "their": 49773.0,
+  "margin": -4346.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94184920",
+  "seat": 1,
+  "opponent": "Emile Andrieu",
+  "our": 60743.0,
+  "their": 58261.0,
+  "margin": 2482.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94184445",
+  "seat": 0,
+  "opponent": "AJ",
+  "our": 133031.0,
+  "their": 125587.0,
+  "margin": 7444.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94183949",
+  "seat": 0,
+  "opponent": "Pengyi Peng1",
+  "our": 115418.0,
+  "their": 113447.0,
+  "margin": 1971.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94183458",
+  "seat": 0,
+  "opponent": "Ayush_Patel",
+  "our": 93096.0,
+  "their": 74830.0,
+  "margin": 18266.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94182969",
+  "seat": 0,
+  "opponent": "MG\u00f6ksu",
+  "our": 68769.0,
+  "their": 65778.0,
+  "margin": 2991.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94182492",
+  "seat": 1,
+  "opponent": "Rayk Kretzschmar",
+  "our": 43846.0,
+  "their": 44372.0,
+  "margin": -526.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94182482",
+  "seat": 0,
+  "opponent": "Ergin Ak\u0131n",
+  "our": 102779.0,
+  "their": 81019.0,
+  "margin": 21760.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94182004",
+  "seat": 1,
+  "opponent": "Abhiraj Singh",
+  "our": 148419.0,
+  "their": 145517.0,
+  "margin": 2902.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94181520",
+  "seat": 0,
+  "opponent": "L\u1ee3i Tr\u1ea7n B\u1ea3o",
+  "our": 123629.0,
+  "their": 117523.0,
+  "margin": 6106.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94181039",
+  "seat": 1,
+  "opponent": "Ali",
+  "our": 32073.0,
+  "their": 31567.0,
+  "margin": 506.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94180542",
+  "seat": 0,
+  "opponent": "MMM Abbie",
+  "our": 111508.0,
+  "their": 107373.0,
+  "margin": 4135.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94180059",
+  "seat": 0,
+  "opponent": "ominteam",
+  "our": 66892.0,
+  "their": 66211.0,
+  "margin": 681.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94179574",
+  "seat": 0,
+  "opponent": "Iadh Jarray",
+  "our": 79305.0,
+  "their": 78095.0,
+  "margin": 1210.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94179092",
+  "seat": 1,
+  "opponent": "James Y",
+  "our": 107093.0,
+  "their": 93235.0,
+  "margin": 13858.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94178602",
+  "seat": 1,
+  "opponent": "kay.liechtenstein",
+  "our": 107453.0,
+  "their": 111035.0,
+  "margin": -3582.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94178113",
+  "seat": 0,
+  "opponent": "Kenjo1209",
+  "our": 42763.0,
+  "their": 44203.0,
+  "margin": -1440.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94177627",
+  "seat": 1,
+  "opponent": "Ripudaman Parmar",
+  "our": 142604.0,
+  "their": 129721.0,
+  "margin": 12883.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94177132",
+  "seat": 1,
+  "opponent": "GUOHAOYANG",
+  "our": 38726.0,
+  "their": 35500.0,
+  "margin": 3226.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94176645",
+  "seat": 0,
+  "opponent": "Yuki.O",
+  "our": 98329.0,
+  "their": 101260.0,
+  "margin": -2931.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94176158",
+  "seat": 1,
+  "opponent": "aashka",
+  "our": 122527.0,
+  "their": 122823.0,
+  "margin": -296.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94175665",
+  "seat": 1,
+  "opponent": "Team Name Pending",
+  "our": 104402.0,
+  "their": 99439.0,
+  "margin": 4963.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94175242",
+  "seat": 1,
+  "opponent": "Neglected Turtle",
+  "our": 97949.0,
+  "their": 96472.0,
+  "margin": 1477.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94175175",
+  "seat": 0,
+  "opponent": "Amy Yuan",
+  "our": 94966.0,
+  "their": 93449.0,
+  "margin": 1517.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94174691",
+  "seat": 0,
+  "opponent": "unknown",
+  "our": 89875.0,
+  "their": 91207.0,
+  "margin": -1332.0,
+  "outcome": "LOSS",
+  "nsteps": 720
+ },
+ {
+  "episode": "94174216",
+  "seat": 0,
+  "opponent": "StopPlantingStartGameTheorying",
+  "our": 59500.0,
+  "their": 55232.0,
+  "margin": 4268.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94173737",
+  "seat": 1,
+  "opponent": "shinamonmon",
+  "our": 98323.0,
+  "their": 97630.0,
+  "margin": 693.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94173255",
+  "seat": 0,
+  "opponent": "Kameron Green",
+  "our": 58482.0,
+  "their": 42643.0,
+  "margin": 15839.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94172777",
+  "seat": 1,
+  "opponent": "Madan kumar",
+  "our": 89669.0,
+  "their": 84306.0,
+  "margin": 5363.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94172299",
+  "seat": 0,
+  "opponent": "Aikyatan Sinha",
+  "our": 92343.0,
+  "their": 79309.0,
+  "margin": 13034.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94171824",
+  "seat": 0,
+  "opponent": "mochogo",
+  "our": 82376.0,
+  "their": 64748.0,
+  "margin": 17628.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94171351",
+  "seat": 0,
+  "opponent": "Varun S G",
+  "our": 115928.0,
+  "their": 97708.0,
+  "margin": 18220.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94170873",
+  "seat": 1,
+  "opponent": "ariacat",
+  "our": 49934.0,
+  "their": 27422.0,
+  "margin": 22512.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94170985",
+  "seat": 0,
+  "opponent": "Cary Jin",
+  "our": 109979.0,
+  "their": 88256.0,
+  "margin": 21723.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94170396",
+  "seat": 1,
+  "opponent": "KevlarZanderChi",
+  "our": 82723.0,
+  "their": 56060.0,
+  "margin": 26663.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94169456",
+  "seat": 1,
+  "opponent": "nori8774",
+  "our": 75743.0,
+  "their": 36519.0,
+  "margin": 39224.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94169937",
+  "seat": 0,
+  "opponent": "\u0e44\u0e2d\u0e15\u0e34\u0e27\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e31\u0e07\u0e21\u0e32\u0e40\u0e2d\u0e32\u0e41\u0e0a\u0e49\u0e21\u0e21\u0e21\u0e21",
+  "our": 96864.0,
+  "their": 33212.0,
+  "margin": 63652.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94168981",
+  "seat": 0,
+  "opponent": "Amin",
+  "our": 69183.0,
+  "their": 30057.0,
+  "margin": 39126.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ },
+ {
+  "episode": "94168520",
+  "seat": 0,
+  "opponent": "UT",
+  "our": 63608.0,
+  "their": 18771.0,
+  "margin": 44837.0,
+  "outcome": "WIN",
+  "nsteps": 720
+ }
+]

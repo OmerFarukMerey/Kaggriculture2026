@@ -1,0 +1,135 @@
+{
+  "build": {
+    "source": "submissions\\v50-adaptive-economy\\main.py",
+    "sha256": "f271715604cedf2e1d9ce9221d44462389b46b7ed1e976121d14d2cbd0a9c7db",
+    "module_sha256": {
+      "_engine": "19a3042b8b09a37d6e2835f0cec8ad2e8963b659f4b5b35b6f660bb467d3f377",
+      "mechanics": "e612ccf808516e5c3d0a7987b28ba8eaaa43cb4f6a4291f01086868b41d336bd",
+      "data": "310278794f19adb4f9d7fab8f3ec48947a29e81811caba21bea55e22f5e0c0b6",
+      "production": "c1c00f5a21ffb906ce16b6bca9d6acb2021d51392ef4f937ae32a767843a06e9",
+      "market": "c38c77aec390ed00f663dcaf002a5353078416fbe56a13b0d7305d394cd17bcd"
+    },
+    "reused": [
+      "v48/v46 measured physical schedules",
+      "kaggle-environments 1.32.7 deterministic rules"
+    ]
+  },
+  "artifact": "candidates/rejected-v50-sparse-bank",
+  "plan": "analysis/v50_holdout_plan.json",
+  "report": "analysis/v50_frozen_holdout.json",
+  "unique_candidate_games": 80,
+  "wins": 0,
+  "invalid": 0,
+  "records": [
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs submissions/v46-platform/main.py",
+      "n": 16,
+      "w": 0,
+      "l": 16,
+      "t": 0,
+      "invalid": 0,
+      "margin": -196661,
+      "maxSeconds": 0.7083,
+      "overage": 0,
+      "mean": -12291.3125
+    },
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs submissions/v48-2965-mirrorgate/main.py",
+      "n": 16,
+      "w": 0,
+      "l": 16,
+      "t": 0,
+      "invalid": 0,
+      "margin": -180026,
+      "maxSeconds": 1.045399,
+      "overage": 0.04539899999999997,
+      "mean": -11251.625
+    },
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs submissions/v49-carrot-field-experiment/main.py",
+      "n": 16,
+      "w": 0,
+      "l": 16,
+      "t": 0,
+      "invalid": 0,
+      "margin": -177986,
+      "maxSeconds": 0.980152,
+      "overage": 0,
+      "mean": -11124.125
+    },
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+      "n": 16,
+      "w": 0,
+      "l": 16,
+      "t": 0,
+      "invalid": 0,
+      "margin": -191307,
+      "maxSeconds": 0.198361,
+      "overage": 0,
+      "mean": -11956.6875
+    },
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs candidates/opponent-icefire-entry/main.py",
+      "n": 16,
+      "w": 0,
+      "l": 16,
+      "t": 0,
+      "invalid": 0,
+      "margin": -187727,
+      "maxSeconds": 0.344483,
+      "overage": 0,
+      "mean": -11732.9375
+    },
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs candidates/research-carrot-more/main.py",
+      "n": 16,
+      "w": 0,
+      "l": 16,
+      "t": 0,
+      "invalid": 0,
+      "margin": -177986,
+      "maxSeconds": 0.620201,
+      "overage": 0,
+      "mean": -11124.125
+    },
+    {
+      "pair": "submissions/v48-2965-mirrorgate/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+      "n": 16,
+      "w": 12,
+      "l": 4,
+      "t": 0,
+      "invalid": 0,
+      "margin": 1666,
+      "maxSeconds": 0.701501,
+      "overage": 0,
+      "mean": 104.125
+    },
+    {
+      "pair": "submissions/v48-2965-mirrorgate/main.py vs candidates/opponent-icefire-entry/main.py",
+      "n": 16,
+      "w": 12,
+      "l": 4,
+      "t": 0,
+      "invalid": 0,
+      "margin": 5946,
+      "maxSeconds": 0.834285,
+      "overage": 0,
+      "mean": 371.625
+    },
+    {
+      "pair": "submissions/v48-2965-mirrorgate/main.py vs candidates/research-carrot-more/main.py",
+      "n": 16,
+      "w": 8,
+      "l": 6,
+      "t": 2,
+      "invalid": 0,
+      "margin": 1366,
+      "maxSeconds": 0.87973,
+      "overage": 0,
+      "mean": 85.375
+    }
+  ],
+  "decision": "Rejected; not uploaded. These eight seeds become development data for the redesign.",
+  "duplicate_controls": "v49 and research-carrot-more have identical source hashes."
+}

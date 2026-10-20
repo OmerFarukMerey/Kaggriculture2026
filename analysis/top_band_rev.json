@@ -1,0 +1,1318 @@
+[
+ {
+  "episode": "101949158",
+  "opponent": "vkhydras",
+  "outcome": "LOSS",
+  "margin": -10173.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   55667.0,
+   65840.0
+  ],
+  "got": [
+   55060.0,
+   65576.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12389,
+   "WHEAT": 8679,
+   "WOOL": 6009,
+   "MELON": 12274,
+   "MILK": 5306,
+   "STRAWBERRY": 33118,
+   "CARROT": 2343
+  },
+  "opp_rev": {
+   "WHEAT": 27079,
+   "FERTILIZER": 29217,
+   "WOOL": 4463,
+   "MILK": 9918,
+   "MELON": 17762,
+   "STRAWBERRY": 24176,
+   "CARROT": 670
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3824,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1390,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 13343,
+   "BUY_SEED:WHEAT": 1850,
+   "BUY_SEED:MELON": 1120,
+   "BUY_ANIMAL:COW": 2800,
+   "BUY_ANIMAL:SHEEP": 2500,
+   "BUY_SEED:CARROT": 200,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_PRODUCT:FERTILIZER": 16559
+  }
+ },
+ {
+  "episode": "101928995",
+  "opponent": "Gaddam Shiva Teja",
+  "outcome": "LOSS",
+  "margin": -9956.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   79226.0,
+   89182.0
+  ],
+  "got": [
+   75200.0,
+   87609.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12364,
+   "WHEAT": 6842,
+   "WOOL": 23361,
+   "MELON": 12274,
+   "MILK": 5361,
+   "STRAWBERRY": 37640,
+   "CARROT": 2374
+  },
+  "opp_rev": {
+   "WHEAT": 24173,
+   "FERTILIZER": 23992,
+   "WOOL": 22761,
+   "MILK": 12087,
+   "MELON": 17762,
+   "STRAWBERRY": 28088,
+   "CARROT": 672
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3638,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1390,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 12813,
+   "BUY_SEED:WHEAT": 1870,
+   "BUY_SEED:MELON": 1200,
+   "BUY_ANIMAL:COW": 3200,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:CARROT": 200,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_PRODUCT:FERTILIZER": 11298
+  }
+ },
+ {
+  "episode": "101909026",
+  "opponent": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -3628.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   99276.0,
+   102904.0
+  ],
+  "got": [
+   99170.0,
+   102838.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12324,
+   "WHEAT": 8643,
+   "WOOL": 6005,
+   "MELON": 12274,
+   "MILK": 61869,
+   "STRAWBERRY": 20901,
+   "CARROT": 2242
+  },
+  "opp_rev": {
+   "WHEAT": 27347,
+   "FERTILIZER": 24082,
+   "WOOL": 4446,
+   "MILK": 54910,
+   "MELON": 17762,
+   "STRAWBERRY": 16298,
+   "CARROT": 656
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3854,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1390,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 13500,
+   "BUY_SEED:WHEAT": 1870,
+   "BUY_SEED:MELON": 1200,
+   "BUY_ANIMAL:COW": 3200,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:CARROT": 200,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_PRODUCT:FERTILIZER": 11348
+  }
+ },
+ {
+  "episode": "101888962",
+  "opponent": "Semyon Epanov",
+  "outcome": "LOSS",
+  "margin": -10038.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   93866.0,
+   83828.0
+  ],
+  "got": [
+   93598.0,
+   83010.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12205,
+   "WHEAT": 8897,
+   "WOOL": 6103,
+   "MELON": 12724,
+   "MILK": 54883,
+   "STRAWBERRY": 11010,
+   "CARROT": 2354
+  },
+  "opp_rev": {
+   "WHEAT": 16360,
+   "FERTILIZER": 15941,
+   "WOOL": 4369,
+   "MILK": 57347,
+   "MELON": 16001,
+   "STRAWBERRY": 11030,
+   "CARROT": 504
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3922,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1400,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 5139,
+   "BUY_SEED:WHEAT": 1870,
+   "BUY_SEED:MELON": 960,
+   "BUY_ANIMAL:COW": 3600,
+   "BUY_ANIMAL:SHEEP": 2500,
+   "BUY_SEED:CARROT": 120,
+   "BUY_SEED:STRAWBERRY": 4400,
+   "BUY_PRODUCT:FERTILIZER": 3067
+  }
+ },
+ {
+  "episode": "101837809",
+  "opponent": "yy",
+  "outcome": "LOSS",
+  "margin": -5175.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   124469.0,
+   119294.0
+  ],
+  "got": [
+   124484.0,
+   119327.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12126,
+   "WHEAT": 8050,
+   "WOOL": 11557,
+   "MELON": 12724,
+   "MILK": 68294,
+   "STRAWBERRY": 29802,
+   "CARROT": 1858
+  },
+  "opp_rev": {
+   "WHEAT": 15196,
+   "FERTILIZER": 16030,
+   "WOOL": 10520,
+   "MILK": 68228,
+   "MELON": 16001,
+   "STRAWBERRY": 25855,
+   "CARROT": 434
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3840,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1400,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 4951,
+   "BUY_SEED:WHEAT": 1870,
+   "BUY_SEED:MELON": 960,
+   "BUY_ANIMAL:COW": 3600,
+   "BUY_ANIMAL:SHEEP": 2500,
+   "BUY_SEED:CARROT": 120,
+   "BUY_SEED:STRAWBERRY": 4400,
+   "BUY_PRODUCT:FERTILIZER": 3081
+  }
+ },
+ {
+  "episode": "101692230",
+  "opponent": "\u0418\u0422\u041c\u041e\u041d\u0418 AI B2B 67 SaaS",
+  "outcome": "LOSS",
+  "margin": -7519.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   117719.0,
+   110200.0
+  ],
+  "got": [
+   117731.0,
+   110218.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12589,
+   "WHEAT": 10177,
+   "WOOL": 18543,
+   "MELON": 11235,
+   "STRAWBERRY": 34152,
+   "MILK": 45679,
+   "CARROT": 1684
+  },
+  "opp_rev": {
+   "FERTILIZER": 12281,
+   "WHEAT": 9979,
+   "WOOL": 21390,
+   "MELON": 11179,
+   "STRAWBERRY": 38529,
+   "MILK": 45885,
+   "CARROT": 1683
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3568,
+   "BUY_SEED:MELON": 640,
+   "BUY_SEED:WHEAT": 1360,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3800,
+   "BUY_ANIMAL:COW": 4000,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 3265,
+   "BUY_SEED:MELON": 640,
+   "BUY_SEED:WHEAT": 1350,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3600,
+   "BUY_ANIMAL:COW": 3600,
+   "BUY_SEED:CARROT": 400
+  }
+ },
+ {
+  "episode": "101689996",
+  "opponent": "vkhydras",
+  "outcome": "WIN",
+  "margin": 2516.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   104839.0,
+   102323.0
+  ],
+  "got": [
+   104726.0,
+   102244.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12500,
+   "WHEAT": 9126,
+   "WOOL": 65118,
+   "MELON": 12185,
+   "STRAWBERRY": 23630,
+   "MILK": 2424,
+   "CARROT": 1101
+  },
+  "opp_rev": {
+   "WHEAT": 13937,
+   "FERTILIZER": 14666,
+   "WOOL": 54441,
+   "MILK": 7309,
+   "MELON": 16397,
+   "STRAWBERRY": 24240,
+   "CARROT": 615
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 4212,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1310,
+   "BUY_ANIMAL:SHEEP": 5000,
+   "BUY_SEED:STRAWBERRY": 3100,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 5530,
+   "BUY_SEED:WHEAT": 1880,
+   "BUY_SEED:MELON": 960,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_ANIMAL:SHEEP": 5500,
+   "BUY_SEED:CARROT": 160,
+   "BUY_SEED:STRAWBERRY": 4600,
+   "BUY_PRODUCT:FERTILIZER": 2049
+  }
+ },
+ {
+  "episode": "101665444",
+  "opponent": "Hanserong",
+  "outcome": "LOSS",
+  "margin": -3597.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   71229.0,
+   74826.0
+  ],
+  "got": [
+   69392.0,
+   74084.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 13440,
+   "WHEAT": 8294,
+   "WOOL": 25032,
+   "MELON": 12768,
+   "MILK": 1668,
+   "STRAWBERRY": 30845,
+   "CARROT": 2374
+  },
+  "opp_rev": {
+   "WHEAT": 17880,
+   "FERTILIZER": 14507,
+   "WOOL": 19596,
+   "MILK": 7641,
+   "MELON": 15957,
+   "STRAWBERRY": 24282,
+   "CARROT": 714
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3785,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1400,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_ANIMAL:COW": 3200,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:WHEAT": 1830,
+   "BUY_SEED:MELON": 960,
+   "BUY_PRODUCT:WHEAT": 5229,
+   "BUY_SEED:CARROT": 180,
+   "BUY_SEED:STRAWBERRY": 4300,
+   "BUY_PRODUCT:FERTILIZER": 3101
+  }
+ },
+ {
+  "episode": "101647778",
+  "opponent": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -18898.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   40555.0,
+   59453.0
+  ],
+  "got": [
+   39827.0,
+   59157.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 11909,
+   "WHEAT": 9309,
+   "WOOL": 6013,
+   "MELON": 12274,
+   "STRAWBERRY": 16513,
+   "MILK": 6109,
+   "CARROT": 2373
+  },
+  "opp_rev": {
+   "WHEAT": 26944,
+   "FERTILIZER": 24954,
+   "WOOL": 4446,
+   "MILK": 13197,
+   "MELON": 17762,
+   "STRAWBERRY": 13885,
+   "CARROT": 672
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3760,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1390,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4100,
+   "BUY_ANIMAL:COW": 4000,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 13044,
+   "BUY_SEED:WHEAT": 1870,
+   "BUY_SEED:MELON": 1200,
+   "BUY_ANIMAL:COW": 3200,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:CARROT": 200,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_PRODUCT:FERTILIZER": 11844
+  }
+ },
+ {
+  "episode": "101632211",
+  "opponent": "srijan k.r keshri",
+  "outcome": "LOSS",
+  "margin": -3086.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   106427.0,
+   103341.0
+  ],
+  "got": [
+   106329.0,
+   102825.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12455,
+   "WHEAT": 9893,
+   "WOOL": 19896,
+   "MELON": 10081,
+   "MILK": 16213,
+   "STRAWBERRY": 55876,
+   "CARROT": 2317
+  },
+  "opp_rev": {
+   "FERTILIZER": 12603,
+   "WHEAT": 12351,
+   "WOOL": 17442,
+   "MELON": 19897,
+   "STRAWBERRY": 55673,
+   "MILK": 15295,
+   "TOMATO": 719
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3871,
+   "BUY_SEED:MELON": 560,
+   "BUY_SEED:WHEAT": 1400,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3600,
+   "BUY_ANIMAL:COW": 4000,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 7153,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:MELON": 1760,
+   "BUY_SEED:WHEAT": 1170,
+   "BUY_SEED:STRAWBERRY": 3600,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:TOMATO": 200
+  }
+ },
+ {
+  "episode": "101632131",
+  "opponent": "smsxgz",
+  "outcome": "LOSS",
+  "margin": -4009.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   83249.0,
+   87258.0
+  ],
+  "got": [
+   82911.0,
+   86920.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12549,
+   "WHEAT": 8223,
+   "WOOL": 55268,
+   "MELON": 14059,
+   "MILK": 4583,
+   "STRAWBERRY": 11173,
+   "CARROT": 984
+  },
+  "opp_rev": {
+   "FERTILIZER": 12574,
+   "WHEAT": 8391,
+   "WOOL": 55836,
+   "MELON": 14395,
+   "MILK": 5293,
+   "STRAWBERRY": 13750,
+   "CARROT": 984
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 4794,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1280,
+   "BUY_ANIMAL:SHEEP": 4500,
+   "BUY_SEED:STRAWBERRY": 3500,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 4789,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1260,
+   "BUY_ANIMAL:SHEEP": 4500,
+   "BUY_SEED:STRAWBERRY": 3900,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  }
+ },
+ {
+  "episode": "101616501",
+  "opponent": "srijan k.r keshri",
+  "outcome": "LOSS",
+  "margin": -6927.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   153347.0,
+   146420.0
+  ],
+  "got": [
+   153347.0,
+   146468.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12525,
+   "WHEAT": 8831,
+   "WOOL": 12795,
+   "MELON": 10081,
+   "MILK": 64117,
+   "STRAWBERRY": 59896,
+   "CARROT": 1952
+  },
+  "opp_rev": {
+   "FERTILIZER": 12536,
+   "WHEAT": 10100,
+   "WOOL": 11989,
+   "MELON": 19815,
+   "STRAWBERRY": 60809,
+   "MILK": 64534
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3694,
+   "BUY_SEED:MELON": 560,
+   "BUY_SEED:WHEAT": 1400,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3600,
+   "BUY_ANIMAL:COW": 4000,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 6088,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:MELON": 1760,
+   "BUY_SEED:WHEAT": 1220,
+   "BUY_SEED:STRAWBERRY": 3600,
+   "BUY_ANIMAL:COW": 4400
+  }
+ },
+ {
+  "episode": "101504818",
+  "opponent": "\u0418\u0422\u041c\u041e\u041d\u0418 AI B2B 67 SaaS",
+  "outcome": "LOSS",
+  "margin": -14145.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   113622.0,
+   99477.0
+  ],
+  "got": [
+   113293.0,
+   99130.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12051,
+   "WHEAT": 7559,
+   "WOOL": 19830,
+   "MELON": 14019,
+   "STRAWBERRY": 34224,
+   "MILK": 34204,
+   "CARROT": 984
+  },
+  "opp_rev": {
+   "FERTILIZER": 13058,
+   "WHEAT": 7651,
+   "WOOL": 22338,
+   "MELON": 14428,
+   "MILK": 40353,
+   "STRAWBERRY": 38815,
+   "CARROT": 984
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 4639,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1250,
+   "BUY_ANIMAL:SHEEP": 4500,
+   "BUY_SEED:STRAWBERRY": 3500,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 4659,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1310,
+   "BUY_ANIMAL:SHEEP": 5000,
+   "BUY_SEED:STRAWBERRY": 3500,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  }
+ },
+ {
+  "episode": "101493660",
+  "opponent": "Bohannn Wang",
+  "outcome": "LOSS",
+  "margin": -6316.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   111543.0,
+   105227.0
+  ],
+  "got": [
+   111355.0,
+   104934.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 13103,
+   "WHEAT": 8847,
+   "WOOL": 38937,
+   "MELON": 12126,
+   "STRAWBERRY": 48728,
+   "MILK": 3496,
+   "CARROT": 1107
+  },
+  "opp_rev": {
+   "WHEAT": 25800,
+   "FERTILIZER": 22759,
+   "WOOL": 30014,
+   "MILK": 7418,
+   "MELON": 17749,
+   "STRAWBERRY": 48675,
+   "CARROT": 656
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 4264,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1310,
+   "BUY_ANIMAL:SHEEP": 5000,
+   "BUY_SEED:STRAWBERRY": 3100,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 12735,
+   "BUY_SEED:WHEAT": 1870,
+   "BUY_SEED:MELON": 1200,
+   "BUY_ANIMAL:COW": 1600,
+   "BUY_ANIMAL:SHEEP": 4000,
+   "BUY_SEED:CARROT": 200,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_PRODUCT:FERTILIZER": 10766
+  }
+ },
+ {
+  "episode": "101446643",
+  "opponent": "Bohannn Wang",
+  "outcome": "LOSS",
+  "margin": -10971.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   116873.0,
+   105902.0
+  ],
+  "got": [
+   116711.0,
+   105669.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12645,
+   "WHEAT": 7277,
+   "WOOL": 55309,
+   "MELON": 11837,
+   "MILK": 23923,
+   "STRAWBERRY": 18074,
+   "CARROT": 984
+  },
+  "opp_rev": {
+   "WHEAT": 26133,
+   "FERTILIZER": 23590,
+   "WOOL": 27198,
+   "MILK": 41144,
+   "MELON": 17731,
+   "STRAWBERRY": 22407,
+   "CARROT": 656
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 4759,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1280,
+   "BUY_ANIMAL:SHEEP": 5000,
+   "BUY_SEED:STRAWBERRY": 3500,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 13176,
+   "BUY_SEED:WHEAT": 1870,
+   "BUY_SEED:MELON": 1200,
+   "BUY_ANIMAL:COW": 3200,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:CARROT": 200,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_PRODUCT:FERTILIZER": 11157
+  }
+ },
+ {
+  "episode": "101422203",
+  "opponent": "B\u1eedu Ph\u1ea1m Qu\u1ed1c",
+  "outcome": "LOSS",
+  "margin": -988.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   77572.0,
+   78560.0
+  ],
+  "got": [
+   75937.0,
+   78045.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12375,
+   "WHEAT": 7301,
+   "WOOL": 15685,
+   "MELON": 14488,
+   "MILK": 42756,
+   "STRAWBERRY": 6147,
+   "CARROT": 2373
+  },
+  "opp_rev": {
+   "WHEAT": 18811,
+   "FERTILIZER": 12674,
+   "WOOL": 16535,
+   "MILK": 32432,
+   "STRAWBERRY": 6226,
+   "MELON": 14024,
+   "EGG": 4211,
+   "CARROT": 672
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3800,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1400,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 8635,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_ANIMAL:SHEEP": 3000,
+   "BUY_SEED:WHEAT": 1710,
+   "BUY_SEED:STRAWBERRY": 2700,
+   "BUY_SEED:MELON": 880,
+   "BUY_ANIMAL:GOOSE": 900,
+   "BUY_SEED:CARROT": 80
+  }
+ },
+ {
+  "episode": "101417723",
+  "opponent": "B\u1eedu Ph\u1ea1m Qu\u1ed1c",
+  "outcome": "WIN",
+  "margin": 7909.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   92790.0,
+   100699.0
+  ],
+  "got": [
+   89950.0,
+   100401.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12220,
+   "WHEAT": 9470,
+   "WOOL": 6428,
+   "MELON": 14488,
+   "MILK": 24849,
+   "STRAWBERRY": 55992,
+   "CARROT": 2313
+  },
+  "opp_rev": {
+   "WHEAT": 22038,
+   "FERTILIZER": 12844,
+   "WOOL": 3904,
+   "MILK": 22264,
+   "STRAWBERRY": 36163,
+   "MELON": 14024,
+   "EGG": 5469,
+   "TOMATO": 1327
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3971,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1400,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 9114,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_ANIMAL:SHEEP": 3000,
+   "BUY_SEED:WHEAT": 1710,
+   "BUY_SEED:STRAWBERRY": 2600,
+   "BUY_SEED:MELON": 880,
+   "BUY_ANIMAL:GOOSE": 900,
+   "BUY_SEED:TOMATO": 100
+  }
+ },
+ {
+  "episode": "101348435",
+  "opponent": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -15033.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   95116.0,
+   110149.0
+  ],
+  "got": [
+   95009.0,
+   110043.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 11678,
+   "WHEAT": 11103,
+   "WOOL": 13306,
+   "MELON": 9975,
+   "STRAWBERRY": 33576,
+   "MILK": 37083,
+   "CARROT": 2275
+  },
+  "opp_rev": {
+   "FERTILIZER": 13405,
+   "WHEAT": 9742,
+   "WOOL": 15420,
+   "MELON": 9975,
+   "MILK": 46416,
+   "STRAWBERRY": 36981,
+   "CARROT": 2277
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3794,
+   "BUY_SEED:MELON": 560,
+   "BUY_SEED:WHEAT": 1360,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3800,
+   "BUY_ANIMAL:COW": 4000,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 3810,
+   "BUY_SEED:MELON": 560,
+   "BUY_SEED:WHEAT": 1390,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3300,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  }
+ },
+ {
+  "episode": "101328297",
+  "opponent": "Kaileh57",
+  "outcome": "LOSS",
+  "margin": -9697.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   50521.0,
+   40824.0
+  ],
+  "got": [
+   49483.0,
+   39786.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 11676,
+   "WHEAT": 10550,
+   "WOOL": 8223,
+   "MELON": 9975,
+   "STRAWBERRY": 12110,
+   "MILK": 8778,
+   "CARROT": 2373
+  },
+  "opp_rev": {
+   "FERTILIZER": 13403,
+   "WHEAT": 9239,
+   "WOOL": 10035,
+   "MELON": 9975,
+   "MILK": 11979,
+   "STRAWBERRY": 16558,
+   "CARROT": 2373
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3706,
+   "BUY_SEED:MELON": 560,
+   "BUY_SEED:WHEAT": 1360,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3800,
+   "BUY_ANIMAL:COW": 4000,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 3716,
+   "BUY_SEED:MELON": 560,
+   "BUY_SEED:WHEAT": 1390,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3300,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  }
+ },
+ {
+  "episode": "101035661",
+  "opponent": "Dmitry Larko",
+  "outcome": "WIN",
+  "margin": 1537.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   103289.0,
+   104826.0
+  ],
+  "got": [
+   103028.0,
+   104610.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12449,
+   "WHEAT": 9128,
+   "WOOL": 5118,
+   "MELON": 11209,
+   "MILK": 64179,
+   "STRAWBERRY": 24739,
+   "CARROT": 2186
+  },
+  "opp_rev": {
+   "FERTILIZER": 12647,
+   "WHEAT": 9160,
+   "WOOL": 5052,
+   "MELON": 11213,
+   "MILK": 63996,
+   "STRAWBERRY": 23165,
+   "CARROT": 2193
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3604,
+   "BUY_SEED:MELON": 640,
+   "BUY_SEED:WHEAT": 1390,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3800,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 3604,
+   "BUY_SEED:MELON": 640,
+   "BUY_SEED:WHEAT": 1390,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3800,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  }
+ },
+ {
+  "episode": "100853013",
+  "opponent": "yy",
+  "outcome": "WIN",
+  "margin": 1673.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   76300.0,
+   74627.0
+  ],
+  "got": [
+   74139.0,
+   73626.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12410,
+   "WHEAT": 7517,
+   "WOOL": 40144,
+   "MELON": 12596,
+   "MILK": 1313,
+   "STRAWBERRY": 23381,
+   "CARROT": 1008
+  },
+  "opp_rev": {
+   "WHEAT": 15146,
+   "FERTILIZER": 15701,
+   "WOOL": 22285,
+   "MILK": 7626,
+   "MELON": 15978,
+   "STRAWBERRY": 23872,
+   "CARROT": 504
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 4586,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1290,
+   "BUY_ANIMAL:SHEEP": 5000,
+   "BUY_SEED:STRAWBERRY": 3500,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 4720,
+   "BUY_SEED:WHEAT": 1870,
+   "BUY_SEED:MELON": 960,
+   "BUY_ANIMAL:COW": 3600,
+   "BUY_ANIMAL:SHEEP": 2500,
+   "BUY_SEED:CARROT": 120,
+   "BUY_SEED:STRAWBERRY": 4400,
+   "BUY_PRODUCT:FERTILIZER": 3018
+  }
+ },
+ {
+  "episode": "100841552",
+  "opponent": "yy",
+  "outcome": "LOSS",
+  "margin": -4062.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   123112.0,
+   119050.0
+  ],
+  "got": [
+   123066.0,
+   118955.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12141,
+   "WHEAT": 8407,
+   "WOOL": 6107,
+   "MELON": 12724,
+   "MILK": 29582,
+   "STRAWBERRY": 72692,
+   "CARROT": 2279
+  },
+  "opp_rev": {
+   "WHEAT": 15006,
+   "FERTILIZER": 16016,
+   "WOOL": 4369,
+   "MILK": 35772,
+   "MELON": 16001,
+   "STRAWBERRY": 63077,
+   "CARROT": 492
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3733,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1400,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 4838,
+   "BUY_SEED:WHEAT": 1870,
+   "BUY_SEED:MELON": 960,
+   "BUY_ANIMAL:COW": 3600,
+   "BUY_ANIMAL:SHEEP": 2500,
+   "BUY_SEED:CARROT": 120,
+   "BUY_SEED:STRAWBERRY": 4400,
+   "BUY_PRODUCT:FERTILIZER": 3081
+  }
+ },
+ {
+  "episode": "100469608",
+  "opponent": "lucaskna",
+  "outcome": "LOSS",
+  "margin": -17062.0,
+  "seat": 1,
+  "match": false,
+  "want": [
+   94986.0,
+   77924.0
+  ],
+  "got": [
+   93795.0,
+   76667.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 11862,
+   "WHEAT": 8427,
+   "WOOL": 18554,
+   "MELON": 9953,
+   "STRAWBERRY": 13412,
+   "MILK": 35444,
+   "CARROT": 2373
+  },
+  "opp_rev": {
+   "FERTILIZER": 13216,
+   "WHEAT": 91509,
+   "WOOL": 22016,
+   "MELON": 9989,
+   "MILK": 44307,
+   "STRAWBERRY": 18979,
+   "CARROT": 2373
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3565,
+   "BUY_SEED:MELON": 560,
+   "BUY_SEED:WHEAT": 1360,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3400,
+   "BUY_ANIMAL:COW": 4000,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 87831,
+   "BUY_SEED:MELON": 560,
+   "BUY_SEED:WHEAT": 1390,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 3700,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  }
+ },
+ {
+  "episode": "100301098",
+  "opponent": "srijan k.r keshri",
+  "outcome": "LOSS",
+  "margin": -18321.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   48663.0,
+   66984.0
+  ],
+  "got": [
+   47756.0,
+   62169.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12790,
+   "WHEAT": 9127,
+   "WOOL": 6232,
+   "MELON": 12052,
+   "MILK": 24697,
+   "STRAWBERRY": 5763,
+   "CARROT": 2373
+  },
+  "opp_rev": {
+   "FERTILIZER": 12216,
+   "WHEAT": 16044,
+   "WOOL": 4086,
+   "MILK": 23978,
+   "MELON": 19604,
+   "STRAWBERRY": 2516,
+   "TOMATO": 7127,
+   "CARROT": 378
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 3890,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1400,
+   "BUY_ANIMAL:SHEEP": 2000,
+   "BUY_SEED:STRAWBERRY": 4000,
+   "BUY_ANIMAL:COW": 4400,
+   "BUY_SEED:CARROT": 400
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 3486,
+   "BUY_ANIMAL:SHEEP": 1500,
+   "BUY_ANIMAL:COW": 3200,
+   "BUY_SEED:MELON": 1760,
+   "BUY_SEED:WHEAT": 1710,
+   "BUY_SEED:STRAWBERRY": 3600,
+   "BUY_SEED:TOMATO": 600,
+   "BUY_SEED:CARROT": 60
+  }
+ },
+ {
+  "episode": "100287270",
+  "opponent": "tangaii",
+  "outcome": "LOSS",
+  "margin": -2737.0,
+  "seat": 0,
+  "match": false,
+  "want": [
+   119553.0,
+   122290.0
+  ],
+  "got": [
+   119605.0,
+   122294.0
+  ],
+  "our_rev": {
+   "FERTILIZER": 12491,
+   "WHEAT": 8901,
+   "WOOL": 46592,
+   "MELON": 14201,
+   "STRAWBERRY": 19485,
+   "MILK": 38311,
+   "CARROT": 1032
+  },
+  "opp_rev": {
+   "FERTILIZER": 12682,
+   "WHEAT": 8718,
+   "WOOL": 48536,
+   "MELON": 14266,
+   "STRAWBERRY": 20235,
+   "MILK": 38402,
+   "CARROT": 862
+  },
+  "our_spend": {
+   "BUY_PRODUCT:WHEAT": 4262,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1310,
+   "BUY_ANIMAL:SHEEP": 5000,
+   "BUY_SEED:STRAWBERRY": 3100,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  },
+  "opp_spend": {
+   "BUY_PRODUCT:WHEAT": 4261,
+   "BUY_SEED:MELON": 880,
+   "BUY_SEED:WHEAT": 1310,
+   "BUY_ANIMAL:SHEEP": 5000,
+   "BUY_SEED:STRAWBERRY": 3100,
+   "BUY_ANIMAL:COW": 2400,
+   "BUY_SEED:CARROT": 240
+  }
+ }
+]

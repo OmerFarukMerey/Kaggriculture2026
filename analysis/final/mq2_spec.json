@@ -1,0 +1,230 @@
+{
+ "agents": {
+  "gtmq": "candidates/cand-gt-mq/main.py",
+  "v48mq": "candidates/cand-v48-mq/main.py",
+  "gt": "../kaggriculture-candidates/final/game-theoretic-master-discrete-optimizat/main.py",
+  "v48": "submissions/v48-2965-mirrorgate/main.py",
+  "harvestC": "../kaggriculture-candidates/current-harvest/main.py",
+  "demand": "../kaggriculture-candidates/current-demand-turn/main.py",
+  "v49": "submissions/v49-carrot-field-experiment/main.py",
+  "h2965": "../kaggriculture-candidates/latest-2965/main.py",
+  "p2950": "../kaggriculture-candidates/2950/main.py",
+  "p2945": "../kaggriculture-candidates/2945/main.py",
+  "thomas": "../kaggriculture-candidates/secondary-thomas/main.py",
+  "morewheat": "../kaggriculture-candidates/secondary-more-wheat/main.py",
+  "riskfeed": "../kaggriculture-candidates/secondary-risk-feed/main.py",
+  "popul": "../kaggriculture-candidates/secondary-population/main.py",
+  "top2": "../kaggriculture-candidates/latest-top2/main.py",
+  "soil": "../kaggriculture-candidates/secondary-soil/main.py"
+ },
+ "pairs": [
+  [
+   "v48mq",
+   "gtmq"
+  ],
+  [
+   "v48mq",
+   "harvestC"
+  ],
+  [
+   "v48",
+   "harvestC"
+  ],
+  [
+   "gtmq",
+   "harvestC"
+  ],
+  [
+   "gt",
+   "harvestC"
+  ],
+  [
+   "v48mq",
+   "demand"
+  ],
+  [
+   "v48",
+   "demand"
+  ],
+  [
+   "gtmq",
+   "demand"
+  ],
+  [
+   "gt",
+   "demand"
+  ],
+  [
+   "v48mq",
+   "v49"
+  ],
+  [
+   "v48",
+   "v49"
+  ],
+  [
+   "gtmq",
+   "v49"
+  ],
+  [
+   "gt",
+   "v49"
+  ],
+  [
+   "v48mq",
+   "h2965"
+  ],
+  [
+   "v48",
+   "h2965"
+  ],
+  [
+   "gtmq",
+   "h2965"
+  ],
+  [
+   "gt",
+   "h2965"
+  ],
+  [
+   "v48mq",
+   "p2950"
+  ],
+  [
+   "v48",
+   "p2950"
+  ],
+  [
+   "gtmq",
+   "p2950"
+  ],
+  [
+   "gt",
+   "p2950"
+  ],
+  [
+   "v48mq",
+   "p2945"
+  ],
+  [
+   "v48",
+   "p2945"
+  ],
+  [
+   "gtmq",
+   "p2945"
+  ],
+  [
+   "gt",
+   "p2945"
+  ],
+  [
+   "v48mq",
+   "thomas"
+  ],
+  [
+   "v48",
+   "thomas"
+  ],
+  [
+   "gtmq",
+   "thomas"
+  ],
+  [
+   "gt",
+   "thomas"
+  ],
+  [
+   "v48mq",
+   "morewheat"
+  ],
+  [
+   "v48",
+   "morewheat"
+  ],
+  [
+   "gtmq",
+   "morewheat"
+  ],
+  [
+   "gt",
+   "morewheat"
+  ],
+  [
+   "v48mq",
+   "riskfeed"
+  ],
+  [
+   "v48",
+   "riskfeed"
+  ],
+  [
+   "gtmq",
+   "riskfeed"
+  ],
+  [
+   "gt",
+   "riskfeed"
+  ],
+  [
+   "v48mq",
+   "popul"
+  ],
+  [
+   "v48",
+   "popul"
+  ],
+  [
+   "gtmq",
+   "popul"
+  ],
+  [
+   "gt",
+   "popul"
+  ],
+  [
+   "v48mq",
+   "top2"
+  ],
+  [
+   "v48",
+   "top2"
+  ],
+  [
+   "gtmq",
+   "top2"
+  ],
+  [
+   "gt",
+   "top2"
+  ],
+  [
+   "v48mq",
+   "soil"
+  ],
+  [
+   "v48",
+   "soil"
+  ],
+  [
+   "gtmq",
+   "soil"
+  ],
+  [
+   "gt",
+   "soil"
+  ]
+ ],
+ "seeds": [
+  64001,
+  64002,
+  64003,
+  64004,
+  64005,
+  64006
+ ],
+ "seats": [
+  0,
+  1
+ ]
+}

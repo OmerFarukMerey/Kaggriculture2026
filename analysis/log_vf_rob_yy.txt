@@ -1,0 +1,40 @@
+DISJOINTNESS ASSERTED: 12 verify seeds vs 29 used seeds; intersection=0, min|delta|=12776
+  seed= 60013 seat=0 A=  85464.0 B=  92938.0     -7474 L
+  seed= 60013 seat=1 A=  85464.0 B=  92938.0     -7474 L
+  seed= 60013 NOTE seat-symmetric (1 effective sample)
+  seed= 61403 seat=0 A=  74860.0 B=  82997.0     -8137 L
+  seed= 61403 seat=1 A=  74860.0 B=  82997.0     -8137 L
+  seed= 61403 NOTE seat-symmetric (1 effective sample)
+  seed= 62497 seat=0 A=  21732.0 B=  34060.0    -12328 L
+  seed= 62497 seat=1 A=  21704.0 B=  34031.0    -12327 L
+  seed= 63997 seat=0 A=  64522.0 B=  79218.0    -14696 L
+  seed= 63997 seat=1 A=  64522.0 B=  79218.0    -14696 L
+  seed= 63997 NOTE seat-symmetric (1 effective sample)
+  seed= 65003 seat=0 A=  39559.0 B=  50948.0    -11389 L
+  seed= 65003 seat=1 A=  52735.0 B=  63663.0    -10928 L
+  seed= 66103 seat=0 A=  65714.0 B=  82586.0    -16872 L
+  seed= 66103 seat=1 A=  65714.0 B=  82586.0    -16872 L
+  seed= 66103 NOTE seat-symmetric (1 effective sample)
+  seed= 67213 seat=0 A=  80518.0 B=  93732.0    -13214 L
+  seed= 67213 seat=1 A=  80518.0 B=  93732.0    -13214 L
+  seed= 67213 NOTE seat-symmetric (1 effective sample)
+  seed= 68389 seat=0 A= 139266.0 B= 144859.0     -5593 L
+  seed= 68389 seat=1 A= 139266.0 B= 144859.0     -5593 L
+  seed= 68389 NOTE seat-symmetric (1 effective sample)
+  seed= 69499 seat=0 A=  72032.0 B=  83361.0    -11329 L
+  seed= 69499 seat=1 A=  72032.0 B=  83361.0    -11329 L
+  seed= 69499 NOTE seat-symmetric (1 effective sample)
+  seed= 70607 seat=0 A= 120011.0 B= 138610.0    -18599 L
+  seed= 70607 seat=1 A= 120011.0 B= 138610.0    -18599 L
+  seed= 70607 NOTE seat-symmetric (1 effective sample)
+  seed= 71711 seat=0 A=  93688.0 B= 103451.0     -9763 L
+  seed= 71711 seat=1 A=  92650.0 B= 104968.0    -12318 L
+  seed= 72823 seat=0 A=  77538.0 B=  91868.0    -14330 L
+  seed= 72823 seat=1 A=  77538.0 B=  91868.0    -14330 L
+  seed= 72823 NOTE seat-symmetric (1 effective sample)
+
+A=cand_robust.py vs B=opp_yy  panel=VERIFY(disjoint)
+  W-L-T        0-24-0  of 24 games (15 effective samples)
+  wr(half)     0.000
+  mean margin  -12064  (diagnostic only)
+  wrote analysis\verify_cand_robust_vs_opp_yy_60013.json

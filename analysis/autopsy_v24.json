@@ -1,0 +1,488 @@
+[
+ {
+  "episode": "91970714",
+  "seat": 0,
+  "opponent": "chunhu666",
+  "our": 63882.0,
+  "their": 58521.0,
+  "margin": 5361.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91969768",
+  "seat": 0,
+  "opponent": "Seok, Jeongeum",
+  "our": 119151.0,
+  "their": 120857.0,
+  "margin": -1706.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91968815",
+  "seat": 0,
+  "opponent": "Yan",
+  "our": 71131.0,
+  "their": 73664.0,
+  "margin": -2533.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91967875",
+  "seat": 0,
+  "opponent": "Kaggs",
+  "our": 67432.0,
+  "their": 79449.0,
+  "margin": -12017.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91966931",
+  "seat": 1,
+  "opponent": "Mike Mordetsky",
+  "our": 97347.0,
+  "their": 92686.0,
+  "margin": 4661.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91965984",
+  "seat": 0,
+  "opponent": "Franklin T",
+  "our": 61292.0,
+  "their": 61190.0,
+  "margin": 102.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91965039",
+  "seat": 1,
+  "opponent": "Tran H Hoang",
+  "our": 107751.0,
+  "their": 104659.0,
+  "margin": 3092.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91964102",
+  "seat": 0,
+  "opponent": "Krasnov Daniil",
+  "our": 105097.0,
+  "their": 101078.0,
+  "margin": 4019.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91963322",
+  "seat": 0,
+  "opponent": "Zonglin Han",
+  "our": 76337.0,
+  "their": 72294.0,
+  "margin": 4043.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91963164",
+  "seat": 0,
+  "opponent": "WBF_USA_NYC",
+  "our": 132212.0,
+  "their": 131247.0,
+  "margin": 965.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91962222",
+  "seat": 0,
+  "opponent": "Syakirin Pahimi",
+  "our": 75944.0,
+  "their": 76929.0,
+  "margin": -985.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91961310",
+  "seat": 0,
+  "opponent": "Nat Bel ML Fun",
+  "our": 57410.0,
+  "their": 68022.0,
+  "margin": -10612.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91960333",
+  "seat": 1,
+  "opponent": "Vigneshwaran S",
+  "our": 86333.0,
+  "their": 81724.0,
+  "margin": 4609.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91959481",
+  "seat": 1,
+  "opponent": "stevenleehans",
+  "our": 80385.0,
+  "their": 75117.0,
+  "margin": 5268.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91959382",
+  "seat": 1,
+  "opponent": "Densike",
+  "our": 62444.0,
+  "their": 59046.0,
+  "margin": 3398.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91959392",
+  "seat": 0,
+  "opponent": "zran1t",
+  "our": 76080.0,
+  "their": 78131.0,
+  "margin": -2051.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91958600",
+  "seat": 1,
+  "opponent": "\u039bYM\u039eNRH",
+  "our": 47551.0,
+  "their": 42210.0,
+  "margin": 5341.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91958457",
+  "seat": 1,
+  "opponent": "Feng Jiahui",
+  "our": 96808.0,
+  "their": 92404.0,
+  "margin": 4404.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91957521",
+  "seat": 0,
+  "opponent": "Masashi Nishimoto",
+  "our": 75897.0,
+  "their": 76147.0,
+  "margin": -250.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91956770",
+  "seat": 0,
+  "opponent": "Epiphany_Thu",
+  "our": 44368.0,
+  "their": 31192.0,
+  "margin": 13176.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91956566",
+  "seat": 1,
+  "opponent": "Krasnov Daniil",
+  "our": 92629.0,
+  "their": 91500.0,
+  "margin": 1129.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91955621",
+  "seat": 1,
+  "opponent": "Pomiro",
+  "our": 66298.0,
+  "their": 61922.0,
+  "margin": 4376.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91954682",
+  "seat": 0,
+  "opponent": "morality0707",
+  "our": 72904.0,
+  "their": 68481.0,
+  "margin": 4423.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91953749",
+  "seat": 1,
+  "opponent": "Yassine Ben Zekri",
+  "our": 90941.0,
+  "their": 89230.0,
+  "margin": 1711.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91952802",
+  "seat": 0,
+  "opponent": "IskanderAkhmetov",
+  "our": 99759.0,
+  "their": 87501.0,
+  "margin": 12258.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91951864",
+  "seat": 0,
+  "opponent": "Igor Zharov",
+  "our": 136173.0,
+  "their": 93803.0,
+  "margin": 42370.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91950923",
+  "seat": 0,
+  "opponent": "Sagar_Mane104",
+  "our": 143288.0,
+  "their": 145293.0,
+  "margin": -2005.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91949983",
+  "seat": 1,
+  "opponent": "Utkarsh Prakash Srivastava",
+  "our": 79756.0,
+  "their": 90903.0,
+  "margin": -11147.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91949050",
+  "seat": 1,
+  "opponent": "Jeki Wan Taufik",
+  "our": 73915.0,
+  "their": 74230.0,
+  "margin": -315.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91948108",
+  "seat": 0,
+  "opponent": "Loren-wen",
+  "our": 59330.0,
+  "their": 46801.0,
+  "margin": 12529.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91947131",
+  "seat": 0,
+  "opponent": "Dheeraj Kumar #3",
+  "our": 83053.0,
+  "their": 84761.0,
+  "margin": -1708.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91946218",
+  "seat": 1,
+  "opponent": "Moroz Roman",
+  "our": 48173.0,
+  "their": 30348.0,
+  "margin": 17825.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91945279",
+  "seat": 1,
+  "opponent": "VN-Orion",
+  "our": 126073.0,
+  "their": 112789.0,
+  "margin": 13284.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91944343",
+  "seat": 0,
+  "opponent": "Tejash Rai",
+  "our": 108843.0,
+  "their": 110578.0,
+  "margin": -1735.0,
+  "outcome": "LOSS"
+ },
+ {
+  "episode": "91943404",
+  "seat": 1,
+  "opponent": "Dr Chandrasen Pandey",
+  "our": 79770.0,
+  "their": 70411.0,
+  "margin": 9359.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91942466",
+  "seat": 1,
+  "opponent": "Alex Lee",
+  "our": 78118.0,
+  "their": 63791.0,
+  "margin": 14327.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91941511",
+  "seat": 1,
+  "opponent": "CornHub Premium",
+  "our": 107740.0,
+  "their": 54293.0,
+  "margin": 53447.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91940582",
+  "seat": 0,
+  "opponent": "Avnish Sharma",
+  "our": 126921.0,
+  "their": 75135.0,
+  "margin": 51786.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91939641",
+  "seat": 1,
+  "opponent": "kss",
+  "our": 73578.0,
+  "their": 68696.0,
+  "margin": 4882.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91938703",
+  "seat": 0,
+  "opponent": "\u041f\u0435\u0442\u044c\u043e \u041b\u0430\u0437\u0430\u0440\u043e\u0432",
+  "our": 92718.0,
+  "their": 88497.0,
+  "margin": 4221.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91937756",
+  "seat": 1,
+  "opponent": "Chaotic Era",
+  "our": 47401.0,
+  "their": 32790.0,
+  "margin": 14611.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91936821",
+  "seat": 1,
+  "opponent": "kumk",
+  "our": 123075.0,
+  "their": 106607.0,
+  "margin": 16468.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91935882",
+  "seat": 0,
+  "opponent": "Prashant",
+  "our": 111487.0,
+  "their": 59205.0,
+  "margin": 52282.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91934952",
+  "seat": 0,
+  "opponent": "Fitzcarraldo",
+  "our": 76895.0,
+  "their": 64237.0,
+  "margin": 12658.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91934028",
+  "seat": 1,
+  "opponent": "Jonathan Zheng Jiahao",
+  "our": 76423.0,
+  "their": 63183.0,
+  "margin": 13240.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91933115",
+  "seat": 1,
+  "opponent": "The Coder Geek Squad Leader",
+  "our": 72224.0,
+  "their": 60295.0,
+  "margin": 11929.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91932171",
+  "seat": 0,
+  "opponent": "Justin Sabu Sebastian",
+  "our": 56383.0,
+  "their": 36050.0,
+  "margin": 20333.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91931247",
+  "seat": 0,
+  "opponent": "Leonardo Viola10",
+  "our": 70995.0,
+  "their": 68747.0,
+  "margin": 2248.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91930318",
+  "seat": 1,
+  "opponent": "Abhishek Dubey",
+  "our": 116612.0,
+  "their": 86277.0,
+  "margin": 30335.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91929403",
+  "seat": 0,
+  "opponent": "hxaxd",
+  "our": 79597.0,
+  "their": 44438.0,
+  "margin": 35159.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91928479",
+  "seat": 1,
+  "opponent": "Somasundar V",
+  "our": 84276.0,
+  "their": 47260.0,
+  "margin": 37016.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91927552",
+  "seat": 1,
+  "opponent": "Pavel Pakhmutov",
+  "our": 110161.0,
+  "their": 63534.0,
+  "margin": 46627.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91926627",
+  "seat": 0,
+  "opponent": "Victor Orihuel",
+  "our": 144622.0,
+  "their": 63142.0,
+  "margin": 81480.0,
+  "outcome": "WIN"
+ },
+ {
+  "episode": "91925712",
+  "seat": 1,
+  "opponent": "Manu Rahi",
+  "our": 110024.0,
+  "their": 25172.0,
+  "margin": 84852.0,
+  "outcome": "WIN"
+ }
+]

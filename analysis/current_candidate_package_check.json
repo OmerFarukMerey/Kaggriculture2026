@@ -1,0 +1,53 @@
+{
+  "a": "carrot-archive",
+  "b": "carrot-archive",
+  "seed": 632149,
+  "seat": 0,
+  "ar": 79492.0,
+  "br": 79492.0,
+  "m": 0.0,
+  "valid": true,
+  "failures": [],
+  "hashes": [
+    "24415f580b202a712d462228ebb5611c78cb067c90c654a9486d53bfa50fd1f0",
+    "24415f580b202a712d462228ebb5611c78cb067c90c654a9486d53bfa50fd1f0"
+  ],
+  "steps": 720,
+  "statuses": [
+    "DONE",
+    "DONE"
+  ],
+  "configuration": {
+    "episodeSteps": 720,
+    "seed": null,
+    "actTimeout": 1,
+    "runTimeout": 1200,
+    "boardSize": 10,
+    "startingMoney": 3000,
+    "maxMarketOrdersPerTurn": 10,
+    "turnsPerDay": 24,
+    "shedCapacity": 100,
+    "weedSpawnChance": 0.005,
+    "townShopUnlockInterval": 3,
+    "townShopSellInterval": 4,
+    "townCenterSellInterval": 24,
+    "farmHandCostMult": 1,
+    "marketParams": {}
+  },
+  "engine": "1.32.7",
+  "max_action_seconds": [
+    0.345016,
+    0.342982
+  ],
+  "overage_used": [
+    0,
+    0
+  ],
+  "elapsed": 8.786159900017083,
+  "archive_sha256": "3c2a49c37fa0b7c1391f32fa10faaae49b1dc2b0a5c9c39ec38d275724d4df77",
+  "source_sha256": "24415f580b202a712d462228ebb5611c78cb067c90c654a9486d53bfa50fd1f0",
+  "archive_members": [
+    "main.py"
+  ],
+  "promotion": "Not approved: trails v48 on matched external field"
+}

@@ -2,29 +2,33 @@
 
 A farming sim where two players compete to maximize their income from farming by selling to a dynamic market.
 
+Engine details below are checked against `kaggle-environments` 1.32.7, which reproduced
+the inspected live replays exactly. Treat the installed environment as authoritative for
+that version; public descriptions and future engine releases can differ.
+
 ## Overview
 
 Each player starts with an empty farm and a small amount of income (seed money, if you will). Each turn, they can perform actions such as moving around the board, purchasing seeds or livestock, planting seeds, watering plants, harvesting produce or animal products, and selling that produce at the market. The game runs for a fixed amount of time representing one season, and the winner is determined by who has the most money in the bank at the end.
 
 ## Object Types
 
-| Type | Yield Type | Seed Cost | Base Market Price | Time to First Yield | Time to Max Yield | Subsequent Yields | Max Yield | Action Cost | Max yield / tile / DAY |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Wheat** | One-time | 10 | 25 | 2 days | 4 days | none | 6 | 1 | 1.5 |
-| **Carrot** | One-time | 20 | 35 | 2 days | 3 days | none | 4 | 1 | 1.333 |
-| **Tomato** | Ongoing | 50 | 60 | 8 days | NA | every day | 4 | 1 | 4 |
-| **Strawberry** | Ongoing | 100 | 120 | 10 days | NA | every other day | 4 | 1 | 2 |
-| **Melon** | One-time | 80 | 250 | 10 days | 12 days | none | 6 | 1 | .5 |
-| **Goose/Egg** | Ongoing | 300 | 50 | 4 days | NA | every day | 4 | 1 \+ 1 (build coop) | 2 |
-| **Cow/Milk** | Ongoing | 400 | 160 | 8 days | NA | every two days | 6 | 1 \+ 1 (build pasture) | 1 |
-| **Sheep/Wool** | Ongoing | 500 | 200 | 6 days | NA | every three days | 6 | 1 \+ 1 (build pasture) | .67 |
-| **Fertilizer** | NA | 100 | X |  | X | X |  | 1 |  |
+| Type | Yield Type | Seed Cost | Base Market Price | Time to First Yield | Time to Max Yield | Subsequent Yields | Max Held Yield | Action Cost |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| **Wheat** | One-time | 10 | 25 | 2 days | 4 days | none | 6 | 1 |
+| **Carrot** | One-time | 20 | 35 | 2 days | 3 days | none | 4 | 1 |
+| **Tomato** | Ongoing | 50 | 60 | 8 days | NA | every day | 4 | 1 |
+| **Strawberry** | Ongoing | 100 | 120 | 10 days | NA | every other day | 4 | 1 |
+| **Melon** | One-time | 80 | 250 | 10 days | 12 days | none | 6 | 1 |
+| **Goose/Egg** | Ongoing | 300 | 50 | 4 days | NA | every day | 4 | 1 + 1 (build coop) |
+| **Cow/Milk** | Ongoing | 400 | 160 | 8 days | NA | every two days | 6 | 1 + 1 (build pasture) |
+| **Sheep/Wool** | Ongoing | 500 | 200 | 6 days | NA | every three days | 6 | 1 + 1 (build pasture) |
+| **Fertilizer** | NA | 100 | X | | X | X | | 1 |
 
 All plants must be watered every day. They will turn into weeds if they are not watered for two successive days. All animals must be fed every day using wheat. They will escape and be unrecoverable if they are not fed for two successive days. Wheat is also available to buy at the market and can be purchased at the current market price.
 
 ## Actions
 
-Each turn, the player may take one action. There are 24 turns per day, and 30 days in the season \- 720 total turns.
+There are 24 turns per day and `episodeSteps=720`. The SDK records 720 states, with actionable observations at steps 0 through 718. There is no final hour-23 automatic deposit: liquidate carried goods before the last action.
 
 ### Farmer / Farm Hand Action
 
@@ -66,10 +70,10 @@ Picks up an item from the shed (must be orthogonally adjacent) into the inventor
 
 CARE banks a yield bonus that is paid out on the animal's next scheduled production:
 
-* At end of day, if the animal was both fed AND cared for that day, `pending_care_bonus` increments by 2. Days where the animal was unfed do not bank a bonus (basic needs first).
-* On a scheduled production day, if the animal is fed, the entire banked bonus is added to that production's yield (in addition to the base 1) and the bank resets to 0.
-* If the animal is unfed on the production day, no yield is produced that day and the bank is also reset.
-* `pending_care_bonus` is capped indirectly by the per-animal `max_held` cap on `yield_units`.
+* Scheduled production is resolved first. A surviving animal produces base 1; if fed, its previously banked care bonus is also added, subject to the held-yield cap. The old bank then resets.
+* An unfed animal that has not yet escaped still produces base 1 on a scheduled production day, but receives no care bonus and loses the old bank.
+* After production, a fed AND cared-for animal banks 1 bonus for a later production.
+* The yield cap limits stored produce, not the care bank itself. Each surviving animal refreshes its available fertilizer independently of CARE.
 
 #### Terrain
 
@@ -132,7 +136,7 @@ Each player has their own farm with a set number of squares. Players are unable 
 - Functions as an inventory for items that are harvested but not yet sold, or for seeds that have not yet been planted  
 - Farmer and hired farm hands will spawn at the shed at the start of each day  
 - Farmer and hired farm hands drop their inventory at the end of the day in the shed (if there is room)  
-- Limited to 100 items, excluding seeds. Once the shed is full, any further items added (via `PLACE` mid-day or end-of-day inventory drop) are discarded — there is no overflow holding area, so stockpiling on farmer/hand inventories does not bypass the cap.
+- Limited to 100 items, excluding seeds. `PLACE` transfers only what fits and retains the excess in the actor's inventory. `DROP` and the automatic end-of-day deposit discard overflow, so carried stock does not bypass the cap overnight.
 
 ### Farmer/Farm Hand
 
@@ -151,11 +155,11 @@ Each player has their own farm with a set number of squares. Players are unable 
 
 ### Town Buildings
 
-As the season progresses, new shops unlock at regular intervals (every `townShopUnlockInterval` days, default 3). Each unlock is randomly selected from the shops that have not yet been added; once unlocked, a shop stays active for the rest of the game. Total demand grows monotonically as more shops unlock.
+New shops unlock every `townShopUnlockInterval` days (default 3), through eight unlocks. Selection is with replacement: duplicate shop types are allowed and each instance stays active. With defaults, unlocks occur on days 3, 6, ..., 24.
 
-Each unlocked shop consumes one of every product it demands every `townShopSellInterval` turns (default 4). So with the default interval, a shop demanding wheat removes 6 wheat from the market per day. Single-product shops consume 2x.
+Each unlocked shop instance consumes one of every product it demands every `townShopSellInterval` turns (default 4). A wheat-demanding shop therefore removes 6 wheat per day. Single-product shops consume 2x, and duplicate instances add their demand.
 
-In addition, the town center consumes one of every product (excluding fertilizer) every `townCenterSellInterval` turns (default 12). After day 10 this is increased to 2 of each, and after day 20 it is increased to 4 of each.
+The town center consumes one of every product except fertilizer every `townCenterSellInterval` turns (default 24). This does not increase on days 10 or 20.
 
 | Shop Type | Increases Demand For |
 | :---- | :---- |
@@ -195,21 +199,23 @@ price(inv) = base + sign · amp · f(|inv − I0|)
   sign = +1  if inv < I0   (scarcity → price up)
   sign = −1  if inv > I0   (glut    → price down)
   amp  = target · base / f(T)        (derived; not stored)
-  f    ∈ { linear, sq, sqrt, log, log10 }   (log uses ln(1+x), so f(0)=0)
+  f    ∈ { linear, sq, sqrt, log, log10, hinge }   (log uses ln(1+x))
 ```
 
-Floored at `$1` and rounded to the nearest dollar.
+For `hinge`, let `u = x/T`: `f(x,T) = u + 8 * max(0, u-1)^2`. It grows quadratically beyond the scarcity threshold.
 
-`T` is the production capacity of a single 5×5 field over a 24-day game at optimal watering with no fertilizer (animal totals are pre-discounted by 30% to account for wheat-feed overhead). `target` says "moving `T` units past `I0` shifts the price by `target × base`." Picking different `f` and `target` on each side lets resources with similar production profiles play very differently strategically — wheat panics on scarcity but absorbs gluts, carrot is the opposite; melon barely reacts to scarcity but crashes hard on overproduction; wool mirrors melon at a smaller scale. Premium resources (base > $100: strawberry, melon, milk, wool) use `above_target > 1`, so even modest gluts drive them straight to the $1 floor — bundling and timing sales matters more for these than for staples.
+Floored at `$1` and rounded with Python's `round` (ties to even).
+
+`T` is the fixed price-curve calibration throughput, not remaining production or a game-length setting. `target` means that moving `T` units past `I0` changes price by `target × base`. Wheat reacts strongly to scarcity but absorbs gluts; carrot, tomato and egg have a sharper hinge beyond their scarcity threshold. Premium resources (strawberry, melon, milk and wool) have `above_target > 1`, so modest gluts can drive prices to the $1 floor.
 
 | Resource | Base | I0 | T | Below func | Below target | Above func | Above target | P(I0−T) | P(I0+T) | P(I0+2T) |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Wheat** | 25 | 10,000 | 400 | sqrt | 0.80 | log | 0.20 | $45 | $20 | $19 |
-| **Carrot** | 35 | 10,000 | 450 | log | 0.20 | sqrt | 0.70 | $42 | $10 | $1 |
-| **Tomato** | 60 | 10,000 | 200 | linear | 0.40 | sqrt | 0.60 | $84 | $24 | $9 |
+| **Carrot** | 35 | 10,000 | 450 | hinge | 1.00 | sqrt | 0.70 | $70 | $10 | $1 |
+| **Tomato** | 60 | 10,000 | 200 | hinge | 0.40 | sqrt | 0.60 | $84 | $24 | $9 |
 | **Strawberry** | 120 | 10,000 | 100 | sqrt | 0.70 | linear | 1.60 | $204 | $1 | $1 |
 | **Melon** | 250 | 10,000 | 300 | log | 0.20 | sq | 3.60 | $300 | $1 | $1 |
-| **Egg** | 50 | 10,000 | 332 | linear | 0.40 | log | 0.20 | $70 | $40 | $39 |
+| **Egg** | 50 | 10,000 | 332 | hinge | 0.40 | log | 0.20 | $70 | $40 | $39 |
 | **Milk** | 160 | 10,000 | 122 | sqrt | 0.60 | linear | 1.60 | $256 | $1 | $1 |
 | **Wool** | 200 | 10,000 | 105 | log | 0.20 | sq | 3.20 | $240 | $1 | $1 |
 | **Fertilizer** | 100 | 10,000 | 200 | linear | 0.40 | linear | 0.40 | $140 | $60 | $20 |
@@ -218,15 +224,11 @@ The defaults live in `MARKET_PARAMS` in `kaggriculture.py`. Per-resource overrid
 
 ## Turn Processing Order
 
-1. **Action validation** — verify action legality  
-2. **Player actions** — record the actions taken by each player (happening simultaneously)  
-3. **Market actions** \- process market queue in order by player (described above)  
-4. **Town buy actions** \- town center and shops reduce inventory  
-5. **Update observations**  
-   - **Day refresh** — if applicable, update the condition of plants and animals for a new day, and reset their fed/watered to condition to false  
-   - **Market refresh** — modify the price of items on the market based on sells from previous turn  
-   - **Income update** — update the player’s bank based on any buys or sells  
-   - **Farm update** — clear plants that have been harvested, items from the inventory that have been used or sold, add new plants/animals to the farm, etc
+1. **Normalize actions and validate planting requests** against seeds already available before the market.
+2. **Apply unit actions**, farmer first and then hands. These mutate inventory immediately: a shed-adjacent DROP can fund this turn's sale, but a HARVEST stays in the actor's inventory. Seeds purchased later this turn cannot fund this turn's planting.
+3. **Process the first ten market slots** from both players, aligned by index. Empty/invalid entries retain their slots. For concurrent product trades, both unit prices are quoted before either unit is committed. Purchases, sales and hiring take effect here.
+4. **Apply town consumption and any end-of-day refresh**, including growth, animal care, cargo deposit, hand dismissal, weeds and eligible shop unlocks.
+5. **Refresh prices and observations**, then determine completion and cash rewards. Unsold inventory has no terminal value.
 
 ## Win Conditions
 
@@ -302,7 +304,7 @@ A `tile` is one of:
     "fed_today":            bool,
     "consecutive_unfed":    int,    # 2+ → animal escapes
     "cared_today":          bool,
-    "fertilizer_available": bool,   # set after CARE; cleared by COLLECT_FERTILIZER
+    "fertilizer_available": bool,   # daily refresh; cleared by COLLECT_FERTILIZER
     "pending_care_bonus":   int,    # banked CARE bonus, applied on the next yield tick
   }
   ```
@@ -340,6 +342,6 @@ Per-crop seed costs and per-product base prices are not configurable; they are d
 | weedSpawnChance | 0.005 | Per-tile probability of a weed spawning on an empty unlocked tile during end-of-day refresh |
 | townShopUnlockInterval | 3 | Days between successive town shop unlocks |
 | townShopSellInterval | 4 | Turns between consumption ticks by every unlocked town shop |
-| townCenterSellInterval | 12 | Turns between consumption ticks by the town center |
+| townCenterSellInterval | 24 | Turns between consumption ticks by the town center |
 | seed | null | Optional input seed for deterministic episode generation; cleared from config after read so it stays out of agent observations |
 

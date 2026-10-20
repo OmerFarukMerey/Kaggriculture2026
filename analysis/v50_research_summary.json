@@ -1,0 +1,227 @@
+{
+  "architecture": "v46 reactive farming and desired working stock; original net-inventory and adversarial market queue policy",
+  "build": {
+    "source": "submissions\\v50-adaptive-economy\\main.py",
+    "sha256": "97865d7e8ad3386ea87976191831af031b3ca9a2a626ca009b0c49c42c0fe751",
+    "module_sha256": {
+      "_engine": "19a3042b8b09a37d6e2835f0cec8ad2e8963b659f4b5b35b6f660bb467d3f377",
+      "mechanics": "e612ccf808516e5c3d0a7987b28ba8eaaa43cb4f6a4291f01086868b41d336bd",
+      "market": "7bd76d811385540a2914fbfa4b8b2e0bb102ad6fe92a0b35982e75c92c927d46",
+      "guided": "d703578c17b65ff32dad09f0255c0411067b510ec0012b0f9096b7e877f05739",
+      "native": "7abfd76adb60ca0817f7663d3cd166f0dec7dba614664c8e4888f0f17404dba3"
+    },
+    "guide": "submissions/v46-platform/main.py",
+    "reused": [
+      "submissions/v46-platform/main.py",
+      "kaggle-environments 1.32.7 deterministic rules"
+    ]
+  },
+  "archive": {
+    "engine": "1.32.7",
+    "seed": 632149,
+    "steps": 720,
+    "statuses": [
+      "DONE",
+      "DONE"
+    ],
+    "actions": [
+      719,
+      719
+    ],
+    "rewards": [
+      78357,
+      78357
+    ],
+    "max_action_seconds": [
+      0.616664,
+      0.624529
+    ],
+    "files_after": [
+      "main.py"
+    ],
+    "errors": [],
+    "valid": true,
+    "source_sha256": "97865d7e8ad3386ea87976191831af031b3ca9a2a626ca009b0c49c42c0fe751",
+    "archive_sha256": "40b33be9f84f0f3e1d658096b89d02543c0155e9f332487eaa575f0317bd2456",
+    "archive_bytes": 297760,
+    "members": [
+      "main.py"
+    ]
+  },
+  "holdout_plan": "analysis/v50_guided_holdout_plan.json",
+  "holdout_results": "analysis/v50_guided_frozen_holdout.json",
+  "opponent_hashes": {
+    "v46": "7abfd76adb60ca0817f7663d3cd166f0dec7dba614664c8e4888f0f17404dba3",
+    "v48": "531a423a43184bc5864714189595ec1dbbe3c873de48691b0ebd32fa0a2359bb",
+    "v49": "24415f580b202a712d462228ebb5611c78cb067c90c654a9486d53bfa50fd1f0",
+    "godmode": "f9588c469d2c1829e46593faeab7efe088a70f6c77d04a78800217350c812ae5",
+    "icefire": "18dce8a8613b09340cf6f325d9814d21cc7d870760c3099d4bd770b33ef63302"
+  },
+  "candidate": {
+    "games": 80,
+    "wins": 52,
+    "losses": 28,
+    "ties": 0,
+    "invalid": 0,
+    "mean_margin": 523.875,
+    "max_own_action_seconds": 0.655715,
+    "own_overage": 0
+  },
+  "candidate_common_field": {
+    "games": 48,
+    "wins": 32,
+    "losses": 16,
+    "ties": 0,
+    "invalid": 0,
+    "mean_margin": 742.6666666666666,
+    "max_own_action_seconds": 0.655715,
+    "own_overage": 0
+  },
+  "v48_common_field": {
+    "games": 48,
+    "wins": 34,
+    "losses": 10,
+    "ties": 4,
+    "invalid": 0,
+    "mean_margin": 943.3333333333334,
+    "max_own_action_seconds": 0.864036,
+    "own_overage": 0
+  },
+  "pairs": [
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs submissions/v46-platform/main.py",
+      "n": 16,
+      "w": 10,
+      "l": 6,
+      "t": 0,
+      "invalid": 0,
+      "margin": -1412,
+      "maxSeconds": 0.578881,
+      "overage": 0,
+      "mean": -88.25
+    },
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs submissions/v48-2965-mirrorgate/main.py",
+      "n": 16,
+      "w": 10,
+      "l": 6,
+      "t": 0,
+      "invalid": 0,
+      "margin": 7674,
+      "maxSeconds": 0.73384,
+      "overage": 0,
+      "mean": 479.625
+    },
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs submissions/v49-carrot-field-experiment/main.py",
+      "n": 16,
+      "w": 10,
+      "l": 6,
+      "t": 0,
+      "invalid": 0,
+      "margin": 6996,
+      "maxSeconds": 0.8007,
+      "overage": 0,
+      "mean": 437.25
+    },
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+      "n": 16,
+      "w": 10,
+      "l": 6,
+      "t": 0,
+      "invalid": 0,
+      "margin": 14024,
+      "maxSeconds": 0.604977,
+      "overage": 0,
+      "mean": 876.5
+    },
+    {
+      "pair": "submissions/v50-adaptive-economy/main.py vs candidates/opponent-icefire-entry/main.py",
+      "n": 16,
+      "w": 12,
+      "l": 4,
+      "t": 0,
+      "invalid": 0,
+      "margin": 14628,
+      "maxSeconds": 0.655715,
+      "overage": 0,
+      "mean": 914.25
+    },
+    {
+      "pair": "submissions/v48-2965-mirrorgate/main.py vs submissions/v49-carrot-field-experiment/main.py",
+      "n": 16,
+      "w": 6,
+      "l": 6,
+      "t": 4,
+      "invalid": 0,
+      "margin": 606,
+      "maxSeconds": 0.782942,
+      "overage": 0,
+      "mean": 37.875
+    },
+    {
+      "pair": "submissions/v48-2965-mirrorgate/main.py vs ../kaggriculture-candidates/current-godmode/gods_mode_hacked_stores/main.py",
+      "n": 16,
+      "w": 14,
+      "l": 2,
+      "t": 0,
+      "invalid": 0,
+      "margin": 20634,
+      "maxSeconds": 0.864036,
+      "overage": 0,
+      "mean": 1289.625
+    },
+    {
+      "pair": "submissions/v48-2965-mirrorgate/main.py vs candidates/opponent-icefire-entry/main.py",
+      "n": 16,
+      "w": 14,
+      "l": 2,
+      "t": 0,
+      "invalid": 0,
+      "margin": 24040,
+      "maxSeconds": 0.733653,
+      "overage": 0,
+      "mean": 1502.5
+    }
+  ],
+  "all_128_games_valid": true,
+  "source_hashes_verified": true,
+  "mechanics_regression_tests": 8,
+  "interpretation": "Wins 10-6 directly against each own v46/v48/v49 control; mixed overall evidence because v48 scores better on the identical three-opponent common field. A new strategy, not an established broad upgrade or live Elo improvement.",
+  "independence": "Eight seed blocks, both seats; opponents and seat results are correlated, not 128 independent worlds.",
+  "rejected_research": {
+    "sparse": "analysis/v50_rejected_sparse_summary.json",
+    "wide": "analysis/v50_wide_development.json",
+    "not_uploaded": true
+  },
+  "excluded_invalid_pilot": "analysis/v50_guided46_development.json",
+  "valid_development": "analysis/v50_guided46_valid_development.json",
+  "submission": {
+    "checked_at": "2026-09-29T13:07:56.167495+00:00",
+    "ref": 56676239,
+    "status": "COMPLETE",
+    "date": "2026-09-29 13:02:23.833000",
+    "description": "v50: original market policy + own v46 farming. 8 unseen paired seeds: 10-6 vs each v46/v48/v49; common field 32-16 vs v48 34-10-4. Verified standalone. SHA 97865d7e8ad3.",
+    "public_score": "600.0",
+    "recent_refs": [
+      56676239,
+      56666488,
+      56635809
+    ]
+  },
+  "upload_receipt": {
+    "at": "2026-09-29T13:02:23.347859+00:00",
+    "description": "v50: original market policy + own v46 farming. 8 unseen paired seeds: 10-6 vs each v46/v48/v49; common field 32-16 vs v48 34-10-4. Verified standalone. SHA 97865d7e8ad3.",
+    "response": "{\"message\": \"Successfully submitted to Kaggriculture\", \"ref\": 56676239}",
+    "source_sha256": "97865d7e8ad3386ea87976191831af031b3ca9a2a626ca009b0c49c42c0fe751",
+    "archive_sha256": "40b33be9f84f0f3e1d658096b89d02543c0155e9f332487eaa575f0317bd2456",
+    "archive_bytes": 297760
+  },
+  "cleaned_up": [
+    "analysis/_v50_verify.py",
+    "analysis/_v50_trace.py",
+    "analysis/_v50_archive_verify.py",
+    "local://v50_wait_submission.py"
+  ]
+}

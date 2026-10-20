@@ -1,0 +1,30 @@
+120 public completed episodes
+...0/120
+...20/120
+...40/120
+...60/120
+episode 98465514: download failed
+episode 98463157: download failed
+episode 98460950: download failed
+episode 98458655: download failed
+episode 98456367: download failed
+episode 98456385: download failed
+episode 98454066: download failed
+episode 98454194: download failed
+episode 98451758: download failed
+episode 98449467: download failed
+episode 98447174: download failed
+episode 98444932: download failed
+episode 98442582: download failed
+episode 98440281: download failed
+episode 98437994: download failed
+episode 98435717: download failed
+episode 98433428: download failed
+episode 98431144: download failed
+episode 98428858: download failed
+episode 98426577: download failed
+episode 98424283: download failed
+...100/120
+
+record: 66-28-5 of 99  winrate=0.667
+wrote analysis\autopsy_v43_live.json

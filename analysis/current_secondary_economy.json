@@ -1,0 +1,314 @@
+{
+  "manifest_version": 1,
+  "as_of_utc": "2026-09-28T20:55:47Z",
+  "scope": [
+    "statma/kaggriculture-thomas-2944-candidate",
+    "dmitriigluzdov/kaggriculture-more-wheat-smarter-sales",
+    "arsgorynich/herd-safe-v3-experimental-risk-aware-feed"
+  ],
+  "method": {
+    "retrieval": "Authenticated Kaggle CLI `kernels pull -m` and `kernels output`; output tar members were listed before extraction.",
+    "inspection": "Notebook JSON, Python AST, literal strings, and compressed/base64 payloads were inspected or decoded as data only. No notebook cell or downloaded policy was executed.",
+    "runtime_validation_performed": false,
+    "uploads_or_submissions_performed": false,
+    "comparison_baselines": {
+      "v48": {
+        "path": "kaggriculture/submissions/v48-2965-mirrorgate/main.py",
+        "sha256": "531a423a43184bc5864714189595ec1dbbe3c873de48691b0ebd32fa0a2359bb",
+        "summary": "Bundled fast-route router with fixed route continuations, clone gates, market ordering, and fail-closed outer action handling."
+      },
+      "current_harvest_v85": {
+        "path": "kaggriculture-candidates/current-harvest/main.py",
+        "sha256": "8cffc452c3023082f261d66ec068d8a285a3febea5d4d56de2b13792e2086d5e",
+        "summary": "Canonical Step1009 public-meta family representative; ordinary economics are the inherited V79-style stack, with empty-order tolerance and a V85 fail-closed interface guard."
+      }
+    }
+  },
+  "novelty_ranking": [
+    {
+      "rank": 1,
+      "candidate": "secondary-thomas",
+      "reason": "Largest policy-level departure: it runs the complete The 2945 Farm production/economy policy through turn 335, keeps a Herd-Safe controller synchronized in parallel, then hard-switches the entire controller at turn 336. This changes crop/animal allocation and the late-game controller, rather than adding only another sale-order wrapper. The constituents still share the broad public V39 ancestry, so it is a hybrid rather than an independent lineage."
+    },
+    {
+      "rank": 2,
+      "candidate": "secondary-risk-feed",
+      "reason": "Adds a real physical-input decision: a bounded extra WHEAT load for service runs containing already-at-risk animals, plus a confidence-gated four-turn opponent-sale forecast. It is more economically distinct than sale timing alone, but is an append-only derivative of the same Herd-Safe/public-meta parent."
+    },
+    {
+      "rank": 3,
+      "candidate": "secondary-more-wheat",
+      "reason": "Genuine opponent-aware timing change, but no productive route change: it broadens the existing forecast from one trajectory to a near-best frontier of at most three and front-runs if any predicts a sale. This is the most correlated candidate with the existing large wrapper stack."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "secondary-thomas",
+      "directory": "kaggriculture-candidates/secondary-thomas",
+      "notebook_ref": "statma/kaggriculture-thomas-2944-candidate",
+      "kaggle_id_no": 135458607,
+      "remote_last_run_utc": "2026-09-23T09:58:34.033Z",
+      "downloaded_at_utc": "2026-09-28T20:53:21.3766211Z",
+      "downloaded_version": {
+        "kaggle_script_version": null,
+        "self_reported": null,
+        "note": "The current Kaggle CLI metadata and listing expose the kernel id and last-run time but not a script version number."
+      },
+      "notebook_path": "kaggriculture-candidates/secondary-thomas/kaggriculture-thomas-2944-candidate.ipynb",
+      "extracted_main_path": "kaggriculture-candidates/secondary-thomas/main.py",
+      "required_sibling_paths": [],
+      "redistribution_notice_paths": [
+        "kaggriculture-candidates/secondary-thomas/LICENSE.txt",
+        "kaggriculture-candidates/secondary-thomas/NOTICE.txt"
+      ],
+      "optional_runtime_inputs": [
+        {
+          "environment_variable": "V92_SELL_LIB",
+          "effect": "During the Thomas phase, a set value is opened as a local JSON opponent-sale stream library. It is optional and absent by default; do not set it for a self-contained benchmark."
+        }
+      ],
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/secondary-thomas/main.py",
+          "sha256": "2714b6eb6c67fea70eb1dfd90fff0e25bbf15ea8c3391fadf890c7ae274bae70",
+          "role": "exact production policy extracted from the current output archive"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-thomas/submission.tar.gz",
+          "sha256": "4e0df6eb5e96158503dc31d3a4442511533a22ac4aa08738e03d2e39d731befc",
+          "role": "current Kaggle output archive; flat members LICENSE.txt, NOTICE.txt, main.py"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-thomas/LICENSE.txt",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "role": "Apache License 2.0 text"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-thomas/NOTICE.txt",
+          "sha256": "82f3cbdc5ee3b4dbbad054b2ba703a8370b6431af573adf10ad92964421e6ea7",
+          "role": "upstream attribution and provenance limitations"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-thomas/kaggriculture-thomas-2944-candidate.ipynb",
+          "sha256": "f85e5658ba321bb95ca123b91514d4ac43e79b0d259169ee9c6dd51b034da0d9",
+          "role": "current public notebook source; packaging cell only"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-thomas/kernel-metadata.json",
+          "sha256": "c09cb2811c6b87d4bbbcfab6fea97ae34efe4278a20d08849ea9fe10b0f750db",
+          "role": "Kaggle CLI metadata"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-thomas/kaggriculture-thomas-2944-candidate.log",
+          "sha256": "18ea8719944d39b738f612a8c58b89a5811be63b79ffc4ce9ae8688fa5256ac3",
+          "role": "current Kaggle run log"
+        }
+      ],
+      "decoded_components": [
+        {
+          "label": "thomas",
+          "sha256": "bfee70e9daaebeae0737a880f1df8f1c60d0783c59af620136cc0d28ef482bc7",
+          "bytes": 856428,
+          "finding": "Line-for-line equivalent after newline normalization to kaggriculture-candidates/2945/main.py; this is the complete The 2945 Farm policy, not training code."
+        },
+        {
+          "label": "herd_safe",
+          "sha256": "4889137f1adf1f9266b2ad5a6ac6700c40e9be6dfe3654e39db375fb55b71341",
+          "bytes": 1033759,
+          "finding": "Complete frozen Herd-Safe parent; it is kept state-synchronized from turn zero even while Thomas actions are returned."
+        }
+      ],
+      "license_evidence": {
+        "license": "Apache-2.0",
+        "evidence": "The archive includes the full Apache-2.0 LICENSE and a NOTICE naming the Order Book, V55/V56, Metav4, ShopRouter, Kaggle engine extract, Rescue, and Herd-Safe ancestry.",
+        "reuse_requirements": "Redistribution must retain LICENSE.txt, NOTICE.txt, and relevant source attribution/modification notices. The NOTICE expressly says the episode-level replay/provenance chain behind inherited route data was not supplied, so notebook licensing alone does not establish those underlying replay-data rights."
+      },
+      "policy_family": "Hard phase-switch hybrid: exact The 2945 Farm/public-V39 adaptive crop-and-herd stack for turns 0-335, then frozen Herd-Safe/public-meta controller for turns 336-718.",
+      "last_new_callable": "agent",
+      "entrypoint_concern": "No adapter is needed for a conventional module.agent consumer: the outer module's final newly defined callable is agent. The two embedded parents are executed into isolated namespaces. The turn-336 switch is explicit hardcoded dispatch and must not be mistaken for a learned selector.",
+      "policy_level_changes": [
+        "Returns The 2945 Farm actions before turn 336, including its price-aware WHEAT/CARROT substitution and animal-capital choices, rather than the fixed v48 fast-route continuations or Harvest's repeated market-closure tail.",
+        "Calls the Herd-Safe controller on every early turn solely to advance its state, then returns its actions from turn 336 onward; observations are deep-copied for both parents.",
+        "The Thomas component contains observable-opponent dispatch: early rival money/WHEAT inventory fingerprints can select a route and a fixed CT_TABLE can counter known opening order patterns.",
+        "Compared with current Harvest V85, this changes the production/controller schedule rather than adding malformed-action protection. Compared with v48, it replaces one fixed router with a two-policy temporal hybrid."
+      ],
+      "lineage_comparison": {
+        "thomas_component_vs_existing_2945_line_sequence_ratio": 1.0,
+        "note": "The outer policy is new composition, but neither constituent is a new independent policy family."
+      },
+      "safety_concerns": [
+        "main.py performs runtime zlib/base64 decode plus exec(compile(...)) of two bundled Python literals. Static decoding found no network or subprocess calls, but import-time dynamic execution remains a review boundary.",
+        "The Thomas component reads process environment variable V92_SELL_LIB and, if set, opens and JSON-parses that filesystem path. With the variable unset it uses an empty optional library. This is the only active filesystem/environment access found among the three candidates.",
+        "No hidden world-seed read or episode-id dispatch was found. There is hardcoded turn dispatch at step 336 and observable-opponent fingerprint dispatch inside the Thomas component.",
+        "Both embedded controllers retain module-global mutable state; isolate processes between games when the harness does not guarantee a clean sequential reset."
+      ]
+    },
+    {
+      "name": "secondary-risk-feed",
+      "directory": "kaggriculture-candidates/secondary-risk-feed",
+      "notebook_ref": "arsgorynich/herd-safe-v3-experimental-risk-aware-feed",
+      "kaggle_id_no": 135412620,
+      "remote_last_run_utc": "2026-09-23T10:15:04.340Z",
+      "downloaded_at_utc": "2026-09-28T20:53:21.1578898Z",
+      "downloaded_version": {
+        "kaggle_script_version": null,
+        "self_reported": "notebook version 2",
+        "note": "The notebook explicitly says the URL/title retain the historical Herd-Safe v3 name while the content is notebook version 2."
+      },
+      "notebook_path": "kaggriculture-candidates/secondary-risk-feed/herd-safe-v3-experimental-risk-aware-feed.ipynb",
+      "extracted_main_path": "kaggriculture-candidates/secondary-risk-feed/main.py",
+      "required_sibling_paths": [],
+      "redistribution_notice_paths": [
+        "kaggriculture-candidates/secondary-risk-feed/LICENSE.txt",
+        "kaggriculture-candidates/secondary-risk-feed/NOTICE.txt"
+      ],
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/secondary-risk-feed/main.py",
+          "sha256": "4f8637a3e33348b98f531de246d353f5d2955b2f85480e3fd02bf4a7874f0d01",
+          "role": "exact production policy from current Kaggle output"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-risk-feed/submission.tar.gz",
+          "sha256": "513932e656c4a7bbd15c062e0df79fc74e9dca98ce50572a10b7e610539b2ff5",
+          "role": "current Kaggle output archive; flat members LICENSE.txt, NOTICE.txt, main.py"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-risk-feed/LICENSE.txt",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "role": "Apache License 2.0 text"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-risk-feed/NOTICE.txt",
+          "sha256": "82f3cbdc5ee3b4dbbad054b2ba703a8370b6431af573adf10ad92964421e6ea7",
+          "role": "upstream attribution and provenance limitations"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-risk-feed/herd-safe-v3-experimental-risk-aware-feed.ipynb",
+          "sha256": "2cd2adab137d97841b31a87f87c7e1e5ccd05b21ee4c80a693bba5c100bec1b9",
+          "role": "current public notebook source; narrative, exact overlay, compressed source, and packaging cell"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-risk-feed/kernel-metadata.json",
+          "sha256": "8c8c1dd0c5d2972510fa47792226af2850a36c493c48593d2c05f461079d2960",
+          "role": "Kaggle CLI metadata"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-risk-feed/herd-safe-v3-experimental-risk-aware-feed.log",
+          "sha256": "f63b678b4c5f99808ae48a23f18b812e70bce226071bc337ca80bb1ef28055f4",
+          "role": "current Kaggle run log"
+        }
+      ],
+      "license_evidence": {
+        "license": "Apache-2.0",
+        "evidence": "The notebook credits Dmitrii Gluzdov's Herd-Safe Sale Window v2 and calls this an unofficial derivative; the archive includes the full license and inherited NOTICE.",
+        "reuse_requirements": "Retain LICENSE.txt, NOTICE.txt, and the derivative/upstream attribution. The inherited NOTICE records the same missing route replay-provenance limitation as secondary-thomas."
+      },
+      "policy_family": "Exact frozen Herd-Safe/public-meta parent plus opening-liquidity, risk-aware physical feed pickup, and confidence-gated four-turn opponent-sale forecast overlays.",
+      "last_new_callable": "herdsafe_forecast_agent",
+      "entrypoint_concern": "Adapter required when a harness imports a symbol named agent. The action-complete final callable is herdsafe_forecast_agent; module.agent and kaggle_submission_agent refer to earlier inner layers and would omit opening-liquidity, feed, and forecast overlays. Do not edit the downloaded source; bind the adapter externally.",
+      "policy_level_changes": [
+        "From turns 192-695, when the farmer is picking up WHEAT at the central shed, scans the remaining same-day planned service segment. For FEED targets already at consecutive_unfed >= 1, it can add at most two WHEAT to the pickup, while preserving scheduled hand pickups and a two-unit shed reserve.",
+        "Extends the inherited opponent-sale signal from two to four turns only when historical events for that product over the prior 240 turns have at least three +/-1-turn hits and at least 70% matched-event precision. Immediate one/two-turn signals are unchanged.",
+        "A qualifying prediction front-runs at most the quantity already scheduled for our own sale within the inherited 48-turn lookahead, for MILK, WOOL, or STRAWBERRY, subject to the ten-order cap.",
+        "Unlike current Harvest V85's interface-only guard, the feed layer changes carried physical inventory. Compared with v48, it uses observed sale-history matching and animal starvation state rather than fixed route/clone continuation gates."
+      ],
+      "lineage_comparison": {
+        "vs_secondary_more_wheat_line_sequence_ratio": 0.9896,
+        "vs_current_harvest_line_sequence_ratio": 0.8264,
+        "vs_v48_line_sequence_ratio": 0.827,
+        "parent_relationship": "The first 7046 lines are the exact frozen Herd-Safe parent; the risk-feed and forecast4 code is appended."
+      },
+      "safety_concerns": [
+        "No active filesystem, network, subprocess, process-environment, hidden-seed, or episode-id access was found. The inherited optional open(path) branch is dead because path is assigned None immediately before the guard.",
+        "Two literal Python strings are executed at import to install the frozen Kaggle unit model and terminal planner; both were AST-inspected as literals and contain no external access.",
+        "The source contains an inactive seed-based Mixed-opening branch, but _ALT_MODE is fixed to HybridOpening, so the downloaded policy does not dispatch on configuration seed.",
+        "The final wrapper prints HP_TELEMETRY on turn 718 and uses module-global per-player state. There is fixed turn-window dispatch, but no hardcoded episode/world selection."
+      ]
+    },
+    {
+      "name": "secondary-more-wheat",
+      "directory": "kaggriculture-candidates/secondary-more-wheat",
+      "notebook_ref": "dmitriigluzdov/kaggriculture-more-wheat-smarter-sales",
+      "kaggle_id_no": 133334715,
+      "remote_last_run_utc": "2026-09-22T15:44:23.697Z",
+      "downloaded_at_utc": "2026-09-28T20:53:20.7550795Z",
+      "downloaded_version": {
+        "kaggle_script_version": null,
+        "self_reported": "updated controller after notebook v8",
+        "note": "The notebook compares against previous notebook v8, but the Kaggle CLI does not expose the current script version; no numeric current version is asserted here."
+      },
+      "notebook_path": "kaggriculture-candidates/secondary-more-wheat/kaggriculture-more-wheat-smarter-sales.ipynb",
+      "extracted_main_path": "kaggriculture-candidates/secondary-more-wheat/main.py",
+      "required_sibling_paths": [],
+      "redistribution_notice_paths": [
+        "kaggriculture-candidates/secondary-more-wheat/LICENSE.txt",
+        "kaggriculture-candidates/secondary-more-wheat/NOTICE.txt"
+      ],
+      "artifacts": [
+        {
+          "path": "kaggriculture-candidates/secondary-more-wheat/main.py",
+          "sha256": "7ac1a2545ea285fa75b6a51b7ea0bbdb5f334f405f20e72b72f8188a1d898a35",
+          "role": "exact production policy extracted from the current output archive"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-more-wheat/submission.tar.gz",
+          "sha256": "a8d3bb1f485a9cc1ac92b6039b4cc28daa007a180564744f9bc592c462c8ec44",
+          "role": "current Kaggle output archive; flat members LICENSE.txt, NOTICE.txt, main.py"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-more-wheat/LICENSE.txt",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "role": "Apache License 2.0 text"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-more-wheat/NOTICE.txt",
+          "sha256": "4be01f012caf2eef36aef873cd4dfcbcc37378e905bb964a33aaabafcd366927",
+          "role": "upstream attribution and current integration notice"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-more-wheat/kaggriculture-more-wheat-smarter-sales.ipynb",
+          "sha256": "24c3c73cc845ea9ee6d19cf818a703cdc2ee206420d0f4218810f46b714985e7",
+          "role": "current public notebook source; narrative/evaluation plus embedded archive and local demonstration cells"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-more-wheat/kernel-metadata.json",
+          "sha256": "a26f614677f7c9ddab157217d0c872b46d1fcfb2142aaa4e933b6f3f62e72c1e",
+          "role": "Kaggle CLI metadata"
+        },
+        {
+          "path": "kaggriculture-candidates/secondary-more-wheat/kaggriculture-more-wheat-smarter-sales.log",
+          "sha256": "1416ac81a12c109c748592545380e5660be0cae5cdbdce43acceb2458b2e90b2",
+          "role": "current Kaggle run log"
+        }
+      ],
+      "license_evidence": {
+        "license": "Apache-2.0",
+        "evidence": "Notebook credits Order Book, V55/V56, Metav4, ShopRouter, and Rescue sources; the archive carries the full Apache-2.0 LICENSE and a detailed NOTICE through the bounded alternative-forecast modification.",
+        "reuse_requirements": "Retain LICENSE.txt, NOTICE.txt, embedded source notices, and modification attribution. The NOTICE says inherited public route data lacks a supplied episode-level provenance/replay-rights chain."
+      },
+      "policy_family": "Large public V39/Order Book/Rescue production stack with a bounded near-best opponent sale-trajectory frontier; productive routes remain unchanged.",
+      "last_new_callable": "rescue_agent",
+      "entrypoint_concern": "Adapter required when a harness imports a symbol named agent. The module's last newly defined callable is rescue_agent; it returns e402_agent actions unchanged while adding telemetry. kaggle_submission_agent points to e402_agent and is action-equivalent, but module.agent is an earlier inner wrapper. Prefer an external adapter to rescue_agent without editing the source.",
+      "policy_level_changes": [
+        "Scores historical sale-event trajectories matching the first two shops over a 240-turn window using +/-1-turn tolerance. When the strongest score is nonnegative, retains up to three trajectories within one score point of the best; negative support falls back to the inherited single top candidate.",
+        "If any retained trajectory predicts at least four units of MILK, WOOL, or STRAWBERRY sold in the next two turns, it may move forward our already planned quantity from the next 48 turns, limited by projected shed stock and the ten-order cap.",
+        "The changed frontier uses one-vote activation, not consensus. This is genuine opponent-aware market timing but can sell early on a wrong alternate trajectory.",
+        "No crop, herd, feed, or route schedule is changed by the notebook's delta. Against current Harvest V85 and v48 this is primarily a forecast-selection contrast within substantially shared public-meta ancestry."
+      ],
+      "lineage_comparison": {
+        "vs_secondary_risk_feed_line_sequence_ratio": 0.9896,
+        "vs_current_harvest_line_sequence_ratio": 0.8166,
+        "vs_current_demand_turn_line_sequence_ratio": 0.818,
+        "vs_v48_line_sequence_ratio": 0.8172,
+        "vs_frozen_herd_parent_line_sequence_ratio": 0.9975
+      },
+      "safety_concerns": [
+        "No active filesystem, network, subprocess, process-environment, hidden-seed, or episode-id access was found. The inherited optional open(path) branch is dead because path is assigned None immediately before the guard.",
+        "Two literal Python strings are executed at import to install the frozen Kaggle unit model and terminal planner; both were AST-inspected as literals and contain no external access.",
+        "The source contains an inactive seed-based Mixed-opening branch, but _ALT_MODE is fixed to HybridOpening, so the downloaded policy does not dispatch on configuration seed.",
+        "Uses module-global per-player caches and many fixed turn gates. No hardcoded episode/world dispatch was found."
+      ]
+    }
+  ]
+}

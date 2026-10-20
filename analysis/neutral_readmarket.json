@@ -1,0 +1,116 @@
+[
+ {
+  "opp": "readmarket.py",
+  "seed": 5000,
+  "seat": 0,
+  "edged_a": 126177.0,
+  "edged_b": 117907.0,
+  "stock_a": 126177.0,
+  "stock_b": 117907.0,
+  "edged_margin": 8270.0,
+  "stock_margin": 8270.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 3,
+   "units": 19,
+   "repays": 3,
+   "gated_out": 514,
+   "last_distance": 51
+  }
+ },
+ {
+  "opp": "readmarket.py",
+  "seed": 5000,
+  "seat": 1,
+  "edged_a": 126177.0,
+  "edged_b": 117907.0,
+  "stock_a": 126177.0,
+  "stock_b": 117907.0,
+  "edged_margin": 8270.0,
+  "stock_margin": 8270.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 3,
+   "units": 19,
+   "repays": 3,
+   "gated_out": 514,
+   "last_distance": 51
+  }
+ },
+ {
+  "opp": "readmarket.py",
+  "seed": 5013,
+  "seat": 0,
+  "edged_a": 80409.0,
+  "edged_b": 70485.0,
+  "stock_a": 80409.0,
+  "stock_b": 70485.0,
+  "edged_margin": 9924.0,
+  "stock_margin": 9924.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 3,
+   "units": 19,
+   "repays": 3,
+   "gated_out": 514,
+   "last_distance": 51
+  }
+ },
+ {
+  "opp": "readmarket.py",
+  "seed": 5013,
+  "seat": 1,
+  "edged_a": 80409.0,
+  "edged_b": 70485.0,
+  "stock_a": 80409.0,
+  "stock_b": 70485.0,
+  "edged_margin": 9924.0,
+  "stock_margin": 9924.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 3,
+   "units": 19,
+   "repays": 3,
+   "gated_out": 514,
+   "last_distance": 51
+  }
+ },
+ {
+  "opp": "readmarket.py",
+  "seed": 7013,
+  "seat": 0,
+  "edged_a": 69580.0,
+  "edged_b": 64442.0,
+  "stock_a": 69580.0,
+  "stock_b": 64442.0,
+  "edged_margin": 5138.0,
+  "stock_margin": 5138.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 3,
+   "units": 19,
+   "repays": 3,
+   "gated_out": 514,
+   "last_distance": 52
+  }
+ },
+ {
+  "opp": "readmarket.py",
+  "seed": 7013,
+  "seat": 1,
+  "edged_a": 69580.0,
+  "edged_b": 64442.0,
+  "stock_a": 69580.0,
+  "stock_b": 64442.0,
+  "edged_margin": 5138.0,
+  "stock_margin": 5138.0,
+  "drift": 0.0,
+  "tel": {
+   "borrows": 3,
+   "units": 19,
+   "repays": 3,
+   "gated_out": 514,
+   "last_distance": 52
+  }
+ }
+]

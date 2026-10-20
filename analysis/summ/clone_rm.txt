@@ -1,0 +1,4 @@
+rm vs readmarket: probed 80 episodes, clone(>=0.85)=41 share=0.512
+  frac distribution: [(1.0, 40), (0.0, 39), (0.9, 1)]
+  vs clones: 12-24-5
+  vs non-clones: 24-15-0
